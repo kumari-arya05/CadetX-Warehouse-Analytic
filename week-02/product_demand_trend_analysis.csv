@@ -1,0 +1,2161 @@
+product_id,order_month,total_quantity_sold,total_sales_value,product_name,category,brand
+P001,2019-01,513,16087680.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-02,429,13453440.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-03,642,20133120.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-04,549,17216640.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-05,748,23457280.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-06,732,22955520.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-07,860,26969600.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-08,622,19505920.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-09,580,18188800.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-10,654,20509440.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-11,587,18408320.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2019-12,586,18376960.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-01,777,24366720.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-02,450,14112000.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-03,608,19066880.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-04,663,20791680.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-05,745,23363200.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-06,525,16464000.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-07,811,25432960.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-08,825,25872000.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-09,545,17091200.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-10,467,14645120.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-11,616,19317760.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2020-12,558,17498880.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-01,541,16965760.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-02,538,16871680.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-03,534,16746240.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-04,712,22328320.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-05,632,19819520.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-06,497,15585920.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-07,574,18000640.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-08,727,22798720.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-09,628,19694080.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-10,732,22955520.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-11,643,20164480.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2021-12,743,23300480.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-01,606,19004160.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-02,595,18659200.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-03,688,21575680.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-04,637,19976320.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-05,803,25182080.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-06,634,19882240.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-07,635,19913600.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-08,662,20760320.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-09,576,18063360.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-10,680,21324800.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-11,492,15429120.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2022-12,710,22265600.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-01,631,19788160.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-02,631,19788160.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-03,791,24805760.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-04,626,19631360.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-05,453,14206080.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-06,638,20007680.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-07,640,20070400.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-08,570,17875200.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-09,697,21857920.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-10,652,20446720.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-11,647,20289920.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2023-12,639,20039040.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-01,600,18816000.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-02,636,19944960.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-03,489,15335040.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-04,544,17059840.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-05,592,18565120.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-06,682,21387520.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-07,534,16746240.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-08,612,19192320.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-09,733,22986880.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-10,712,22328320.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-11,611,19160960.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P001,2024-12,718,22516480.0,Hydraulic Pump HP-300,Hydraulic,CAT
+P002,2019-01,513,435844.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-02,487,413755.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-03,666,565833.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-04,657,558187.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-05,672,570931.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-06,597,507211.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-07,662,562435.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-08,761,646545.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-09,523,444340.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-10,590,501264.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-11,773,656740.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2019-12,698,593020.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-01,678,576028.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-02,560,475776.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-03,615,522504.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-04,594,504662.4,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-05,631,536097.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-06,585,497016.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-07,730,620208.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-08,771,655041.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-09,587,498715.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-10,506,429897.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-11,762,647395.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2020-12,483,410356.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-01,811,689025.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-02,747,634651.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-03,706,599817.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-04,637,541195.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-05,559,474926.4,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-06,498,423100.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-07,578,491068.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-08,547,464731.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-09,596,506361.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-10,892,757843.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-11,728,618508.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2021-12,736,625305.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-01,736,625305.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-02,502,426499.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-03,666,565833.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-04,582,494467.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-05,606,514857.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-06,572,485971.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-07,488,414604.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-08,715,607464.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-09,551,468129.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-10,525,446040.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-11,476,404409.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2022-12,606,514857.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-01,462,392515.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-02,544,462182.4,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-03,514,436694.4,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-04,700,594720.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-05,537,456235.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-06,607,515707.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-07,569,483422.4,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-08,689,585374.4,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-09,820,696672.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-10,471,400161.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-11,574,487670.4,Engine Oil Filter OF-90,Filters,JCB
+P002,2023-12,572,485971.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-01,729,619358.4,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-02,691,587073.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-03,675,573480.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-04,761,646545.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-05,562,477475.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-06,679,576878.4,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-07,631,536097.6,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-08,778,660988.8,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-09,584,496166.4,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-10,607,515707.2,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-11,715,607464.0,Engine Oil Filter OF-90,Filters,JCB
+P002,2024-12,710,603216.0,Engine Oil Filter OF-90,Filters,JCB
+P003,2019-01,537,792075.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-02,656,967600.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-03,601,886475.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-04,646,952850.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-05,852,1256700.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-06,542,799450.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-07,692,1020700.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-08,578,852550.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-09,584,861400.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-10,561,827475.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-11,669,986775.0,Air Filter AF-120,Filters,Komatsu
+P003,2019-12,561,827475.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-01,476,702100.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-02,679,1001525.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-03,594,876150.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-04,505,744875.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-05,833,1228675.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-06,522,769950.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-07,841,1240475.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-08,973,1435175.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-09,639,942525.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-10,611,901225.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-11,702,1035450.0,Air Filter AF-120,Filters,Komatsu
+P003,2020-12,512,755200.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-01,527,777325.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-02,627,924825.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-03,573,845175.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-04,566,834850.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-05,530,781750.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-06,609,898275.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-07,424,625400.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-08,747,1101825.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-09,623,918925.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-10,888,1309800.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-11,749,1104775.0,Air Filter AF-120,Filters,Komatsu
+P003,2021-12,697,1028075.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-01,628,926300.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-02,579,854025.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-03,513,756675.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-04,660,973500.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-05,703,1036925.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-06,611,901225.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-07,650,958750.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-08,676,997100.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-09,638,941050.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-10,586,864350.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-11,623,918925.0,Air Filter AF-120,Filters,Komatsu
+P003,2022-12,546,805350.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-01,613,904175.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-02,593,874675.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-03,697,1028075.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-04,674,994150.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-05,658,970550.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-06,577,851075.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-07,638,941050.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-08,759,1119525.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-09,619,913025.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-10,742,1094450.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-11,668,985300.0,Air Filter AF-120,Filters,Komatsu
+P003,2023-12,620,914500.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-01,732,1079700.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-02,696,1026600.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-03,682,1005950.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-04,466,687350.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-05,582,858450.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-06,575,848125.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-07,567,836325.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-08,469,691775.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-09,805,1187375.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-10,701,1033975.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-11,653,963175.0,Air Filter AF-120,Filters,Komatsu
+P003,2024-12,559,824525.0,Air Filter AF-120,Filters,Komatsu
+P004,2019-01,865,44066560.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-02,517,26338048.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-03,626,31890944.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-04,770,39226880.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-05,577,29394688.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-06,673,34285312.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-07,657,33470208.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-08,808,41162752.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-09,729,37138176.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-10,511,26032384.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-11,732,37291008.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2019-12,539,27458816.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-01,782,39838208.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-02,473,24096512.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-03,473,24096512.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-04,490,24962560.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-05,619,31534336.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-06,490,24962560.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-07,706,35966464.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-08,739,37647616.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-09,593,30209792.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-10,569,28987136.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-11,444,22619136.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2020-12,729,37138176.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-01,653,33266432.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-02,507,25828608.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-03,572,29139968.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-04,691,35202304.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-05,614,31279616.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-06,700,35660800.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-07,730,37189120.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-08,548,27917312.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-09,789,40194816.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-10,743,37851392.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-11,532,27102208.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2021-12,654,33317376.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-01,595,30311680.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-02,675,34387200.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-03,566,28834304.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-04,481,24504064.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-05,543,27662592.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-06,615,31330560.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-07,649,33062656.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-08,659,33572096.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-09,789,40194816.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-10,594,30260736.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-11,700,35660800.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2022-12,617,31432448.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-01,548,27917312.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-02,731,37240064.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-03,646,32909824.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-04,656,33419264.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-05,595,30311680.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-06,628,31992832.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-07,595,30311680.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-08,735,37443840.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-09,721,36730624.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-10,613,31228672.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-11,597,30413568.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2023-12,533,27153152.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-01,706,35966464.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-02,629,32043776.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-03,478,24351232.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-04,405,20632320.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-05,589,30006016.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-06,606,30872064.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-07,832,42385408.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-08,526,26796544.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-09,704,35864576.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-10,743,37851392.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-11,671,34183424.0,Track Chain TC-45,Undercarriage,Volvo
+P004,2024-12,761,38768384.0,Track Chain TC-45,Undercarriage,Volvo
+P005,2019-01,607,6565312.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-02,566,6121856.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-03,662,7160192.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-04,643,6954688.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-05,650,7030400.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-06,675,7300800.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-07,776,8393216.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-08,622,6727552.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-09,615,6651840.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-10,642,6943872.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-11,520,5624320.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2019-12,623,6738368.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-01,598,6467968.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-02,482,5213312.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-03,515,5570240.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-04,544,5883904.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-05,892,9647872.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-06,660,7138560.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-07,825,8923200.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-08,787,8512192.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-09,628,6792448.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-10,655,7084480.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-11,599,6478784.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2020-12,634,6857344.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-01,804,8696064.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-02,620,6705920.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-03,608,6576128.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-04,641,6933056.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-05,756,8176896.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-06,617,6673472.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-07,492,5321472.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-08,646,6987136.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-09,467,5051072.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-10,854,9236864.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-11,767,8295872.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2021-12,549,5937984.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-01,813,8793408.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-02,420,4542720.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-03,441,4769856.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-04,600,6489600.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-05,616,6662656.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-06,586,6338176.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-07,536,5797376.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-08,754,8155264.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-09,597,6457152.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-10,657,7106112.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-11,347,3753152.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2022-12,551,5959616.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-01,507,5483712.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-02,586,6338176.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-03,782,8458112.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-04,741,8014656.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-05,564,6100224.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-06,687,7430592.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-07,777,8404032.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-08,714,7722624.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-09,718,7765888.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-10,653,7062848.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-11,546,5905536.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2023-12,612,6619392.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-01,651,7041216.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-02,638,6900608.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-03,488,5278208.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-04,516,5581056.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-05,579,6262464.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-06,686,7419776.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-07,439,4748224.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-08,693,7495488.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-09,613,6630208.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-10,445,4813120.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-11,598,6467968.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P005,2024-12,634,6857344.0,Fuel Injector FI-220,Engine,Tata Hitachi
+P006,2019-01,474,6795264.0,Alternator ALT-500,Electrical,CAT
+P006,2019-02,623,8931328.0,Alternator ALT-500,Electrical,CAT
+P006,2019-03,579,8300544.0,Alternator ALT-500,Electrical,CAT
+P006,2019-04,434,6221824.0,Alternator ALT-500,Electrical,CAT
+P006,2019-05,507,7268352.0,Alternator ALT-500,Electrical,CAT
+P006,2019-06,632,9060352.0,Alternator ALT-500,Electrical,CAT
+P006,2019-07,715,10250240.0,Alternator ALT-500,Electrical,CAT
+P006,2019-08,477,6838272.0,Alternator ALT-500,Electrical,CAT
+P006,2019-09,559,8013824.0,Alternator ALT-500,Electrical,CAT
+P006,2019-10,697,9992192.0,Alternator ALT-500,Electrical,CAT
+P006,2019-11,595,8529920.0,Alternator ALT-500,Electrical,CAT
+P006,2019-12,595,8529920.0,Alternator ALT-500,Electrical,CAT
+P006,2020-01,612,8773632.0,Alternator ALT-500,Electrical,CAT
+P006,2020-02,344,4931584.0,Alternator ALT-500,Electrical,CAT
+P006,2020-03,516,7397376.0,Alternator ALT-500,Electrical,CAT
+P006,2020-04,516,7397376.0,Alternator ALT-500,Electrical,CAT
+P006,2020-05,794,11382784.0,Alternator ALT-500,Electrical,CAT
+P006,2020-06,659,9447424.0,Alternator ALT-500,Electrical,CAT
+P006,2020-07,921,13203456.0,Alternator ALT-500,Electrical,CAT
+P006,2020-08,801,11483136.0,Alternator ALT-500,Electrical,CAT
+P006,2020-09,750,10752000.0,Alternator ALT-500,Electrical,CAT
+P006,2020-10,594,8515584.0,Alternator ALT-500,Electrical,CAT
+P006,2020-11,608,8716288.0,Alternator ALT-500,Electrical,CAT
+P006,2020-12,774,11096064.0,Alternator ALT-500,Electrical,CAT
+P006,2021-01,694,9949184.0,Alternator ALT-500,Electrical,CAT
+P006,2021-02,849,12171264.0,Alternator ALT-500,Electrical,CAT
+P006,2021-03,700,10035200.0,Alternator ALT-500,Electrical,CAT
+P006,2021-04,587,8415232.0,Alternator ALT-500,Electrical,CAT
+P006,2021-05,608,8716288.0,Alternator ALT-500,Electrical,CAT
+P006,2021-06,661,9476096.0,Alternator ALT-500,Electrical,CAT
+P006,2021-07,451,6465536.0,Alternator ALT-500,Electrical,CAT
+P006,2021-08,736,10551296.0,Alternator ALT-500,Electrical,CAT
+P006,2021-09,636,9117696.0,Alternator ALT-500,Electrical,CAT
+P006,2021-10,707,10135552.0,Alternator ALT-500,Electrical,CAT
+P006,2021-11,744,10665984.0,Alternator ALT-500,Electrical,CAT
+P006,2021-12,715,10250240.0,Alternator ALT-500,Electrical,CAT
+P006,2022-01,606,8687616.0,Alternator ALT-500,Electrical,CAT
+P006,2022-02,722,10350592.0,Alternator ALT-500,Electrical,CAT
+P006,2022-03,773,11081728.0,Alternator ALT-500,Electrical,CAT
+P006,2022-04,565,8099840.0,Alternator ALT-500,Electrical,CAT
+P006,2022-05,692,9920512.0,Alternator ALT-500,Electrical,CAT
+P006,2022-06,552,7913472.0,Alternator ALT-500,Electrical,CAT
+P006,2022-07,652,9347072.0,Alternator ALT-500,Electrical,CAT
+P006,2022-08,640,9175040.0,Alternator ALT-500,Electrical,CAT
+P006,2022-09,810,11612160.0,Alternator ALT-500,Electrical,CAT
+P006,2022-10,558,7999488.0,Alternator ALT-500,Electrical,CAT
+P006,2022-11,610,8744960.0,Alternator ALT-500,Electrical,CAT
+P006,2022-12,600,8601600.0,Alternator ALT-500,Electrical,CAT
+P006,2023-01,662,9490432.0,Alternator ALT-500,Electrical,CAT
+P006,2023-02,730,10465280.0,Alternator ALT-500,Electrical,CAT
+P006,2023-03,635,9103360.0,Alternator ALT-500,Electrical,CAT
+P006,2023-04,675,9676800.0,Alternator ALT-500,Electrical,CAT
+P006,2023-05,688,9863168.0,Alternator ALT-500,Electrical,CAT
+P006,2023-06,724,10379264.0,Alternator ALT-500,Electrical,CAT
+P006,2023-07,771,11053056.0,Alternator ALT-500,Electrical,CAT
+P006,2023-08,672,9633792.0,Alternator ALT-500,Electrical,CAT
+P006,2023-09,822,11784192.0,Alternator ALT-500,Electrical,CAT
+P006,2023-10,595,8529920.0,Alternator ALT-500,Electrical,CAT
+P006,2023-11,551,7899136.0,Alternator ALT-500,Electrical,CAT
+P006,2023-12,588,8429568.0,Alternator ALT-500,Electrical,CAT
+P006,2024-01,812,11640832.0,Alternator ALT-500,Electrical,CAT
+P006,2024-02,726,10407936.0,Alternator ALT-500,Electrical,CAT
+P006,2024-03,652,9347072.0,Alternator ALT-500,Electrical,CAT
+P006,2024-04,688,9863168.0,Alternator ALT-500,Electrical,CAT
+P006,2024-05,565,8099840.0,Alternator ALT-500,Electrical,CAT
+P006,2024-06,553,7927808.0,Alternator ALT-500,Electrical,CAT
+P006,2024-07,678,9719808.0,Alternator ALT-500,Electrical,CAT
+P006,2024-08,748,10723328.0,Alternator ALT-500,Electrical,CAT
+P006,2024-09,701,10049536.0,Alternator ALT-500,Electrical,CAT
+P006,2024-10,783,11225088.0,Alternator ALT-500,Electrical,CAT
+P006,2024-11,541,7755776.0,Alternator ALT-500,Electrical,CAT
+P006,2024-12,527,7555072.0,Alternator ALT-500,Electrical,CAT
+P007,2019-01,517,884587.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-02,612,1047132.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-03,779,1332869.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-04,525,898275.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-05,601,1028311.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-06,777,1329447.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-07,563,963293.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-08,687,1175457.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-09,668,1142948.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-10,627,1072797.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-11,664,1136104.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2019-12,531,908541.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-01,584,999224.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-02,622,1064242.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-03,635,1086485.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-04,605,1035155.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-05,582,995802.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-06,673,1151503.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-07,823,1408153.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-08,761,1302071.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-09,571,976981.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-10,745,1274695.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-11,720,1231920.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2020-12,612,1047132.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-01,672,1149792.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-02,547,935917.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-03,549,939339.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-04,678,1160058.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-05,530,906830.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-06,666,1139526.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-07,713,1219943.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-08,721,1233631.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-09,659,1127549.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-10,902,1543322.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-11,711,1216521.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2021-12,794,1358534.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-01,487,833257.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-02,558,954738.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-03,889,1521079.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-04,628,1074508.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-05,729,1247319.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-06,599,1024889.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-07,682,1166902.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-08,608,1040288.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-09,681,1165191.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-10,594,1016334.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-11,690,1180590.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2022-12,791,1353401.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-01,550,941050.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-02,561,959871.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-03,690,1180590.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-04,577,987247.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-05,703,1202833.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-06,606,1036866.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-07,602,1030022.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-08,585,1000935.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-09,680,1163480.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-10,597,1021467.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-11,670,1146370.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2023-12,612,1047132.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-01,700,1197700.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-02,603,1031733.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-03,556,951316.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-04,499,853789.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-05,677,1158347.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-06,599,1024889.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-07,666,1139526.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-08,733,1254163.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-09,636,1088196.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-10,689,1178879.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-11,518,886298.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P007,2024-12,597,1021467.0,Hydraulic Hose HH-60,Hydraulic,JCB
+P008,2019-01,586,401058.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-02,515,352466.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-03,620,424328.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-04,823,563261.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-05,609,416799.6,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-06,500,342200.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-07,857,586530.7999999999,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-08,700,479080.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-09,516,353150.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-10,514,351781.6,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-11,582,398320.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2019-12,597,408586.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-01,490,335356.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-02,608,416115.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-03,664,454441.6,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-04,536,366838.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-05,747,511246.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-06,731,500296.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-07,687,470182.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-08,616,421590.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-09,557,381210.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-10,700,479080.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-11,662,453072.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2020-12,786,537938.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-01,630,431172.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-02,645,441438.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-03,484,331249.6,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-04,593,405849.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-05,678,464023.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-06,522,357256.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-07,676,462654.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-08,614,420221.6,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-09,866,592690.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-10,663,453757.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-11,603,412693.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2021-12,545,372998.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-01,551,377104.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-02,642,439384.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-03,485,331934.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-04,657,449650.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-05,805,550942.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-06,484,331249.6,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-07,748,511931.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-08,460,314824.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-09,527,360678.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-10,747,511246.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-11,686,469498.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2022-12,597,408586.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-01,834,570789.6,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-02,416,284710.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-03,609,416799.6,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-04,695,475658.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-05,525,359310.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-06,506,346306.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-07,640,438016.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-08,663,453757.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-09,835,571474.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-10,575,393530.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-11,522,357256.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2023-12,667,456494.8,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-01,583,399005.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-02,685,468814.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-03,655,448282.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-04,640,438016.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-05,673,460601.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-06,768,525619.2,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-07,609,416799.6,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-08,714,488661.6,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-09,495,338778.0,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-10,536,366838.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-11,666,455810.4,Bucket Tooth BT-10,Attachments,Komatsu
+P008,2024-12,754,516037.6,Bucket Tooth BT-10,Attachments,Komatsu
+P009,2019-01,578,11023616.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-02,465,8868480.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-03,801,15276672.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-04,587,11195264.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-05,690,13159680.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-06,745,14208640.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-07,669,12759168.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-08,808,15410176.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-09,460,8773120.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-10,590,11252480.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-11,661,12606592.0,Starter Motor SM-700,Electrical,Volvo
+P009,2019-12,643,12263296.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-01,610,11633920.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-02,643,12263296.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-03,591,11271552.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-04,526,10031872.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-05,878,16745216.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-06,609,11614848.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-07,853,16268416.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-08,697,13293184.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-09,654,12473088.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-10,552,10527744.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-11,668,12740096.0,Starter Motor SM-700,Electrical,Volvo
+P009,2020-12,867,16535424.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-01,556,10604032.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-02,453,8639616.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-03,586,11176192.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-04,559,10661248.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-05,541,10317952.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-06,514,9803008.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-07,711,13560192.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-08,585,11157120.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-09,714,13617408.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-10,804,15333888.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-11,682,13007104.0,Starter Motor SM-700,Electrical,Volvo
+P009,2021-12,682,13007104.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-01,626,11939072.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-02,455,8677760.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-03,593,11309696.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-04,569,10851968.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-05,687,13102464.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-06,439,8372608.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-07,657,12530304.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-08,750,14304000.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-09,689,13140608.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-10,580,11061760.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-11,673,12835456.0,Starter Motor SM-700,Electrical,Volvo
+P009,2022-12,585,11157120.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-01,596,11366912.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-02,477,9097344.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-03,570,10871040.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-04,763,14551936.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-05,623,11881856.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-06,589,11233408.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-07,553,10546816.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-08,706,13464832.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-09,640,12206080.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-10,649,12377728.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-11,519,9898368.0,Starter Motor SM-700,Electrical,Volvo
+P009,2023-12,635,12110720.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-01,538,10260736.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-02,554,10565888.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-03,639,12187008.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-04,527,10050944.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-05,606,11557632.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-06,655,12492160.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-07,573,10928256.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-08,632,12053504.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-09,750,14304000.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-10,595,11347840.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-11,518,9879296.0,Starter Motor SM-700,Electrical,Volvo
+P009,2024-12,504,9612288.0,Starter Motor SM-700,Electrical,Volvo
+P010,2019-01,743,33191296.0,Turbocharger TB-900,Engine,CAT
+P010,2019-02,370,16528640.0,Turbocharger TB-900,Engine,CAT
+P010,2019-03,683,30510976.0,Turbocharger TB-900,Engine,CAT
+P010,2019-04,757,33816704.0,Turbocharger TB-900,Engine,CAT
+P010,2019-05,729,32565888.0,Turbocharger TB-900,Engine,CAT
+P010,2019-06,608,27160576.0,Turbocharger TB-900,Engine,CAT
+P010,2019-07,758,33861376.0,Turbocharger TB-900,Engine,CAT
+P010,2019-08,674,30108928.0,Turbocharger TB-900,Engine,CAT
+P010,2019-09,605,27026560.0,Turbocharger TB-900,Engine,CAT
+P010,2019-10,654,29215488.0,Turbocharger TB-900,Engine,CAT
+P010,2019-11,751,33548672.0,Turbocharger TB-900,Engine,CAT
+P010,2019-12,779,34799488.0,Turbocharger TB-900,Engine,CAT
+P010,2020-01,581,25954432.0,Turbocharger TB-900,Engine,CAT
+P010,2020-02,641,28634752.0,Turbocharger TB-900,Engine,CAT
+P010,2020-03,813,36318336.0,Turbocharger TB-900,Engine,CAT
+P010,2020-04,711,31761792.0,Turbocharger TB-900,Engine,CAT
+P010,2020-05,691,30868352.0,Turbocharger TB-900,Engine,CAT
+P010,2020-06,593,26490496.0,Turbocharger TB-900,Engine,CAT
+P010,2020-07,754,33682688.0,Turbocharger TB-900,Engine,CAT
+P010,2020-08,747,33369984.0,Turbocharger TB-900,Engine,CAT
+P010,2020-09,636,28411392.0,Turbocharger TB-900,Engine,CAT
+P010,2020-10,698,31181056.0,Turbocharger TB-900,Engine,CAT
+P010,2020-11,791,35335552.0,Turbocharger TB-900,Engine,CAT
+P010,2020-12,618,27607296.0,Turbocharger TB-900,Engine,CAT
+P010,2021-01,552,24658944.0,Turbocharger TB-900,Engine,CAT
+P010,2021-02,604,26981888.0,Turbocharger TB-900,Engine,CAT
+P010,2021-03,512,22872064.0,Turbocharger TB-900,Engine,CAT
+P010,2021-04,601,26847872.0,Turbocharger TB-900,Engine,CAT
+P010,2021-05,606,27071232.0,Turbocharger TB-900,Engine,CAT
+P010,2021-06,531,23720832.0,Turbocharger TB-900,Engine,CAT
+P010,2021-07,731,32655232.0,Turbocharger TB-900,Engine,CAT
+P010,2021-08,805,35960960.0,Turbocharger TB-900,Engine,CAT
+P010,2021-09,640,28590080.0,Turbocharger TB-900,Engine,CAT
+P010,2021-10,590,26356480.0,Turbocharger TB-900,Engine,CAT
+P010,2021-11,787,35156864.0,Turbocharger TB-900,Engine,CAT
+P010,2021-12,732,32699904.0,Turbocharger TB-900,Engine,CAT
+P010,2022-01,599,26758528.0,Turbocharger TB-900,Engine,CAT
+P010,2022-02,603,26937216.0,Turbocharger TB-900,Engine,CAT
+P010,2022-03,619,27651968.0,Turbocharger TB-900,Engine,CAT
+P010,2022-04,586,26177792.0,Turbocharger TB-900,Engine,CAT
+P010,2022-05,678,30287616.0,Turbocharger TB-900,Engine,CAT
+P010,2022-06,719,32119168.0,Turbocharger TB-900,Engine,CAT
+P010,2022-07,494,22067968.0,Turbocharger TB-900,Engine,CAT
+P010,2022-08,576,25731072.0,Turbocharger TB-900,Engine,CAT
+P010,2022-09,709,31672448.0,Turbocharger TB-900,Engine,CAT
+P010,2022-10,683,30510976.0,Turbocharger TB-900,Engine,CAT
+P010,2022-11,574,25641728.0,Turbocharger TB-900,Engine,CAT
+P010,2022-12,736,32878592.0,Turbocharger TB-900,Engine,CAT
+P010,2023-01,631,28188032.0,Turbocharger TB-900,Engine,CAT
+P010,2023-02,659,29438848.0,Turbocharger TB-900,Engine,CAT
+P010,2023-03,528,23586816.0,Turbocharger TB-900,Engine,CAT
+P010,2023-04,696,31091712.0,Turbocharger TB-900,Engine,CAT
+P010,2023-05,585,26133120.0,Turbocharger TB-900,Engine,CAT
+P010,2023-06,630,28143360.0,Turbocharger TB-900,Engine,CAT
+P010,2023-07,737,32923264.0,Turbocharger TB-900,Engine,CAT
+P010,2023-08,632,28232704.0,Turbocharger TB-900,Engine,CAT
+P010,2023-09,925,41321600.0,Turbocharger TB-900,Engine,CAT
+P010,2023-10,721,32208512.0,Turbocharger TB-900,Engine,CAT
+P010,2023-11,648,28947456.0,Turbocharger TB-900,Engine,CAT
+P010,2023-12,598,26713856.0,Turbocharger TB-900,Engine,CAT
+P010,2024-01,622,27785984.0,Turbocharger TB-900,Engine,CAT
+P010,2024-02,597,26669184.0,Turbocharger TB-900,Engine,CAT
+P010,2024-03,570,25463040.0,Turbocharger TB-900,Engine,CAT
+P010,2024-04,564,25195008.0,Turbocharger TB-900,Engine,CAT
+P010,2024-05,680,30376960.0,Turbocharger TB-900,Engine,CAT
+P010,2024-06,684,30555648.0,Turbocharger TB-900,Engine,CAT
+P010,2024-07,702,31359744.0,Turbocharger TB-900,Engine,CAT
+P010,2024-08,646,28858112.0,Turbocharger TB-900,Engine,CAT
+P010,2024-09,572,25552384.0,Turbocharger TB-900,Engine,CAT
+P010,2024-10,756,33772032.0,Turbocharger TB-900,Engine,CAT
+P010,2024-11,516,23050752.0,Turbocharger TB-900,Engine,CAT
+P010,2024-12,413,18449536.0,Turbocharger TB-900,Engine,CAT
+P011,2019-01,747,26390016.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-02,552,19501056.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-03,462,16321536.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-04,759,26813952.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-05,652,23033856.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-06,686,24235008.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-07,645,22786560.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-08,742,26213376.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-09,634,22397952.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-10,651,22998528.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-11,574,20278272.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2019-12,697,24623616.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-01,583,20596224.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-02,523,18476544.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-03,562,19854336.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-04,620,21903360.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-05,898,31724544.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-06,675,23846400.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-07,688,24305664.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-08,542,19147776.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-09,770,27202560.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-10,696,24588288.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-11,627,22150656.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2020-12,720,25436160.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-01,643,22715904.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-02,469,16568832.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-03,707,24976896.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-04,680,24023040.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-05,568,20066304.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-06,567,20030976.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-07,623,22009344.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-08,656,23175168.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-09,455,16074240.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-10,784,27697152.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-11,551,19465728.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2021-12,763,26955264.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-01,692,24446976.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-02,482,17028096.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-03,693,24482304.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-04,742,26213376.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-05,631,22291968.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-06,662,23387136.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-07,479,16922112.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-08,787,27803136.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-09,535,18900480.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-10,773,27308544.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-11,767,27096576.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2022-12,518,18299904.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-01,509,17981952.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-02,735,25966080.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-03,651,22998528.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-04,660,23316480.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-05,661,23351808.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-06,642,22680576.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-07,483,17063424.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-08,609,21514752.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-09,660,23316480.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-10,738,26072064.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-11,730,25789440.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2023-12,646,22821888.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-01,686,24235008.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-02,639,22574592.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-03,719,25400832.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-04,587,20737536.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-05,625,22080000.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-06,655,23139840.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-07,617,21797376.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-08,543,19183104.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-09,792,27979776.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-10,666,23528448.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-11,797,28156416.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P011,2024-12,630,22256640.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi
+P012,2019-01,609,1909824.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-02,480,1505280.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-03,600,1881600.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-04,849,2662464.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-05,795,2493120.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-06,708,2220288.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-07,800,2508800.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-08,775,2430400.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-09,754,2364544.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-10,750,2352000.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-11,428,1342208.0,Brake Pad BP-40,Brakes,JCB
+P012,2019-12,630,1975680.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-01,553,1734208.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-02,647,2028992.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-03,600,1881600.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-04,519,1627584.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-05,692,2170112.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-06,489,1533504.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-07,768,2408448.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-08,800,2508800.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-09,531,1665216.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-10,504,1580544.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-11,754,2364544.0,Brake Pad BP-40,Brakes,JCB
+P012,2020-12,763,2392768.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-01,753,2361408.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-02,673,2110528.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-03,701,2198336.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-04,573,1796928.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-05,720,2257920.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-06,602,1887872.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-07,627,1966272.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-08,520,1630720.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-09,571,1790656.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-10,563,1765568.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-11,723,2267328.0,Brake Pad BP-40,Brakes,JCB
+P012,2021-12,780,2446080.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-01,716,2245376.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-02,637,1997632.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-03,664,2082304.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-04,575,1803200.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-05,494,1549184.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-06,531,1665216.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-07,689,2160704.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-08,739,2317504.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-09,645,2022720.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-10,743,2330048.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-11,714,2239104.0,Brake Pad BP-40,Brakes,JCB
+P012,2022-12,674,2113664.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-01,536,1680896.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-02,649,2035264.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-03,697,2185792.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-04,594,1862784.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-05,721,2261056.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-06,549,1721664.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-07,538,1687168.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-08,609,1909824.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-09,732,2295552.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-10,611,1916096.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-11,591,1853376.0,Brake Pad BP-40,Brakes,JCB
+P012,2023-12,650,2038400.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-01,685,2148160.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-02,521,1633856.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-03,544,1705984.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-04,598,1875328.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-05,603,1891008.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-06,714,2239104.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-07,606,1900416.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-08,650,2038400.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-09,447,1401792.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-10,618,1938048.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-11,513,1608768.0,Brake Pad BP-40,Brakes,JCB
+P012,2024-12,571,1790656.0,Brake Pad BP-40,Brakes,JCB
+P013,2019-01,563,963293.0,Seal Kit SK-15,Seals,CAT
+P013,2019-02,445,761395.0,Seal Kit SK-15,Seals,CAT
+P013,2019-03,768,1314048.0,Seal Kit SK-15,Seals,CAT
+P013,2019-04,613,1048843.0,Seal Kit SK-15,Seals,CAT
+P013,2019-05,729,1247319.0,Seal Kit SK-15,Seals,CAT
+P013,2019-06,501,857211.0,Seal Kit SK-15,Seals,CAT
+P013,2019-07,473,809303.0,Seal Kit SK-15,Seals,CAT
+P013,2019-08,671,1148081.0,Seal Kit SK-15,Seals,CAT
+P013,2019-09,684,1170324.0,Seal Kit SK-15,Seals,CAT
+P013,2019-10,631,1079641.0,Seal Kit SK-15,Seals,CAT
+P013,2019-11,585,1000935.0,Seal Kit SK-15,Seals,CAT
+P013,2019-12,589,1007779.0,Seal Kit SK-15,Seals,CAT
+P013,2020-01,570,975270.0,Seal Kit SK-15,Seals,CAT
+P013,2020-02,536,917096.0,Seal Kit SK-15,Seals,CAT
+P013,2020-03,775,1326025.0,Seal Kit SK-15,Seals,CAT
+P013,2020-04,464,793904.0,Seal Kit SK-15,Seals,CAT
+P013,2020-05,644,1101884.0,Seal Kit SK-15,Seals,CAT
+P013,2020-06,431,737441.0,Seal Kit SK-15,Seals,CAT
+P013,2020-07,792,1355112.0,Seal Kit SK-15,Seals,CAT
+P013,2020-08,959,1640849.0,Seal Kit SK-15,Seals,CAT
+P013,2020-09,661,1130971.0,Seal Kit SK-15,Seals,CAT
+P013,2020-10,422,722042.0,Seal Kit SK-15,Seals,CAT
+P013,2020-11,559,956449.0,Seal Kit SK-15,Seals,CAT
+P013,2020-12,533,911963.0,Seal Kit SK-15,Seals,CAT
+P013,2021-01,644,1101884.0,Seal Kit SK-15,Seals,CAT
+P013,2021-02,658,1125838.0,Seal Kit SK-15,Seals,CAT
+P013,2021-03,518,886298.0,Seal Kit SK-15,Seals,CAT
+P013,2021-04,559,956449.0,Seal Kit SK-15,Seals,CAT
+P013,2021-05,714,1221654.0,Seal Kit SK-15,Seals,CAT
+P013,2021-06,779,1332869.0,Seal Kit SK-15,Seals,CAT
+P013,2021-07,518,886298.0,Seal Kit SK-15,Seals,CAT
+P013,2021-08,752,1286672.0,Seal Kit SK-15,Seals,CAT
+P013,2021-09,384,657024.0,Seal Kit SK-15,Seals,CAT
+P013,2021-10,599,1024889.0,Seal Kit SK-15,Seals,CAT
+P013,2021-11,697,1192567.0,Seal Kit SK-15,Seals,CAT
+P013,2021-12,692,1184012.0,Seal Kit SK-15,Seals,CAT
+P013,2022-01,768,1314048.0,Seal Kit SK-15,Seals,CAT
+P013,2022-02,606,1036866.0,Seal Kit SK-15,Seals,CAT
+P013,2022-03,597,1021467.0,Seal Kit SK-15,Seals,CAT
+P013,2022-04,674,1153214.0,Seal Kit SK-15,Seals,CAT
+P013,2022-05,720,1231920.0,Seal Kit SK-15,Seals,CAT
+P013,2022-06,578,988958.0,Seal Kit SK-15,Seals,CAT
+P013,2022-07,430,735730.0,Seal Kit SK-15,Seals,CAT
+P013,2022-08,600,1026600.0,Seal Kit SK-15,Seals,CAT
+P013,2022-09,608,1040288.0,Seal Kit SK-15,Seals,CAT
+P013,2022-10,665,1137815.0,Seal Kit SK-15,Seals,CAT
+P013,2022-11,632,1081352.0,Seal Kit SK-15,Seals,CAT
+P013,2022-12,598,1023178.0,Seal Kit SK-15,Seals,CAT
+P013,2023-01,502,858922.0,Seal Kit SK-15,Seals,CAT
+P013,2023-02,708,1211388.0,Seal Kit SK-15,Seals,CAT
+P013,2023-03,672,1149792.0,Seal Kit SK-15,Seals,CAT
+P013,2023-04,527,901697.0,Seal Kit SK-15,Seals,CAT
+P013,2023-05,517,884587.0,Seal Kit SK-15,Seals,CAT
+P013,2023-06,507,867477.0,Seal Kit SK-15,Seals,CAT
+P013,2023-07,695,1189145.0,Seal Kit SK-15,Seals,CAT
+P013,2023-08,633,1083063.0,Seal Kit SK-15,Seals,CAT
+P013,2023-09,557,953027.0,Seal Kit SK-15,Seals,CAT
+P013,2023-10,615,1052265.0,Seal Kit SK-15,Seals,CAT
+P013,2023-11,621,1062531.0,Seal Kit SK-15,Seals,CAT
+P013,2023-12,605,1035155.0,Seal Kit SK-15,Seals,CAT
+P013,2024-01,609,1041999.0,Seal Kit SK-15,Seals,CAT
+P013,2024-02,632,1081352.0,Seal Kit SK-15,Seals,CAT
+P013,2024-03,626,1071086.0,Seal Kit SK-15,Seals,CAT
+P013,2024-04,580,992380.0,Seal Kit SK-15,Seals,CAT
+P013,2024-05,577,987247.0,Seal Kit SK-15,Seals,CAT
+P013,2024-06,598,1023178.0,Seal Kit SK-15,Seals,CAT
+P013,2024-07,632,1081352.0,Seal Kit SK-15,Seals,CAT
+P013,2024-08,587,1004357.0,Seal Kit SK-15,Seals,CAT
+P013,2024-09,602,1030022.0,Seal Kit SK-15,Seals,CAT
+P013,2024-10,563,963293.0,Seal Kit SK-15,Seals,CAT
+P013,2024-11,630,1077930.0,Seal Kit SK-15,Seals,CAT
+P013,2024-12,698,1194278.0,Seal Kit SK-15,Seals,CAT
+P014,2019-01,680,72678400.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-02,477,50981760.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-03,737,78770560.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-04,611,65303680.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-05,553,59104640.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-06,693,74067840.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-07,531,56753280.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-08,634,67761920.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-09,467,49912960.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-10,627,67013760.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-11,642,68616960.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2019-12,479,51195520.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-01,725,77488000.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-02,486,51943680.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-03,517,55256960.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-04,625,66800000.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-05,752,80373760.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-06,593,63379840.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-07,865,92451200.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-08,724,77381120.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-09,600,64128000.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-10,523,55898240.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-11,593,63379840.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2020-12,804,85931520.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-01,856,91489280.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-02,659,70433920.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-03,637,68082560.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-04,631,67441280.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-05,554,59211520.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-06,507,54188160.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-07,590,63059200.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-08,577,61669760.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-09,560,59852800.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-10,625,66800000.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-11,574,61349120.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2021-12,663,70861440.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-01,645,68937600.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-02,419,44782720.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-03,632,67548160.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-04,591,63166080.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-05,693,74067840.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-06,529,56539520.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-07,605,64662400.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-08,677,72357760.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-09,696,74388480.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-10,771,82404480.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-11,817,87320960.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2022-12,648,69258240.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-01,522,55791360.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-02,691,73854080.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-03,762,81442560.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-04,677,72357760.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-05,585,62524800.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-06,424,45317120.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-07,625,66800000.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-08,649,69365120.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-09,591,63166080.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-10,622,66479360.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-11,522,55791360.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2023-12,562,60066560.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-01,648,69258240.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-02,657,70220160.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-03,606,64769280.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-04,815,87107200.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-05,586,62631680.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-06,463,49485440.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-07,642,68616960.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-08,585,62524800.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-09,714,76312320.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-10,713,76205440.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-11,692,73960960.0,Transmission Assembly TA-800,Transmission,Volvo
+P014,2024-12,588,62845440.0,Transmission Assembly TA-800,Transmission,Volvo
+P015,2019-01,756,115153920.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-02,598,91087360.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-03,654,99617280.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-04,649,98855680.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-05,693,105557760.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-06,503,76616960.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-07,790,120332800.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-08,665,101292800.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-09,501,76312320.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-10,662,100835840.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-11,571,86974720.0,Engine Block EB-600,Engine,Komatsu
+P015,2019-12,506,77073920.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-01,550,83776000.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-02,593,90325760.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-03,684,104186880.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-04,607,92458240.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-05,562,85603840.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-06,681,103729920.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-07,709,107994880.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-08,763,116220160.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-09,627,95504640.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-10,690,105100800.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-11,577,87888640.0,Engine Block EB-600,Engine,Komatsu
+P015,2020-12,591,90021120.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-01,670,102054400.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-02,687,104643840.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-03,614,93524480.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-04,650,99008000.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-05,521,79358720.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-06,683,104034560.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-07,491,74789120.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-08,639,97332480.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-09,654,99617280.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-10,580,88345600.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-11,657,100074240.0,Engine Block EB-600,Engine,Komatsu
+P015,2021-12,769,117134080.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-01,546,83166720.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-02,728,110888960.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-03,819,124750080.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-04,633,96418560.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-05,701,106776320.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-06,599,91239680.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-07,590,89868800.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-08,713,108604160.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-09,563,85756160.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-10,702,106928640.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-11,570,86822400.0,Engine Block EB-600,Engine,Komatsu
+P015,2022-12,521,79358720.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-01,539,82100480.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-02,504,76769280.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-03,727,110736640.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-04,882,134346240.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-05,585,89107200.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-06,619,94286080.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-07,588,89564160.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-08,758,115458560.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-09,668,101749760.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-10,643,97941760.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-11,570,86822400.0,Engine Block EB-600,Engine,Komatsu
+P015,2023-12,562,85603840.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-01,700,106624000.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-02,536,81643520.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-03,498,75855360.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-04,503,76616960.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-05,629,95809280.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-06,652,99312640.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-07,486,74027520.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-08,538,81948160.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-09,696,106014720.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-10,797,121399040.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-11,427,65040640.0,Engine Block EB-600,Engine,Komatsu
+P015,2024-12,633,96418560.0,Engine Block EB-600,Engine,Komatsu
+P016,2019-01,606,7293816.0,Radiator RD-250,Cooling,JCB
+P016,2019-02,343,4128348.0,Radiator RD-250,Cooling,JCB
+P016,2019-03,501,6030036.0,Radiator RD-250,Cooling,JCB
+P016,2019-04,587,7065132.0,Radiator RD-250,Cooling,JCB
+P016,2019-05,744,8954784.0,Radiator RD-250,Cooling,JCB
+P016,2019-06,667,8028012.0,Radiator RD-250,Cooling,JCB
+P016,2019-07,715,8605740.0,Radiator RD-250,Cooling,JCB
+P016,2019-08,732,8810352.0,Radiator RD-250,Cooling,JCB
+P016,2019-09,686,8256696.0,Radiator RD-250,Cooling,JCB
+P016,2019-10,524,6306864.0,Radiator RD-250,Cooling,JCB
+P016,2019-11,637,7666932.0,Radiator RD-250,Cooling,JCB
+P016,2019-12,644,7751184.0,Radiator RD-250,Cooling,JCB
+P016,2020-01,610,7341960.0,Radiator RD-250,Cooling,JCB
+P016,2020-02,662,7967832.0,Radiator RD-250,Cooling,JCB
+P016,2020-03,669,8052084.0,Radiator RD-250,Cooling,JCB
+P016,2020-04,608,7317888.0,Radiator RD-250,Cooling,JCB
+P016,2020-05,607,7305852.0,Radiator RD-250,Cooling,JCB
+P016,2020-06,711,8557596.0,Radiator RD-250,Cooling,JCB
+P016,2020-07,899,10820364.0,Radiator RD-250,Cooling,JCB
+P016,2020-08,776,9339936.0,Radiator RD-250,Cooling,JCB
+P016,2020-09,668,8040048.0,Radiator RD-250,Cooling,JCB
+P016,2020-10,578,6956808.0,Radiator RD-250,Cooling,JCB
+P016,2020-11,569,6848484.0,Radiator RD-250,Cooling,JCB
+P016,2020-12,681,8196516.0,Radiator RD-250,Cooling,JCB
+P016,2021-01,586,7053096.0,Radiator RD-250,Cooling,JCB
+P016,2021-02,565,6800340.0,Radiator RD-250,Cooling,JCB
+P016,2021-03,728,8762208.0,Radiator RD-250,Cooling,JCB
+P016,2021-04,593,7137348.0,Radiator RD-250,Cooling,JCB
+P016,2021-05,679,8172444.0,Radiator RD-250,Cooling,JCB
+P016,2021-06,597,7185492.0,Radiator RD-250,Cooling,JCB
+P016,2021-07,772,9291792.0,Radiator RD-250,Cooling,JCB
+P016,2021-08,679,8172444.0,Radiator RD-250,Cooling,JCB
+P016,2021-09,385,4633860.0,Radiator RD-250,Cooling,JCB
+P016,2021-10,617,7426212.0,Radiator RD-250,Cooling,JCB
+P016,2021-11,671,8076156.0,Radiator RD-250,Cooling,JCB
+P016,2021-12,864,10399104.0,Radiator RD-250,Cooling,JCB
+P016,2022-01,771,9279756.0,Radiator RD-250,Cooling,JCB
+P016,2022-02,411,4946796.0,Radiator RD-250,Cooling,JCB
+P016,2022-03,818,9845448.0,Radiator RD-250,Cooling,JCB
+P016,2022-04,670,8064120.0,Radiator RD-250,Cooling,JCB
+P016,2022-05,829,9977844.0,Radiator RD-250,Cooling,JCB
+P016,2022-06,670,8064120.0,Radiator RD-250,Cooling,JCB
+P016,2022-07,651,7835436.0,Radiator RD-250,Cooling,JCB
+P016,2022-08,667,8028012.0,Radiator RD-250,Cooling,JCB
+P016,2022-09,550,6619800.0,Radiator RD-250,Cooling,JCB
+P016,2022-10,722,8689992.0,Radiator RD-250,Cooling,JCB
+P016,2022-11,630,7582680.0,Radiator RD-250,Cooling,JCB
+P016,2022-12,537,6463332.0,Radiator RD-250,Cooling,JCB
+P016,2023-01,585,7041060.0,Radiator RD-250,Cooling,JCB
+P016,2023-02,622,7486392.0,Radiator RD-250,Cooling,JCB
+P016,2023-03,674,8112264.0,Radiator RD-250,Cooling,JCB
+P016,2023-04,675,8124300.0,Radiator RD-250,Cooling,JCB
+P016,2023-05,486,5849496.0,Radiator RD-250,Cooling,JCB
+P016,2023-06,607,7305852.0,Radiator RD-250,Cooling,JCB
+P016,2023-07,709,8533524.0,Radiator RD-250,Cooling,JCB
+P016,2023-08,602,7245672.0,Radiator RD-250,Cooling,JCB
+P016,2023-09,416,5006976.0,Radiator RD-250,Cooling,JCB
+P016,2023-10,733,8822388.0,Radiator RD-250,Cooling,JCB
+P016,2023-11,630,7582680.0,Radiator RD-250,Cooling,JCB
+P016,2023-12,730,8786280.0,Radiator RD-250,Cooling,JCB
+P016,2024-01,594,7149384.0,Radiator RD-250,Cooling,JCB
+P016,2024-02,551,6631836.0,Radiator RD-250,Cooling,JCB
+P016,2024-03,809,9737124.0,Radiator RD-250,Cooling,JCB
+P016,2024-04,429,5163444.0,Radiator RD-250,Cooling,JCB
+P016,2024-05,502,6042072.0,Radiator RD-250,Cooling,JCB
+P016,2024-06,722,8689992.0,Radiator RD-250,Cooling,JCB
+P016,2024-07,747,8990892.0,Radiator RD-250,Cooling,JCB
+P016,2024-08,883,10627788.0,Radiator RD-250,Cooling,JCB
+P016,2024-09,688,8280768.0,Radiator RD-250,Cooling,JCB
+P016,2024-10,690,8304840.0,Radiator RD-250,Cooling,JCB
+P016,2024-11,671,8076156.0,Radiator RD-250,Cooling,JCB
+P016,2024-12,465,5596740.0,Radiator RD-250,Cooling,JCB
+P017,2019-01,671,411725.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-02,565,346684.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-03,735,450996.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-04,554,339934.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-05,852,522787.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-06,666,408657.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-07,653,400680.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-08,726,445473.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-09,450,276120.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-10,727,446087.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-11,563,345456.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2019-12,534,327662.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-01,530,325208.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-02,610,374296.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-03,526,322753.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-04,669,410498.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-05,588,360796.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-06,742,455291.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-07,905,555308.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-08,808,495788.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-09,615,377364.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-10,658,403748.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-11,787,482903.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2020-12,797,489039.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-01,556,341161.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-02,572,350979.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-03,519,318458.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-04,670,411112.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-05,545,334412.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-06,671,411725.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-07,573,351592.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-08,612,375523.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-09,543,333184.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-10,816,500697.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-11,787,482903.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2021-12,630,386568.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-01,739,453450.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-02,478,293300.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-03,584,358342.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-04,554,339934.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-05,688,422156.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-06,614,376750.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-07,504,309254.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-08,642,393931.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-09,680,417248.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-10,591,362637.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-11,595,365092.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2022-12,619,379818.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-01,511,313549.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-02,430,263848.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-03,688,422156.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-04,544,333798.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-05,716,439337.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-06,565,346684.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-07,597,366319.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-08,550,337480.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-09,749,459586.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-10,644,395158.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-11,551,338093.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2023-12,656,402521.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-01,670,411112.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-02,624,382886.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-03,630,386568.0,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-04,539,330730.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-05,664,407430.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-06,668,409884.8,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-07,569,349138.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-08,801,491493.6,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-09,692,424611.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-10,777,476767.2,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-11,569,349138.4,Fan Belt FB-30,Belts,Tata Hitachi
+P017,2024-12,461,282869.6,Fan Belt FB-30,Belts,Tata Hitachi
+P018,2019-01,721,10428544.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-02,589,8519296.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-03,731,10573184.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-04,761,11007104.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-05,673,9734272.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-06,589,8519296.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-07,625,9040000.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-08,582,8418048.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-09,575,8316800.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-10,525,7593600.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-11,696,10066944.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2019-12,511,7391104.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-01,632,9141248.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-02,572,8273408.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-03,768,11108352.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-04,539,7796096.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-05,732,10587648.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-06,506,7318784.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-07,729,10544256.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-08,690,9980160.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-09,554,8013056.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-10,520,7521280.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-11,683,9878912.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2020-12,717,10370688.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-01,643,9300352.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-02,506,7318784.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-03,557,8056448.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-04,566,8186624.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-05,602,8707328.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-06,597,8635008.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-07,453,6552192.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-08,684,9893376.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-09,709,10254976.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-10,848,12265472.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-11,840,12149760.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2021-12,709,10254976.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-01,504,7289856.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-02,506,7318784.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-03,549,7940736.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-04,689,9965696.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-05,759,10978176.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-06,784,11339776.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-07,640,9256960.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-08,711,10283904.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-09,631,9126784.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-10,536,7752704.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-11,441,6378624.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2022-12,490,7087360.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-01,597,8635008.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-02,543,7853952.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-03,711,10283904.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-04,623,9011072.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-05,633,9155712.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-06,660,9546240.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-07,800,11571200.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-08,636,9199104.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-09,753,10891392.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-10,556,8041984.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-11,696,10066944.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2023-12,572,8273408.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-01,779,11267456.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-02,479,6928256.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-03,576,8331264.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-04,483,6986112.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-05,544,7868416.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-06,608,8794112.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-07,588,8504832.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-08,580,8389120.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-09,778,11252992.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-10,588,8504832.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-11,585,8461440.0,Wheel Rim WR-24,Undercarriage,CAT
+P018,2024-12,485,7015040.0,Wheel Rim WR-24,Undercarriage,CAT
+P019,2019-01,786,40041984.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-02,487,24809728.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-03,608,30973952.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-04,494,25166336.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-05,621,31636224.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-06,611,31126784.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-07,835,42538240.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-08,808,41162752.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-09,652,33215488.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-10,643,32756992.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-11,539,27458816.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2019-12,658,33521152.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-01,574,29241856.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-02,615,31330560.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-03,799,40704256.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-04,561,28579584.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-05,732,37291008.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-06,492,25064448.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-07,716,36475904.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-08,772,39328768.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-09,605,30821120.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-10,534,27204096.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-11,848,43200512.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2020-12,872,44423168.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-01,693,35304192.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-02,649,33062656.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-03,542,27611648.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-04,556,28324864.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-05,541,27560704.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-06,674,34336256.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-07,569,28987136.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-08,764,38921216.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-09,659,33572096.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-10,779,39685376.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-11,514,26185216.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2021-12,617,31432448.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-01,716,36475904.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-02,664,33826816.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-03,525,26745600.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-04,556,28324864.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-05,630,32094720.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-06,594,30260736.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-07,626,31890944.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-08,719,36628736.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-09,592,30158848.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-10,581,29598464.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-11,451,22975744.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2022-12,713,36323072.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-01,489,24911616.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-02,588,29955072.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-03,880,44830720.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-04,708,36068352.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-05,511,26032384.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-06,666,33928704.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-07,543,27662592.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-08,712,36272128.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-09,732,37291008.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-10,564,28732416.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-11,796,40551424.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2023-12,964,49110016.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-01,569,28987136.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-02,607,30923008.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-03,580,29547520.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-04,488,24860672.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-05,492,25064448.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-06,517,26338048.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-07,640,32604160.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-08,566,28834304.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-09,730,37189120.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-10,649,33062656.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-11,552,28121088.0,Swing Motor SWM-350,Hydraulic,Volvo
+P019,2024-12,642,32706048.0,Swing Motor SWM-350,Hydraulic,Volvo
+P020,2019-01,569,772133.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-02,650,882050.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-03,605,820985.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-04,705,956685.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-05,651,883407.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-06,562,762634.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-07,736,998752.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-08,780,1058460.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-09,752,1020464.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-10,654,887478.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-11,616,835912.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2019-12,535,725995.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-01,761,1032677.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-02,623,845411.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-03,575,780275.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-04,627,850839.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-05,759,1029963.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-06,505,685285.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-07,698,947186.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-08,696,944472.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-09,544,738208.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-10,592,803344.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-11,849,1152093.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2020-12,705,956685.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-01,629,853553.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-02,623,845411.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-03,583,791131.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-04,529,717853.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-05,710,963470.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-06,406,550942.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-07,646,876622.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-08,687,932259.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-09,575,780275.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-10,637,864409.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-11,656,890192.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2021-12,633,858981.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-01,761,1032677.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-02,577,782989.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-03,659,894263.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-04,524,711068.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-05,753,1021821.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-06,370,502090.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-07,577,782989.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-08,888,1205016.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-09,366,496662.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-10,577,782989.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-11,658,892906.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2022-12,572,776204.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-01,535,725995.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-02,624,846768.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-03,783,1062531.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-04,723,981111.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-05,579,785703.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-06,591,801987.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-07,621,842697.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-08,635,861695.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-09,826,1120882.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-10,659,894263.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-11,627,850839.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2023-12,522,708354.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-01,605,820985.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-02,561,761277.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-03,600,814200.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-04,534,724638.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-05,629,853553.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-06,548,743636.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-07,668,906476.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-08,739,1002823.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-09,655,888835.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-10,571,774847.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-11,649,880693.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P020,2024-12,511,693427.0,Pivot Pin PP-12,Pins & Bushes,JCB
+P021,2019-01,707,41809152.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-02,486,28740096.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-03,782,46244352.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-04,803,47486208.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-05,672,39739392.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-06,625,36960000.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-07,715,42282240.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-08,597,35304192.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-09,649,38379264.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-10,685,40508160.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-11,625,36960000.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2019-12,481,28444416.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-01,545,32229120.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-02,430,25428480.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-03,559,33057024.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-04,522,30868992.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-05,756,44706816.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-06,677,40035072.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-07,766,45298176.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-08,615,36368640.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-09,696,41158656.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-10,574,33944064.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-11,561,33175296.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2020-12,885,52335360.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-01,628,37137408.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-02,750,44352000.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-03,528,31223808.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-04,714,42223104.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-05,924,54641664.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-06,433,25605888.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-07,691,40862976.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-08,671,39680256.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-09,619,36605184.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-10,613,36250368.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-11,728,43051008.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2021-12,787,46540032.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-01,742,43878912.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-02,474,28030464.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-03,677,40035072.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-04,581,34358016.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-05,890,52631040.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-06,679,40153344.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-07,603,35659008.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-08,583,34476288.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-09,666,39384576.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-10,636,37610496.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-11,655,38734080.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2022-12,744,43997184.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-01,642,37965312.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-02,491,29035776.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-03,610,36072960.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-04,596,35245056.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-05,584,34535424.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-06,785,46421760.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-07,620,36664320.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-08,537,31756032.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-09,628,37137408.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-10,521,30809856.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-11,596,35245056.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2023-12,540,31933440.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-01,708,41868288.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-02,734,43405824.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-03,800,47308800.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-04,585,34594560.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-05,403,23831808.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-06,890,52631040.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-07,642,37965312.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-08,632,37373952.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-09,537,31756032.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-10,607,35895552.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-11,702,41513472.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P021,2024-12,545,32229120.0,Boom Cylinder BC-400,Hydraulic,Komatsu
+P022,2019-01,731,15812992.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-02,469,10145408.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-03,556,12027392.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-04,708,15315456.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-05,709,15337088.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-06,656,14190592.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-07,895,19360640.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-08,726,15704832.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-09,735,15899520.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-10,586,12676352.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-11,637,13779584.0,Control Valve CV-75,Hydraulic,CAT
+P022,2019-12,617,13346944.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-01,464,10037248.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-02,570,12330240.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-03,677,14644864.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-04,515,11140480.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-05,589,12741248.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-06,592,12806144.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-07,790,17089280.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-08,634,13714688.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-09,515,11140480.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-10,594,12849408.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-11,523,11313536.0,Control Valve CV-75,Hydraulic,CAT
+P022,2020-12,683,14774656.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-01,617,13346944.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-02,676,14623232.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-03,708,15315456.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-04,656,14190592.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-05,654,14147328.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-06,541,11702912.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-07,555,12005760.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-08,749,16202368.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-09,638,13801216.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-10,532,11508224.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-11,599,12957568.0,Control Valve CV-75,Hydraulic,CAT
+P022,2021-12,779,16851328.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-01,650,14060800.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-02,506,10945792.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-03,584,12633088.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-04,520,11248640.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-05,724,15661568.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-06,764,16526848.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-07,662,14320384.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-08,799,17283968.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-09,543,11746176.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-10,732,15834624.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-11,490,10599680.0,Control Valve CV-75,Hydraulic,CAT
+P022,2022-12,649,14039168.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-01,604,13065728.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-02,575,12438400.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-03,795,17197440.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-04,642,13887744.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-05,671,14515072.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-06,731,15812992.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-07,696,15055872.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-08,764,16526848.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-09,754,16310528.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-10,546,11811072.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-11,633,13693056.0,Control Valve CV-75,Hydraulic,CAT
+P022,2023-12,594,12849408.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-01,732,15834624.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-02,613,13260416.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-03,655,14168960.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-04,518,11205376.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-05,625,13520000.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-06,519,11227008.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-07,419,9063808.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-08,749,16202368.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-09,587,12697984.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-10,711,15380352.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-11,735,15899520.0,Control Valve CV-75,Hydraulic,CAT
+P022,2024-12,453,9799296.0,Control Valve CV-75,Hydraulic,CAT
+P023,2019-01,846,14023296.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-02,536,8884736.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-03,655,10857280.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-04,714,11835264.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-05,532,8818432.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-06,461,7641536.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-07,598,9912448.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-08,808,13393408.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-09,669,11089344.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-10,664,11006464.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-11,522,8652672.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2019-12,560,9282560.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-01,656,10873856.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-02,672,11139072.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-03,629,10426304.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-04,523,8669248.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-05,809,13409984.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-06,381,6315456.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-07,701,11619776.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-08,844,13990144.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-09,644,10674944.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-10,578,9580928.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-11,641,10625216.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2020-12,528,8752128.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-01,742,12299392.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-02,533,8835008.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-03,606,10045056.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-04,515,8536640.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-05,549,9100224.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-06,590,9779840.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-07,668,11072768.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-08,497,8238272.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-09,808,13393408.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-10,681,11288256.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-11,528,8752128.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2021-12,746,12365696.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-01,634,10509184.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-02,584,9680384.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-03,370,6133120.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-04,632,10476032.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-05,598,9912448.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-06,600,9945600.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-07,706,11702656.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-08,671,11122496.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-09,649,10757824.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-10,678,11238528.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-11,476,7890176.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2022-12,514,8520064.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-01,507,8404032.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-02,633,10492608.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-03,831,13774656.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-04,711,11785536.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-05,498,8254848.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-06,531,8801856.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-07,546,9050496.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-08,540,8951040.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-09,726,12034176.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-10,600,9945600.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-11,678,11238528.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2023-12,748,12398848.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-01,587,9730112.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-02,677,11221952.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-03,594,9846144.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-04,560,9282560.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-05,586,9713536.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-06,691,11454016.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-07,549,9100224.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-08,597,9895872.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-09,729,12083904.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-10,502,8321152.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-11,620,10277120.0,Idler Wheel IW-55,Undercarriage,Volvo
+P023,2024-12,450,7459200.0,Idler Wheel IW-55,Undercarriage,Volvo
+P024,2019-01,606,7989504.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-02,474,6249216.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-03,493,6499712.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-04,635,8371840.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-05,533,7027072.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-06,557,7343488.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-07,693,9136512.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-08,595,7844480.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-09,572,7541248.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-10,593,7818112.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-11,624,8226816.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2019-12,575,7580800.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-01,616,8121344.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-02,511,6737024.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-03,638,8411392.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-04,732,9650688.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-05,700,9228800.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-06,656,8648704.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-07,760,10019840.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-08,718,9466112.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-09,530,6987520.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-10,696,9176064.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-11,439,5787776.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2020-12,601,7923584.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-01,509,6710656.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-02,846,11153664.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-03,535,7053440.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-04,590,7778560.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-05,509,6710656.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-06,616,8121344.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-07,724,9545216.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-08,604,7963136.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-09,655,8635520.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-10,465,6130560.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-11,740,9756160.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2021-12,645,8503680.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-01,630,8305920.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-02,696,9176064.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-03,657,8661888.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-04,586,7725824.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-05,684,9017856.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-06,554,7303936.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-07,580,7646720.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-08,632,8332288.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-09,551,7264384.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-10,472,6222848.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-11,503,6631552.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2022-12,546,7198464.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-01,485,6394240.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-02,516,6802944.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-03,770,10151680.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-04,670,8833280.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-05,635,8371840.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-06,822,10837248.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-07,716,9439744.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-08,584,7699456.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-09,614,8094976.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-10,449,5919616.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-11,429,5655936.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2023-12,710,9360640.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-01,567,7475328.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-02,539,7106176.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-03,871,11483264.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-04,759,10006656.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-05,674,8886016.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-06,596,7857664.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-07,690,9096960.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-08,688,9070592.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-09,581,7659904.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-10,562,7409408.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-11,533,7027072.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P024,2024-12,486,6407424.0,Track Roller TR-60,Undercarriage,Tata Hitachi
+P025,2019-01,543,5029809.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-02,406,3760778.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-03,805,7456715.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-04,688,6372944.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-05,672,6224736.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-06,679,6289577.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-07,731,6771253.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-08,691,6400733.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-09,523,4844549.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-10,440,4075720.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-11,749,6937987.0,Cabin Glass CG-20,Cabin,JCB
+P025,2019-12,550,5094650.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-01,664,6150632.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-02,698,6465574.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-03,667,6178421.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-04,744,6891672.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-05,533,4937179.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-06,540,5002020.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-07,876,8114388.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-08,823,7623449.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-09,588,5446644.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-10,605,5604115.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-11,769,7123247.0,Cabin Glass CG-20,Cabin,JCB
+P025,2020-12,709,6567467.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-01,585,5418855.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-02,711,6585993.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-03,726,6724938.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-04,631,5844953.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-05,559,5178017.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-06,531,4918653.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-07,652,6039476.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-08,640,5928320.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-09,760,7039880.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-10,745,6900935.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-11,564,5224332.0,Cabin Glass CG-20,Cabin,JCB
+P025,2021-12,788,7299244.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-01,554,5131702.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-02,483,4474029.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-03,686,6354418.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-04,490,4538870.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-05,634,5872742.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-06,562,5205806.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-07,727,6734201.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-08,783,7252929.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-09,534,4946442.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-10,550,5094650.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-11,538,4983494.0,Cabin Glass CG-20,Cabin,JCB
+P025,2022-12,538,4983494.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-01,762,7058406.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-02,522,4835286.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-03,794,7354822.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-04,720,6669360.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-05,665,6159895.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-06,574,5316962.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-07,542,5020546.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-08,735,6808305.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-09,732,6780516.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-10,515,4770445.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-11,528,4890864.0,Cabin Glass CG-20,Cabin,JCB
+P025,2023-12,568,5261384.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-01,556,5150228.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-02,655,6067265.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-03,728,6743464.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-04,529,4900127.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-05,528,4890864.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-06,697,6456311.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-07,585,5418855.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-08,490,4538870.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-09,563,5215069.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-10,677,6271051.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-11,654,6058002.0,Cabin Glass CG-20,Cabin,JCB
+P025,2024-12,615,5696745.0,Cabin Glass CG-20,Cabin,JCB
+P026,2019-01,558,204116.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-02,434,158757.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-03,698,255328.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-04,625,228625.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-05,737,269594.6,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-06,584,213627.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-07,759,277642.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-08,781,285689.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-09,455,166439.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-10,505,184729.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-11,534,195337.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2019-12,540,197532.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-01,584,213627.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-02,615,224967.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-03,420,153636.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-04,477,174486.6,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-05,741,271057.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-06,607,222040.6,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-07,719,263010.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-08,769,281300.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-09,518,189484.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-10,593,216919.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-11,616,225332.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2020-12,644,235575.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-01,591,216187.80000000002,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-02,759,277642.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-03,829,303248.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-04,471,172291.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-05,515,188387.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-06,564,206311.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-07,514,188021.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-08,659,241062.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-09,566,207042.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-10,855,312759.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-11,678,248012.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2021-12,747,273252.6,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-01,795,290811.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-02,560,204848.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-03,445,162781.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-04,749,273984.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-05,803,293737.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-06,590,215822.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-07,625,228625.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-08,591,216187.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-09,611,223503.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-10,810,296298.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-11,619,226430.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2022-12,643,235209.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-01,497,181802.6,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-02,540,197532.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-03,662,242159.6,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-04,603,220577.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-05,598,218748.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-06,670,245086.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-07,732,267765.6,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-08,711,260083.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-09,753,275447.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-10,524,191679.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-11,612,223869.6,Grease Cartridge GC-5,Lubricants,Generic
+P026,2023-12,596,218016.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-01,628,229722.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-02,623,227893.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-03,687,251304.6,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-04,548,200458.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-05,366,133882.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-06,625,228625.0,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-07,588,215090.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-08,669,244720.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-09,636,232648.8,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-10,649,237404.2,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-11,548,200458.4,Grease Cartridge GC-5,Lubricants,Generic
+P026,2024-12,677,247646.6,Grease Cartridge GC-5,Lubricants,Generic
+P027,2019-01,534,302457.6,O-Ring Set OR-50,Seals,Generic
+P027,2019-02,441,249782.4,O-Ring Set OR-50,Seals,Generic
+P027,2019-03,691,391382.4,O-Ring Set OR-50,Seals,Generic
+P027,2019-04,559,316617.6,O-Ring Set OR-50,Seals,Generic
+P027,2019-05,689,390249.6,O-Ring Set OR-50,Seals,Generic
+P027,2019-06,537,304156.8,O-Ring Set OR-50,Seals,Generic
+P027,2019-07,747,423100.8,O-Ring Set OR-50,Seals,Generic
+P027,2019-08,786,445190.4,O-Ring Set OR-50,Seals,Generic
+P027,2019-09,531,300758.4,O-Ring Set OR-50,Seals,Generic
+P027,2019-10,622,352300.8,O-Ring Set OR-50,Seals,Generic
+P027,2019-11,716,405542.4,O-Ring Set OR-50,Seals,Generic
+P027,2019-12,503,284899.2,O-Ring Set OR-50,Seals,Generic
+P027,2020-01,485,274704.0,O-Ring Set OR-50,Seals,Generic
+P027,2020-02,702,397612.8,O-Ring Set OR-50,Seals,Generic
+P027,2020-03,838,474643.2,O-Ring Set OR-50,Seals,Generic
+P027,2020-04,705,399312.0,O-Ring Set OR-50,Seals,Generic
+P027,2020-05,695,393648.0,O-Ring Set OR-50,Seals,Generic
+P027,2020-06,690,390816.0,O-Ring Set OR-50,Seals,Generic
+P027,2020-07,851,482006.4,O-Ring Set OR-50,Seals,Generic
+P027,2020-08,741,419702.4,O-Ring Set OR-50,Seals,Generic
+P027,2020-09,535,303024.0,O-Ring Set OR-50,Seals,Generic
+P027,2020-10,604,342105.6,O-Ring Set OR-50,Seals,Generic
+P027,2020-11,462,261676.8,O-Ring Set OR-50,Seals,Generic
+P027,2020-12,507,287164.8,O-Ring Set OR-50,Seals,Generic
+P027,2021-01,653,369859.2,O-Ring Set OR-50,Seals,Generic
+P027,2021-02,713,403843.2,O-Ring Set OR-50,Seals,Generic
+P027,2021-03,582,329644.8,O-Ring Set OR-50,Seals,Generic
+P027,2021-04,620,351168.0,O-Ring Set OR-50,Seals,Generic
+P027,2021-05,536,303590.4,O-Ring Set OR-50,Seals,Generic
+P027,2021-06,715,404976.0,O-Ring Set OR-50,Seals,Generic
+P027,2021-07,891,504662.4,O-Ring Set OR-50,Seals,Generic
+P027,2021-08,713,403843.2,O-Ring Set OR-50,Seals,Generic
+P027,2021-09,469,265641.6,O-Ring Set OR-50,Seals,Generic
+P027,2021-10,650,368160.0,O-Ring Set OR-50,Seals,Generic
+P027,2021-11,740,419136.0,O-Ring Set OR-50,Seals,Generic
+P027,2021-12,655,370992.0,O-Ring Set OR-50,Seals,Generic
+P027,2022-01,717,406108.8,O-Ring Set OR-50,Seals,Generic
+P027,2022-02,518,293395.2,O-Ring Set OR-50,Seals,Generic
+P027,2022-03,555,314352.0,O-Ring Set OR-50,Seals,Generic
+P027,2022-04,673,381187.2,O-Ring Set OR-50,Seals,Generic
+P027,2022-05,675,382320.0,O-Ring Set OR-50,Seals,Generic
+P027,2022-06,484,274137.6,O-Ring Set OR-50,Seals,Generic
+P027,2022-07,507,287164.8,O-Ring Set OR-50,Seals,Generic
+P027,2022-08,696,394214.4,O-Ring Set OR-50,Seals,Generic
+P027,2022-09,626,354566.4,O-Ring Set OR-50,Seals,Generic
+P027,2022-10,763,432163.2,O-Ring Set OR-50,Seals,Generic
+P027,2022-11,509,288297.6,O-Ring Set OR-50,Seals,Generic
+P027,2022-12,713,403843.2,O-Ring Set OR-50,Seals,Generic
+P027,2023-01,477,270172.8,O-Ring Set OR-50,Seals,Generic
+P027,2023-02,392,222028.8,O-Ring Set OR-50,Seals,Generic
+P027,2023-03,600,339840.0,O-Ring Set OR-50,Seals,Generic
+P027,2023-04,686,388550.4,O-Ring Set OR-50,Seals,Generic
+P027,2023-05,612,346636.8,O-Ring Set OR-50,Seals,Generic
+P027,2023-06,816,462182.4,O-Ring Set OR-50,Seals,Generic
+P027,2023-07,562,318316.8,O-Ring Set OR-50,Seals,Generic
+P027,2023-08,648,367027.2,O-Ring Set OR-50,Seals,Generic
+P027,2023-09,644,364761.6,O-Ring Set OR-50,Seals,Generic
+P027,2023-10,669,378921.6,O-Ring Set OR-50,Seals,Generic
+P027,2023-11,603,341539.2,O-Ring Set OR-50,Seals,Generic
+P027,2023-12,584,330777.6,O-Ring Set OR-50,Seals,Generic
+P027,2024-01,662,374956.8,O-Ring Set OR-50,Seals,Generic
+P027,2024-02,653,369859.2,O-Ring Set OR-50,Seals,Generic
+P027,2024-03,657,372124.8,O-Ring Set OR-50,Seals,Generic
+P027,2024-04,599,339273.6,O-Ring Set OR-50,Seals,Generic
+P027,2024-05,791,448022.4,O-Ring Set OR-50,Seals,Generic
+P027,2024-06,549,310953.6,O-Ring Set OR-50,Seals,Generic
+P027,2024-07,572,323980.8,O-Ring Set OR-50,Seals,Generic
+P027,2024-08,665,376656.0,O-Ring Set OR-50,Seals,Generic
+P027,2024-09,750,424800.0,O-Ring Set OR-50,Seals,Generic
+P027,2024-10,661,374390.4,O-Ring Set OR-50,Seals,Generic
+P027,2024-11,636,360230.4,O-Ring Set OR-50,Seals,Generic
+P027,2024-12,646,365894.4,O-Ring Set OR-50,Seals,Generic
+P028,2019-01,650,1725750.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-02,560,1486800.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-03,835,2216925.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-04,724,1922220.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-05,426,1131030.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-06,719,1908945.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-07,683,1813365.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-08,610,1619550.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-09,746,1980630.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-10,514,1364670.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-11,750,1991250.0,Light Assembly LA-18,Electrical,Generic
+P028,2019-12,626,1662030.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-01,626,1662030.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-02,654,1736370.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-03,814,2161170.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-04,543,1441665.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-05,689,1829295.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-06,649,1723095.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-07,745,1977975.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-08,748,1985940.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-09,631,1675305.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-10,624,1656720.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-11,914,2426670.0,Light Assembly LA-18,Electrical,Generic
+P028,2020-12,716,1900980.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-01,801,2126655.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-02,500,1327500.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-03,547,1452285.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-04,508,1348740.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-05,579,1537245.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-06,659,1749645.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-07,775,2057625.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-08,693,1839915.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-09,794,2108070.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-10,772,2049660.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-11,673,1786815.0,Light Assembly LA-18,Electrical,Generic
+P028,2021-12,665,1765575.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-01,719,1908945.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-02,415,1101825.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-03,804,2134620.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-04,560,1486800.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-05,703,1866465.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-06,652,1731060.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-07,416,1104480.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-08,664,1762920.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-09,529,1404495.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-10,543,1441665.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-11,552,1465560.0,Light Assembly LA-18,Electrical,Generic
+P028,2022-12,605,1606275.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-01,513,1362015.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-02,621,1648755.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-03,879,2333745.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-04,575,1526625.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-05,582,1545210.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-06,756,2007180.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-07,609,1616895.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-08,738,1959390.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-09,730,1938150.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-10,560,1486800.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-11,561,1489455.0,Light Assembly LA-18,Electrical,Generic
+P028,2023-12,564,1497420.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-01,632,1677960.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-02,476,1263780.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-03,663,1760265.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-04,523,1388565.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-05,532,1412460.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-06,697,1850535.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-07,725,1924875.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-08,485,1287675.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-09,601,1595655.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-10,566,1502730.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-11,580,1539900.0,Light Assembly LA-18,Electrical,Generic
+P028,2024-12,672,1784160.0,Light Assembly LA-18,Electrical,Generic
+P029,2019-01,682,3178802.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-02,567,2642787.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-03,602,2805922.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-04,572,2666092.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-05,768,3579648.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-06,675,3146175.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-07,854,3980494.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-08,655,3052955.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-09,614,2861854.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-10,544,2535584.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-11,701,3267361.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2019-12,591,2754651.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-01,652,3038972.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-02,527,2456347.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-03,721,3360581.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-04,638,2973718.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-05,663,3090243.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-06,690,3216090.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-07,783,3649563.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-08,806,3756766.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-09,631,2941091.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-10,647,3015667.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-11,599,2791939.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2020-12,541,2521601.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-01,697,3248717.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-02,755,3519055.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-03,649,3024989.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-04,693,3230073.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-05,574,2675414.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-06,644,3001684.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-07,564,2628804.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-08,551,2568211.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-09,709,3304649.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-10,763,3556343.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-11,653,3043633.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2021-12,568,2647448.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-01,791,3686851.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-02,575,2680075.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-03,709,3304649.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-04,603,2810583.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-05,761,3547021.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-06,672,3132192.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-07,653,3043633.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-08,529,2465669.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-09,681,3174141.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-10,590,2749990.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-11,680,3169480.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2022-12,640,2983040.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-01,675,3146175.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-02,590,2749990.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-03,590,2749990.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-04,567,2642787.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-05,627,2922447.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-06,651,3034311.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-07,539,2512279.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-08,545,2540245.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-09,749,3491089.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-10,672,3132192.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-11,535,2493635.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2023-12,741,3453801.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-01,754,3514394.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-02,638,2973718.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-03,833,3882613.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-04,675,3146175.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-05,571,2661431.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-06,732,3411852.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-07,666,3104226.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-08,648,3020328.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-09,777,3621597.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-10,668,3113548.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-11,568,2647448.0,Pressure Sensor PS-90,Sensors,CAT
+P029,2024-12,628,2927108.0,Pressure Sensor PS-90,Sensors,CAT
+P030,2019-01,525,14716800.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-02,414,11605248.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-03,619,17351808.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-04,671,18809472.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-05,794,22257408.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-06,783,21949056.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-07,711,19930752.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-08,589,16510848.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-09,792,22201344.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-10,602,16875264.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-11,650,18220800.0,Fuel Pump FP-350,Engine,Volvo
+P030,2019-12,485,13595520.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-01,536,15025152.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-02,484,13567488.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-03,538,15081216.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-04,431,12081792.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-05,797,22341504.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-06,736,20631552.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-07,826,23154432.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-08,740,20743680.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-09,819,22958208.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-10,706,19790592.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-11,661,18529152.0,Fuel Pump FP-350,Engine,Volvo
+P030,2020-12,655,18360960.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-01,665,18641280.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-02,520,14576640.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-03,687,19257984.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-04,575,16118400.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-05,379,10624128.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-06,688,19286016.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-07,701,19650432.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-08,695,19482240.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-09,549,15389568.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-10,555,15557760.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-11,638,17884416.0,Fuel Pump FP-350,Engine,Volvo
+P030,2021-12,500,14016000.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-01,833,23350656.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-02,612,17155584.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-03,766,21472512.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-04,684,19173888.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-05,671,18809472.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-06,513,14380416.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-07,632,17716224.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-08,604,16931328.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-09,524,14688768.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-10,651,18248832.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-11,708,19846656.0,Fuel Pump FP-350,Engine,Volvo
+P030,2022-12,569,15950208.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-01,640,17940480.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-02,640,17940480.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-03,547,15333504.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-04,751,21052032.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-05,635,17800320.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-06,720,20183040.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-07,603,16903296.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-08,668,18725376.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-09,600,16819200.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-10,508,14240256.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-11,551,15445632.0,Fuel Pump FP-350,Engine,Volvo
+P030,2023-12,418,11717376.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-01,877,24584064.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-02,573,16062336.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-03,591,16566912.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-04,521,14604672.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-05,682,19117824.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-06,641,17968512.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-07,732,20519424.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-08,840,23546880.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-09,652,18276864.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-10,723,20267136.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-11,794,22257408.0,Fuel Pump FP-350,Engine,Volvo
+P030,2024-12,507,14212224.0,Fuel Pump FP-350,Engine,Volvo

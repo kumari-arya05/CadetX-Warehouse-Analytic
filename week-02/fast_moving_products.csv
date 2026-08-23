@@ -1,0 +1,31 @@
+product_id,total_quantity_sold,total_sales_value,product_name,category,brand,usage_frequency
+P029,47066,219374626.0,Pressure Sensor PS-90,Sensors,CAT,Medium
+P010,46964,2097975808.0,Turbocharger TB-900,Engine,CAT,Medium
+P006,46731,669935616.0,Alternator ALT-500,Electrical,CAT,Medium
+P011,46612,1646708736.0,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi,Medium
+P007,46468,79506748.0,Hydraulic Hose HH-60,Hydraulic,JCB,High
+P021,46364,2741781504.0,Boom Cylinder BC-400,Hydraulic,Komatsu,Medium
+P016,46306,557339016.0,Radiator RD-250,Cooling,JCB,Medium
+P028,46164,122565420.0,Light Assembly LA-18,Electrical,Generic,Medium
+P012,45972,144168192.0,Brake Pad BP-40,Brakes,JCB,Medium
+P019,45971,2341946624.0,Swing Motor SWM-350,Hydraulic,Volvo,Medium
+P030,45897,1286584704.0,Fuel Pump FP-350,Engine,Volvo,Medium
+P022,45819,991156608.0,Control Valve CV-75,Hydraulic,CAT,Medium
+P003,45684,67383900.0,Air Filter AF-120,Filters,Komatsu,High
+P027,45678,25872019.2,O-Ring Set OR-50,Seals,Generic,High
+P025,45598,422374274.0,Cabin Glass CG-20,Cabin,JCB,Low
+P017,45578,27966660.8,Fan Belt FB-30,Belts,Tata Hitachi,High
+P004,45575,2321772800.0,Track Chain TC-45,Undercarriage,Volvo,Low
+P001,45389,1423399040.0,Hydraulic Pump HP-300,Hydraulic,CAT,Medium
+P008,45376,31055334.4,Bucket Tooth BT-10,Attachments,Komatsu,High
+P002,45342,38522563.2,Engine Oil Filter OF-90,Filters,JCB,High
+P020,45340,61526380.0,Pivot Pin PP-12,Pins & Bushes,JCB,High
+P015,45222,6888215040.0,Engine Block EB-600,Engine,Komatsu,Low
+P014,45035,4813340800.0,Transmission Assembly TA-800,Transmission,Volvo,Low
+P018,45027,651270528.0,Wheel Rim WR-24,Undercarriage,CAT,Medium
+P005,45026,487001216.0,Fuel Injector FI-220,Engine,Tata Hitachi,Medium
+P009,44946,857210112.0,Starter Motor SM-700,Electrical,Volvo,Medium
+P026,44844,16403935.2,Grease Cartridge GC-5,Lubricants,Generic,High
+P023,44437,736587712.0,Idler Wheel IW-55,Undercarriage,Volvo,Medium
+P013,44081,75422591.0,Seal Kit SK-15,Seals,CAT,High
+P024,44022,580386048.0,Track Roller TR-60,Undercarriage,Tata Hitachi,Medium

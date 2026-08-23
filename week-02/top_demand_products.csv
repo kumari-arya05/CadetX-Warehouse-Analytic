@@ -1,0 +1,31 @@
+product_id,product_name,category,brand,total_demand
+P029,Pressure Sensor PS-90,Sensors,CAT,47066
+P010,Turbocharger TB-900,Engine,CAT,46964
+P006,Alternator ALT-500,Electrical,CAT,46731
+P011,Hydraulic Cylinder HC-200,Hydraulic,Tata Hitachi,46612
+P007,Hydraulic Hose HH-60,Hydraulic,JCB,46468
+P021,Boom Cylinder BC-400,Hydraulic,Komatsu,46364
+P016,Radiator RD-250,Cooling,JCB,46306
+P028,Light Assembly LA-18,Electrical,Generic,46164
+P012,Brake Pad BP-40,Brakes,JCB,45972
+P019,Swing Motor SWM-350,Hydraulic,Volvo,45971
+P030,Fuel Pump FP-350,Engine,Volvo,45897
+P022,Control Valve CV-75,Hydraulic,CAT,45819
+P003,Air Filter AF-120,Filters,Komatsu,45684
+P027,O-Ring Set OR-50,Seals,Generic,45678
+P025,Cabin Glass CG-20,Cabin,JCB,45598
+P017,Fan Belt FB-30,Belts,Tata Hitachi,45578
+P004,Track Chain TC-45,Undercarriage,Volvo,45575
+P001,Hydraulic Pump HP-300,Hydraulic,CAT,45389
+P008,Bucket Tooth BT-10,Attachments,Komatsu,45376
+P002,Engine Oil Filter OF-90,Filters,JCB,45342
+P020,Pivot Pin PP-12,Pins & Bushes,JCB,45340
+P015,Engine Block EB-600,Engine,Komatsu,45222
+P014,Transmission Assembly TA-800,Transmission,Volvo,45035
+P018,Wheel Rim WR-24,Undercarriage,CAT,45027
+P005,Fuel Injector FI-220,Engine,Tata Hitachi,45026
+P009,Starter Motor SM-700,Electrical,Volvo,44946
+P026,Grease Cartridge GC-5,Lubricants,Generic,44844
+P023,Idler Wheel IW-55,Undercarriage,Volvo,44437
+P013,Seal Kit SK-15,Seals,CAT,44081
+P024,Track Roller TR-60,Undercarriage,Tata Hitachi,44022
