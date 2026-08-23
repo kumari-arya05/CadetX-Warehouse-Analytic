@@ -1,161 +1,84 @@
 # CadetX Warehouse Analytics
 
-## Week 1 – Data Foundation & Exploration
+## Week 1 — Data Foundation & Exploration
 
-### Project Objective
+### Project Overview
 
-Analyse the Heavy Supplier, Inventory & Warehouse dataset to understand the data structure and prepare it for further analytics.
+This project is part of the **CadetX Virtual Work Experience Program**, focused on applying data analytics techniques to a Heavy Supplier, Inventory, Warehouse, Sales, Purchase, and Customer data environment.
 
-### Week 1 Goals
+Week 1 establishes the data foundation required for subsequent business analytics. The primary focus was on understanding the available datasets, profiling their structure, identifying data-quality issues, cleaning and standardizing the data, and validating the resulting datasets.
 
-- Explore all CSV datasets
-- Understand rows and columns
-- Identify data types
-- Check missing values
-- Check duplicate records
-- Understand relationships between datasets
-- Create initial data understanding
+The objective was to prepare reliable and structured data for further analysis, KPI development, and business intelligence activities.
+
+---
+
+## 1. Project Objective
+
+The objective of Week 1 was to:
+
+- Understand the structure and characteristics of the available datasets.
+- Profile all CSV files using Python and Pandas.
+- Inspect rows, columns, column names, and data types.
+- Identify missing values and duplicate records.
+- Perform data cleaning and standardization.
+- Validate data quality after the cleaning process.
+- Investigate important data-quality exceptions.
+- Preserve original datasets while creating cleaned versions.
+- Establish a reliable data foundation for future analytics.
+
+---
+
+## 2. Dataset Overview
+
+A total of **12 CSV datasets** were explored and processed during Week 1.
 
 ### Dataset Files
 
-- branches.csv
-- customers.csv
-- inventory_master.csv
-- invoices.csv
-- payments.csv
-- products.csv
-- purchase_orders_header.csv
-- purchase_orders_lines.csv
-- sales_orders_header.csv
-- sales_orders_lines.csv
-- stock_ledger.csv
-- suppliers.csv
+| Dataset | Purpose |
+|---|---|
+| `branches.csv` | Branch and location information |
+| `customers.csv` | Customer-related information |
+| `inventory_master.csv` | Inventory master data |
+| `invoices.csv` | Invoice and billing information |
+| `payments.csv` | Payment-related information |
+| `products.csv` | Product master information |
+| `purchase_orders_header.csv` | Purchase order header information |
+| `purchase_orders_lines.csv` | Purchase order line-level information |
+| `sales_orders_header.csv` | Sales order header information |
+| `sales_orders_lines.csv` | Sales order line-level information |
+| `stock_ledger.csv` | Inventory movement and stock ledger information |
+| `suppliers.csv` | Supplier information |
 
-### Week 1 Status
+These datasets provide the foundation for future analysis across procurement, inventory, sales, supplier performance, customer behaviour, and warehouse operations.
 
-- Project structure created
-- Dataset added to the `data` folder
-- Week 1 folder created
-- Data profiling completed for all CSV datasets
-- Rows and columns inspected
-- Data types inspected
-- Missing values checked
-- Duplicate records checked
-- Initial dataset structure reviewed
-- Data cleaning completed
-- Cleaned datasets validated
-- Date fields standardized
-- Data quality validation completed
-- Missing value analysis completed
+---
 
-### Data Profiling
+## 3. Week 1 Data Workflow
 
-Data profiling was performed using Python and Pandas.
+The Week 1 workflow followed a structured data-preparation process:
 
-The profiling script:
+**Data Discovery → Data Profiling → Data Cleaning → Date Standardization → Data Quality Validation → Missing Value Analysis**
 
-`notebooks/week01_data_profiling.py`
+This workflow was designed to create consistent and analysis-ready datasets while preserving the original source data.
 
-The following checks were performed:
+---
+
+## 4. Data Profiling
+
+Data profiling was performed using **Python and Pandas**.
+
+### Profiling Activities
 
 - Dataset file discovery
-- Row and column counts
+- Row and column count inspection
 - Column name inspection
 - Data type inspection
-- Missing value checks
-- Duplicate row checks
-- First five records review
+- Missing-value analysis
+- Duplicate-row detection
+- Initial record inspection
+- Review of dataset structure and consistency
 
-### Data Cleaning
+### Profiling Script
 
-Data cleaning was performed using:
-
-`src/data_cleaning.py`
-
-The cleaning process included:
-
-- Removing completely empty rows
-- Removing duplicate rows
-- Removing extra spaces from text fields
-- Saving cleaned datasets separately
-- Preserving the original datasets
-
-Cleaned datasets are stored in:
-
-`data/cleaned/`
-
-### Data Type Standardization
-
-Data type standardization was performed using:
-
-`src/data_type_standardization.py`
-
-The following date fields were checked and converted to datetime format where applicable:
-
-- Customer purchase dates
-- Invoice dates
-- Due dates
-- Payment dates
-- Purchase order dates
-- Expected delivery dates
-- Received dates
-- Other date-related fields
-
-Invalid date values were checked during validation.
-
-### Data Quality Validation
-
-Data quality validation was performed using:
-
-`src/data_quality_validation.py`
-
-The following checks were completed:
-
-- Missing value validation
-- Duplicate row validation
-- Date validation
-- Dataset row and column validation
-
-### Initial Findings
-
-- All 12 CSV datasets were successfully processed.
-- Cleaned datasets were successfully created in the `data/cleaned` folder.
-- No duplicate rows were found during data quality validation.
-- Most datasets contain no missing values.
-- `purchase_orders_header.csv` contains 2,370 missing values in the `received_date` column.
-- The missing `received_date` values were retained as blank because they may indicate orders that have not yet been received.
-- Date fields were checked for invalid values.
-- No invalid dates were identified in the validated date columns.
-
-### Missing Value Analysis
-
-Missing value analysis was performed using:
-
-`src/handle_missing_values.py`
-
-For `purchase_orders_header.csv`:
-
-- Total rows: 24,000
-- Missing `received_date` values: 2,370
-- Duplicate rows: 0
-
-The missing `received_date` values were not replaced with artificial dates because the absence of a received date may represent an order that has not yet been received.
-
-### Week 1 Conclusion
-
-Week 1 successfully established the data foundation for the CadetX Warehouse Analytics project.
-
-The datasets were profiled, cleaned, standardized and validated. Initial data quality issues were identified and documented.
-
-The cleaned datasets are now ready for further analysis and business KPI development.
-
-### Next Steps
-
-- Analyse relationships between datasets
-- Identify primary and foreign key relationships
-- Define business KPIs
-- Analyse sales and purchase performance
-- Analyse inventory and stock levels
-- Analyse supplier performance
-- Analyse customer purchasing behaviour
-- Prepare data for business analytics and visualization
+```text
+notebooks/week01_data_profiling.py
