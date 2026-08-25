@@ -1,0 +1,62 @@
+check_name,category,total_records,failed_records,status
+products_duplicate_rows,Duplicates,30,0,PASS
+inventory_duplicate_rows,Duplicates,180,0,PASS
+sales_lines_duplicate_rows,Duplicates,130402,0,PASS
+sales_header_duplicate_rows,Duplicates,20000,0,PASS
+master_duplicate_rows,Duplicates,180,0,PASS
+features_duplicate_rows,Duplicates,180,0,PASS
+products_missing_values,Missing Values,690,0,PASS
+inventory_missing_values,Missing Values,1440,0,PASS
+sales_lines_missing_values,Missing Values,1173618,0,PASS
+sales_header_missing_values,Missing Values,220000,0,PASS
+master_missing_values,Missing Values,5760,0,PASS
+features_missing_values,Missing Values,8280,0,PASS
+product_id_uniqueness,Key Integrity,30,0,PASS
+inventory_product_reference,Referential Integrity,180,0,PASS
+sales_product_reference,Referential Integrity,130402,0,PASS
+sales_order_reference,Referential Integrity,130402,0,PASS
+inventory_current_stock_non_negative,Numeric Validation,180,0,PASS
+master_current_stock_non_negative,Numeric Validation,180,0,PASS
+features_current_stock_non_negative,Numeric Validation,180,0,PASS
+products_safety_stock_non_negative,Numeric Validation,30,0,PASS
+inventory_safety_stock_non_negative,Numeric Validation,180,0,PASS
+products_reorder_level_non_negative,Numeric Validation,30,0,PASS
+inventory_reorder_level_non_negative,Numeric Validation,180,0,PASS
+inventory_max_stock_non_negative,Numeric Validation,180,0,PASS
+master_max_stock_non_negative,Numeric Validation,180,0,PASS
+features_max_stock_non_negative,Numeric Validation,180,0,PASS
+products_unit_cost_non_negative,Numeric Validation,30,0,PASS
+master_unit_cost_non_negative,Numeric Validation,180,0,PASS
+features_unit_cost_non_negative,Numeric Validation,180,0,PASS
+products_unit_price_non_negative,Numeric Validation,30,0,PASS
+sales_lines_unit_price_non_negative,Numeric Validation,130402,0,PASS
+master_unit_price_non_negative,Numeric Validation,180,0,PASS
+features_unit_price_non_negative,Numeric Validation,180,0,PASS
+sales_lines_quantity_non_negative,Numeric Validation,130402,0,PASS
+master_total_quantity_sold_non_negative,Numeric Validation,180,0,PASS
+features_total_quantity_sold_non_negative,Numeric Validation,180,0,PASS
+master_total_sales_value_non_negative,Numeric Validation,180,0,PASS
+features_total_sales_value_non_negative,Numeric Validation,180,0,PASS
+inventory_level_consistency,Business Rules,180,0,PASS
+selling_price_vs_cost,Business Rules,30,0,PASS
+products_last_purchase_date_date_format,Date Validation,30,0,PASS
+sales_header_order_date_date_format,Date Validation,20000,0,PASS
+sales_header_delivery_date_date_format,Date Validation,20000,0,PASS
+master_last_purchase_date_date_format,Date Validation,180,0,PASS
+features_last_purchase_date_date_format,Date Validation,180,0,PASS
+features_last_purchase_date_year_date_format,Date Validation,180,0,PASS
+features_last_purchase_date_month_date_format,Date Validation,180,0,PASS
+features_last_purchase_date_month_name_date_format,Date Validation,180,0,PASS
+features_last_purchase_date_quarter_date_format,Date Validation,180,0,PASS
+feature_stock_to_sales_ratio_missing,Feature Validation,180,0,PASS
+feature_average_selling_price_missing,Feature Validation,180,0,PASS
+feature_stock_to_max_ratio_missing,Feature Validation,180,0,PASS
+feature_unit_margin_missing,Feature Validation,180,0,PASS
+feature_margin_percentage_missing,Feature Validation,180,0,PASS
+feature_inventory_cost_value_missing,Feature Validation,180,0,PASS
+feature_inventory_retail_value_missing,Feature Validation,180,0,PASS
+feature_missing_value_count_missing,Feature Validation,180,0,PASS
+feature_data_completeness_percentage_missing,Feature Validation,180,0,PASS
+products_not_empty,Dataset Integrity,1,0,PASS
+inventory_not_empty,Dataset Integrity,1,0,PASS
+sales_lines_not_empty,Dataset Integrity,1,0,PASS

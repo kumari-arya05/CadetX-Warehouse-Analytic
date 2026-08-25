@@ -1,0 +1,4 @@
+integration_check,unmatched_records
+sales_product_unmatched,0
+inventory_product_unmatched,0
+sales_order_unmatched,0

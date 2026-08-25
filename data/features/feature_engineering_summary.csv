@@ -1,0 +1,15 @@
+feature_name,data_type,missing_values
+stock_to_sales_ratio,float64,0
+average_selling_price,float64,0
+stock_to_max_ratio,float64,0
+unit_margin,int64,0
+inventory_cost_value,int64,0
+inventory_retail_value,int64,0
+demand_level,category,0
+overstock_flag,str,0
+last_purchase_date_year,int32,0
+last_purchase_date_month,int32,0
+last_purchase_date_month_name,str,0
+last_purchase_date_quarter,int32,0
+missing_value_count,int64,0
+data_completeness_percentage,float64,0

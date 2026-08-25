@@ -1,0 +1,13 @@
+kpi,value
+total_products,30.0
+total_quantity_sold,8211204.0
+total_sales_value,194548527334.8
+total_current_stock,19303266.0
+total_inventory_cost,281292677410.0
+total_inventory_retail_value,358553289820.0
+total_margin,721560.0
+average_selling_price,23693.05735611976
+stock_to_sales_ratio,2.350844772581463
+reorder_risk_products,0.0
+overstock_products,180.0
+inventory_value_growth_percentage,27.466272183611906

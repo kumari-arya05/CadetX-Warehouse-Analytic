@@ -1,0 +1,5 @@
+dataset,original_rows,cleaned_rows,columns,duplicates_removed,missing_before,missing_after
+products,30,30,23,0,0,0
+inventory,180,180,8,0,0,0
+sales_orders_lines,130402,130402,9,0,0,0
+sales_orders_header,20000,20000,11,0,0,0
