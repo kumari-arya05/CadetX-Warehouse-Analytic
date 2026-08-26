@@ -46,6 +46,7 @@ CadetX-Warehouse-Analytic/
 ├── week-01/
 ├── week-02/
 ├── week-03/
+├── week-04/
 └── README.md
 ```
 
@@ -189,6 +190,74 @@ The Week 03 workflow generated:
 
 ---
 
+### Week 04 — Warehouse Operations & Efficiency Analytics
+
+**Status: Completed ✅**
+
+Week 04 focused on analysing warehouse capacity, utilisation, inventory movement, product distribution, warehouse performance, and operational bottlenecks.
+
+#### Work Completed
+
+- Prepared and validated warehouse-related datasets.
+- Analysed warehouse space utilisation and capacity usage.
+- Measured warehouse throughput and inventory movement.
+- Analysed product–warehouse alignment.
+- Developed warehouse performance scores.
+- Identified potential operational bottlenecks.
+- Benchmarked warehouse utilisation and performance.
+- Generated structured CSV outputs for further business analysis.
+
+#### Key Analytical Areas
+
+- Warehouse Data Preparation
+- Warehouse Space Utilisation
+- Warehouse Throughput Analysis
+- Warehouse Capacity Analysis
+- Product–Warehouse Alignment
+- Warehouse Performance Scoring
+- Operational Bottleneck Detection
+- Warehouse Utilisation Benchmarking
+
+#### Week 04 Scripts
+
+| Script | Analysis |
+|---|---|
+| `01_warehouse_data_preparation.py` | Warehouse data preparation and validation |
+| `02_space_utilisation.py` | Warehouse space utilisation |
+| `03_warehouse_throughput.py` | Warehouse throughput analysis |
+| `04_warehouse_capacity.py` | Warehouse capacity analysis |
+| `05_product_warehouse_alignment.py` | Product–warehouse alignment |
+| `06_warehouse_performance.py` | Warehouse performance scoring |
+| `07_bottleneck_detection.py` | Operational bottleneck detection |
+| `08_utilisation_benchmarking.py` | Warehouse utilisation benchmarking |
+
+#### Week 04 Outputs
+
+The Week 04 analysis generated structured CSV outputs covering:
+
+- Warehouse Inventory Preparation
+- Warehouse Space Utilisation
+- Warehouse Throughput
+- Warehouse Capacity
+- Product–Warehouse Alignment
+- Warehouse Performance
+- Bottleneck Detection
+- Warehouse Utilisation Benchmarking
+
+The generated analytical outputs are stored in:
+
+```text
+data/features/
+```
+
+#### Week 04 Documentation
+
+Detailed Week 04 documentation is available in:
+
+`week-04/README.md`
+
+---
+
 ## Tools & Technologies
 
 ### Programming & Data Analysis
@@ -219,6 +288,13 @@ The Week 03 workflow generated:
 - Feature Engineering
 - Exploratory Data Analysis
 - KPI Development
+- Warehouse Analytics
+- Inventory Analytics
+- Capacity Analysis
+- Throughput Analysis
+- Performance Scoring
+- Bottleneck Detection
+- Benchmarking
 - Dataset Relationship Analysis
 - Business Analytics
 - Documentation
@@ -257,7 +333,7 @@ https://github.com/kumari-arya05/CadetX-Warehouse-Analytic
 
 **Project:** Warehouse & Supply Chain Analytics
 
-**Current Phase:** Week 03 — Data Analytics & KPI Foundation
+**Current Phase:** Week 04 — Warehouse Operations & Efficiency Analytics
 
 ---
 
@@ -268,5 +344,6 @@ https://github.com/kumari-arya05/CadetX-Warehouse-Analytic
 | Week 01 — Data Foundation & Exploration | ✅ Completed |
 | Week 02 — Product & Inventory Analytics | ✅ Completed |
 | Week 03 — Data Analytics & KPI Foundation | ✅ Completed |
+| Week 04 — Warehouse Operations & Efficiency Analytics | ✅ Completed |
 
-**Current Project Status:** Week 03 Completed — Ready for the next sprint 🚀
+**Current Project Status:** Week 04 Completed — Ready for the next sprint 🚀
