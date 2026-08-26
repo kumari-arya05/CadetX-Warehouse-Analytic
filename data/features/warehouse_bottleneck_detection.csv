@@ -1,0 +1,7 @@
+branch_id,branch_name,performance_score,performance_category,capacity_utilisation_pct,capacity_status,capacity_risk_level,total_movements,total_throughput,unique_products_moved,throughput_percentile,capacity_pressure_flag,high_throughput_flag,low_performance_flag,bottleneck_indicator_count,bottleneck_status,bottleneck_reason,action_priority
+CHN001,Chennai South Hub,,Unknown,,Unknown,Unknown,44029,3692804,30,100.0,False,True,False,1,Monitor,High Throughput,Low
+DEL001,Delhi Central,,Unknown,,Unknown,Unknown,37967,3622464,30,83.33,False,True,False,1,Monitor,High Throughput,Low
+AHM001,Ahmedabad West Hub,,Unknown,,Unknown,Unknown,39911,3539666,30,33.33,False,False,False,0,No Bottleneck,No Major Bottleneck Indicator,Normal
+HYD001,Hyderabad Logistics,,Unknown,,Unknown,Unknown,36300,3548234,30,50.0,False,False,False,0,No Bottleneck,No Major Bottleneck Indicator,Normal
+KOL001,Kolkata East Depot,,Unknown,,Unknown,Unknown,41272,3538563,30,16.67,False,False,False,0,No Bottleneck,No Major Bottleneck Indicator,Normal
+PUN001,Pune Distribution,,Unknown,,Unknown,Unknown,37751,3580896,30,66.67,False,False,False,0,No Bottleneck,No Major Bottleneck Indicator,Normal

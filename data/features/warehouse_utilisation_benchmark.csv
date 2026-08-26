@@ -1,0 +1,7 @@
+branch_id,branch_name,city,state,region,warehouse_type,performance_score,performance_category,warehouse_capacity,total_current_stock,capacity_utilisation_pct,capacity_status,capacity_risk_level,total_movements,total_throughput,unique_products_moved,throughput_per_movement,stock_per_product,capacity_per_product,utilisation_percentile,throughput_percentile,performance_percentile,benchmark_score,benchmark_category,benchmark_rank,utilisation_benchmark_status
+AHM001,Ahmedabad West Hub,Ahmedabad,Gujarat,West,Service Hub,,Unknown,,3154992,,Unknown,Unknown,39911,3539666,30,88.69,105166.4,,,33.33,,,Unknown,,Unknown
+CHN001,Chennai South Hub,Chennai,Tamil Nadu,South,Regional,,Unknown,,3234245,,Unknown,Unknown,44029,3692804,30,83.87,107808.17,,,100.0,,,Unknown,,Unknown
+DEL001,Delhi Central,Delhi,Delhi,North,Central,,Unknown,,3288670,,Unknown,Unknown,37967,3622464,30,95.41,109622.33,,,83.33,,,Unknown,,Unknown
+HYD001,Hyderabad Logistics,Hyderabad,Telangana,South,Branch,,Unknown,,3245291,,Unknown,Unknown,36300,3548234,30,97.75,108176.37,,,50.0,,,Unknown,,Unknown
+KOL001,Kolkata East Depot,Kolkata,West Bengal,East,Branch,,Unknown,,3123805,,Unknown,Unknown,41272,3538563,30,85.74,104126.83,,,16.67,,,Unknown,,Unknown
+PUN001,Pune Distribution,Pune,Maharashtra,West,Regional,,Unknown,,3256263,,Unknown,Unknown,37751,3580896,30,94.86,108542.1,,,66.67,,,Unknown,,Unknown

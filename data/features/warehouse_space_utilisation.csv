@@ -1,0 +1,7 @@
+branch_id,branch_name,city,state,region,warehouse_type,warehouse_capacity,total_products,total_current_stock,total_max_stock,total_reorder_level,total_safety_stock,stock_utilisation_pct,capacity_utilisation_pct,available_capacity,utilisation_status,capacity_pressure_flag
+AHM001,Ahmedabad West Hub,Ahmedabad,Gujarat,West,Service Hub,,30,3154992,9690,1915,1319,32559.26,,,Unknown,False
+CHN001,Chennai South Hub,Chennai,Tamil Nadu,South,Regional,,30,3234245,9642,1952,1353,33543.3,,,Unknown,False
+DEL001,Delhi Central,Delhi,Delhi,North,Central,,30,3288670,9744,1968,1379,33750.72,,,Unknown,False
+HYD001,Hyderabad Logistics,Hyderabad,Telangana,South,Branch,,30,3245291,9437,1928,1428,34389.01,,,Unknown,False
+KOL001,Kolkata East Depot,Kolkata,West Bengal,East,Branch,,30,3123805,10846,2174,1498,28801.45,,,Unknown,False
+PUN001,Pune Distribution,Pune,Maharashtra,West,Regional,,30,3256263,8557,1682,1160,38053.79,,,Unknown,False
