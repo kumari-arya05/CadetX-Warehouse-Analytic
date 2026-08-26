@@ -16,13 +16,13 @@ The analysis was developed using Python and Pandas, with outputs generated as st
 
 The main objectives of Week 04 were to:
 
-* Analyse warehouse space utilisation
-* Measure warehouse throughput and inventory movement
-* Evaluate warehouse capacity usage
-* Analyse product–warehouse alignment
-* Develop warehouse performance scores
-* Identify potential operational bottlenecks
-* Benchmark warehouse utilisation and performance
+- Analyse warehouse space utilisation
+- Measure warehouse throughput and inventory movement
+- Evaluate warehouse capacity usage
+- Analyse product–warehouse alignment
+- Develop warehouse performance scores
+- Identify potential operational bottlenecks
+- Benchmark warehouse utilisation and performance
 
 ---
 
@@ -30,11 +30,11 @@ The main objectives of Week 04 were to:
 
 The analysis used the following project datasets:
 
-* `branches.csv`
-* `inventory_master.csv`
-* `stock_ledger.csv`
-* `sales_orders_header.csv`
-* `sales_orders_lines.csv`
+- `branches.csv`
+- `inventory_master.csv`
+- `stock_ledger.csv`
+- `sales_orders_header.csv`
+- `sales_orders_lines.csv`
 
 These datasets provide information about warehouse branches, inventory levels, stock movements, products, and sales orders.
 
@@ -56,13 +56,13 @@ Prepared and validated warehouse-related datasets for downstream analysis.
 
 Key activities included:
 
-* Dataset loading
-* Column standardisation
-* Duplicate checks
-* Missing-value checks
-* Data-type validation
-* Referential integrity checks
-* Basic inventory and warehouse feature preparation
+- Dataset loading
+- Column standardisation
+- Duplicate checks
+- Missing-value checks
+- Data-type validation
+- Referential integrity checks
+- Basic inventory and warehouse feature preparation
 
 **Script:** `01_warehouse_data_preparation.py`
 
@@ -74,12 +74,12 @@ Analysed warehouse capacity and current inventory levels to understand warehouse
 
 Key metrics included:
 
-* Warehouse capacity
-* Current stock
-* Maximum stock
-* Capacity utilisation percentage
-* Available capacity
-* Utilisation status
+- Warehouse capacity
+- Current stock
+- Maximum stock
+- Capacity utilisation percentage
+- Available capacity
+- Utilisation status
 
 **Script:** `02_space_utilisation.py`
 
@@ -91,14 +91,14 @@ Analysed stock movements from the stock ledger to measure warehouse operational 
 
 The analysis covered:
 
-* Total movements
-* Inbound quantity
-* Outbound quantity
-* Adjustment quantity
-* Total throughput
-* Unique products moved
-* Outbound-to-inbound ratio
-* Throughput ranking
+- Total movements
+- Inbound quantity
+- Outbound quantity
+- Adjustment quantity
+- Total throughput
+- Unique products moved
+- Outbound-to-inbound ratio
+- Throughput ranking
 
 **Script:** `03_warehouse_throughput.py`
 
@@ -110,13 +110,13 @@ Evaluated warehouse capacity usage and identified capacity pressure.
 
 Key measures included:
 
-* Remaining capacity
-* Capacity utilisation gap
-* Stock headroom
-* Capacity status
-* Capacity pressure
-* Capacity risk level
-* Capacity usage ranking
+- Remaining capacity
+- Capacity utilisation gap
+- Stock headroom
+- Capacity status
+- Capacity pressure
+- Capacity risk level
+- Capacity usage ranking
 
 **Script:** `04_warehouse_capacity.py`
 
@@ -128,12 +128,12 @@ Analysed how products are distributed across warehouses and branches.
 
 The analysis included:
 
-* Product–warehouse combinations
-* Current stock allocation
-* Number of warehouses holding each product
-* Number of products handled by each warehouse
-* Stock status
-* Warehouse alignment classification
+- Product–warehouse combinations
+- Current stock allocation
+- Number of warehouses holding each product
+- Number of products handled by each warehouse
+- Stock status
+- Warehouse alignment classification
 
 **Script:** `05_product_warehouse_alignment.py`
 
@@ -145,9 +145,9 @@ Developed a warehouse performance score using multiple operational indicators.
 
 The scoring framework incorporated:
 
-* Capacity utilisation
-* Warehouse throughput
-* Product coverage
+- Capacity utilisation
+- Warehouse throughput
+- Product coverage
 
 Warehouses were then classified into performance categories and ranked based on their calculated performance scores.
 
@@ -161,13 +161,13 @@ Identified potential warehouse bottlenecks using operational indicators.
 
 The analysis considered:
 
-* Capacity pressure
-* High throughput
-* Low performance
-* Bottleneck indicator count
-* Bottleneck status
-* Bottleneck reasons
-* Action priority
+- Capacity pressure
+- High throughput
+- Low performance
+- Bottleneck indicator count
+- Bottleneck status
+- Bottleneck reasons
+- Action priority
 
 **Script:** `07_bottleneck_detection.py`
 
@@ -179,15 +179,15 @@ Compared warehouses using utilisation, throughput, and performance metrics.
 
 The benchmarking analysis included:
 
-* Capacity utilisation
-* Throughput
-* Performance score
-* Utilisation percentile
-* Throughput percentile
-* Performance percentile
-* Overall benchmark score
-* Benchmark category
-* Benchmark ranking
+- Capacity utilisation
+- Throughput
+- Performance score
+- Utilisation percentile
+- Throughput percentile
+- Performance percentile
+- Overall benchmark score
+- Benchmark category
+- Benchmark ranking
 
 **Script:** `08_utilisation_benchmarking.py`
 
@@ -197,14 +197,14 @@ The benchmarking analysis included:
 
 The analysis generated structured CSV outputs covering:
 
-* Warehouse Inventory Preparation
-* Warehouse Space Utilisation
-* Warehouse Throughput
-* Warehouse Capacity
-* Product–Warehouse Alignment
-* Warehouse Performance
-* Bottleneck Detection
-* Warehouse Utilisation Benchmarking
+- Warehouse Inventory Preparation
+- Warehouse Space Utilisation
+- Warehouse Throughput
+- Warehouse Capacity
+- Product–Warehouse Alignment
+- Warehouse Performance
+- Bottleneck Detection
+- Warehouse Utilisation Benchmarking
 
 The generated analytical outputs are stored in:
 
@@ -216,12 +216,12 @@ data/features/
 
 ## Tools & Technologies
 
-* Python
-* Pandas
-* CSV Data Analysis
-* Git
-* GitHub
-* VS Code
+- Python
+- Pandas
+- CSV Data Analysis
+- Git
+- GitHub
+- VS Code
 
 ---
 
@@ -229,17 +229,17 @@ data/features/
 
 This sprint strengthened practical skills in:
 
-* Data Preparation
-* Data Validation
-* Data Integration
-* Warehouse Analytics
-* Inventory Analytics
-* Capacity Analysis
-* Throughput Analysis
-* Performance Scoring
-* Bottleneck Detection
-* Benchmarking
-* Business-focused Data Analysis
+- Data Preparation
+- Data Validation
+- Data Integration
+- Warehouse Analytics
+- Inventory Analytics
+- Capacity Analysis
+- Throughput Analysis
+- Performance Scoring
+- Bottleneck Detection
+- Benchmarking
+- Business-focused Data Analysis
 
 ---
 
@@ -258,5 +258,3 @@ week-04/
 ├── 08_utilisation_benchmarking.py
 └── README.md
 ```
-
-
