@@ -1,0 +1,9 @@
+supplier_id,purchase_order_count,total_purchase_value,dependency_percentage,supplier_name,supplier_type,product_category,lead_time_days,reliability_score,dependency_risk,dependency_risk_score,dependency_rank
+SUP0005,3044,57021219035.6846,12.909890565271176,Tianjin OEM Supplies,OEM,Small Parts,28,3,High Dependency Risk,100.0,1
+SUP0001,2944,55642967177.5622,12.597847417813968,Shenzhen OEM Supplies,OEM,Medium Parts,19,5,High Dependency Risk,97.58291407754737,2
+SUP0003,3033,55639766617.978004,12.597122795038826,Shanghai Distributor Supplies,Distributor,Large Parts,16,4,High Dependency Risk,97.57730115022257,3
+SUP0007,3028,55597719405.906,12.587603094906063,Suzhou Local Vendor Supplies,Local Vendor,Medium Parts,12,5,High Dependency Risk,97.50356156207786,4
+SUP0008,3010,55354898598.8158,12.532627243819059,Hangzhou OEM Supplies,OEM,Small Parts,26,4,High Dependency Risk,97.07771867201576,5
+SUP0006,3038,55093574928.9478,12.473462251608007,Qingdao Distributor Supplies,Distributor,Large Parts,10,3,High Dependency Risk,96.61942669880406,6
+SUP0004,2966,54060209220.9282,12.239503061852904,Ningbo Distributor Supplies,Distributor,Large Parts,18,3,High Dependency Risk,94.80717903820441,7
+SUP0002,2937,53275953255.0626,12.06194356969,Guangzhou Local Vendor Supplies,Local Vendor,Small Parts,10,5,High Dependency Risk,93.43180338133746,8

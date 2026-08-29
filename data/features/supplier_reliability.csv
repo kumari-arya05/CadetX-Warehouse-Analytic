@@ -1,0 +1,9 @@
+supplier_id,purchase_order_count,total_purchase_value,expected_delivery_date_count,received_date_count,delivery_completion_rate,supplier_name,supplier_type,product_category,lead_time_days,reliability_score,reliability_category,reliability_rank
+SUP0001,2944,55642967177.5622,2944,2653,90.11548913043478,Shenzhen OEM Supplies,OEM,Medium Parts,19,5,Very High Reliability,1
+SUP0007,3028,55597719405.906,3028,2727,90.05944517833554,Suzhou Local Vendor Supplies,Local Vendor,Medium Parts,12,5,Very High Reliability,2
+SUP0002,2937,53275953255.0626,2937,2635,89.71739870616275,Guangzhou Local Vendor Supplies,Local Vendor,Small Parts,10,5,Very High Reliability,3
+SUP0008,3010,55354898598.8158,3010,2722,90.43189368770764,Hangzhou OEM Supplies,OEM,Small Parts,26,4,Very High Reliability,4
+SUP0003,3033,55639766617.978004,3033,2723,89.77909660402243,Shanghai Distributor Supplies,Distributor,Large Parts,16,4,Very High Reliability,5
+SUP0006,3038,55093574928.9478,3038,2752,90.58591178406846,Qingdao Distributor Supplies,Distributor,Large Parts,10,3,Very High Reliability,6
+SUP0005,3044,57021219035.6846,3044,2754,90.473061760841,Tianjin OEM Supplies,OEM,Small Parts,28,3,Very High Reliability,7
+SUP0004,2966,54060209220.9282,2966,2664,89.81793661496965,Ningbo Distributor Supplies,Distributor,Large Parts,18,3,Very High Reliability,8

@@ -1,0 +1,9 @@
+supplier_id,purchase_order_count,total_purchase_value,average_purchase_value,supplier_name,supplier_type,product_category,lead_time_days,reliability_score,purchase_contribution_percentage,high_contribution,high_lead_time,low_reliability,critical_indicator_count,critical_supplier_status,risk_level,critical_supplier_rank
+SUP0005,3044,57021219035.6846,18732332.140500855,Tianjin OEM Supplies,OEM,Small Parts,28,3,12.909890565271176,True,True,True,3,Critical Supplier,Critical,1
+SUP0004,2966,54060209220.9282,18226638.307797775,Ningbo Distributor Supplies,Distributor,Large Parts,18,3,12.239503061852904,True,True,True,3,Critical Supplier,Critical,2
+SUP0001,2944,55642967177.5622,18900464.39455238,Shenzhen OEM Supplies,OEM,Medium Parts,19,5,12.597847417813968,True,True,False,2,Critical Supplier,High,3
+SUP0008,3010,55354898598.8158,18390331.76040392,Hangzhou OEM Supplies,OEM,Small Parts,26,4,12.532627243819059,True,True,False,2,Critical Supplier,High,4
+SUP0006,3038,55093574928.9478,18134817.29063456,Qingdao Distributor Supplies,Distributor,Large Parts,10,3,12.473462251608007,True,False,True,2,Critical Supplier,High,5
+SUP0003,3033,55639766617.978004,18344796.115390044,Shanghai Distributor Supplies,Distributor,Large Parts,16,4,12.597122795038826,True,False,False,1,Non-Critical Supplier,Moderate,6
+SUP0007,3028,55597719405.906,18361201.91740621,Suzhou Local Vendor Supplies,Local Vendor,Medium Parts,12,5,12.587603094906063,True,False,False,1,Non-Critical Supplier,Moderate,7
+SUP0002,2937,53275953255.0626,18139582.313606605,Guangzhou Local Vendor Supplies,Local Vendor,Small Parts,10,5,12.06194356969,True,False,False,1,Non-Critical Supplier,Moderate,8

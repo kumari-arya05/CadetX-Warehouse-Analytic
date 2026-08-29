@@ -1,0 +1,9 @@
+supplier_id,purchase_order_count,total_purchase_cost,total_gst_amount,total_purchase_value,supplier_name,supplier_type,product_category,city,province,region,lead_time_days,reliability_score,contribution_percentage,contribution_rank,contribution_category
+SUP0005,3044,44748497243.67,12272721792.0146,57021219035.6846,Tianjin OEM Supplies,OEM,Small Parts,Tianjin,Tianjin,North China,28,3,12.909890565271176,1,Very High Contribution
+SUP0001,2944,43664270006.090004,11978697171.4722,55642967177.5622,Shenzhen OEM Supplies,OEM,Medium Parts,Shenzhen,Guangdong,South China,19,5,12.597847417813968,2,Very High Contribution
+SUP0003,3033,43657994600.35,11981772017.628,55639766617.978004,Shanghai Distributor Supplies,Distributor,Large Parts,Shanghai,Shanghai,East China,16,4,12.597122795038826,3,Very High Contribution
+SUP0007,3028,43632412424.6,11965306981.306002,55597719405.906,Suzhou Local Vendor Supplies,Local Vendor,Medium Parts,Suzhou,Jiangsu,East China,12,5,12.587603094906063,4,Very High Contribution
+SUP0008,3010,43432705804.86,11922192793.955801,55354898598.8158,Hangzhou OEM Supplies,OEM,Small Parts,Hangzhou,Zhejiang,East China,26,4,12.532627243819059,5,Very High Contribution
+SUP0006,3038,43243725354.91,11849849574.037802,55093574928.9478,Qingdao Distributor Supplies,Distributor,Large Parts,Qingdao,Shandong,East China,10,3,12.473462251608007,6,Very High Contribution
+SUP0004,2966,42427550782.14,11632658438.7882,54060209220.9282,Ningbo Distributor Supplies,Distributor,Large Parts,Ningbo,Zhejiang,East China,18,3,12.239503061852904,7,Very High Contribution
+SUP0002,2937,41814821322.52,11461131932.5426,53275953255.0626,Guangzhou Local Vendor Supplies,Local Vendor,Small Parts,Guangzhou,Guangdong,South China,10,5,12.06194356969,8,Very High Contribution

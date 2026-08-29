@@ -1,0 +1,9 @@
+product_category,supplier_id,supplier_name,purchase_order_count,total_purchase_value,category_purchase_share,supplier_category_rank,diversification_risk,supplier_count,region_count,diversification_status
+Large Parts,SUP0003,Shanghai Distributor Supplies,3033,55639766617.978004,33.763315590158136,1,Low Concentration,3,1,Well Diversified
+Large Parts,SUP0006,Qingdao Distributor Supplies,3038,55093574928.9478,33.431875623918415,2,Low Concentration,3,1,Well Diversified
+Large Parts,SUP0004,Ningbo Distributor Supplies,2966,54060209220.9282,32.804808785923456,3,Low Concentration,3,1,Well Diversified
+Medium Parts,SUP0001,Shenzhen OEM Supplies,2944,55642967177.5622,50.02033777974854,1,Moderate Concentration,2,2,Moderately Diversified
+Medium Parts,SUP0007,Suzhou Local Vendor Supplies,3028,55597719405.906,49.97966222025146,2,Moderate Concentration,2,2,Moderately Diversified
+Small Parts,SUP0005,Tianjin OEM Supplies,3044,57021219035.6846,34.422279618646925,1,Low Concentration,3,3,Well Diversified
+Small Parts,SUP0008,Hangzhou OEM Supplies,3010,55354898598.8158,33.41636376868469,2,Low Concentration,3,3,Well Diversified
+Small Parts,SUP0002,Guangzhou Local Vendor Supplies,2937,53275953255.0626,32.16135661266839,3,Low Concentration,3,3,Well Diversified
