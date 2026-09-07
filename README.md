@@ -347,3 +347,96 @@ https://github.com/kumari-arya05/CadetX-Warehouse-Analytic
 | Week 04 â€” Warehouse Operations & Efficiency Analytics | âœ… Completed |
 
 **Current Project Status:** Week 04 Completed â€” Ready for the next sprint ðŸš€
+---
+
+### Week 05 — Sales & Purchase Analytics
+
+**Status: Completed ?**
+
+Week 05 focused on sales, purchase, and business performance analytics.
+
+#### Work Completed
+
+- Analysed sales order performance.
+- Analysed purchase order performance.
+- Developed sales and purchase KPIs.
+- Analysed revenue and order trends.
+- Analysed supplier and procurement performance.
+- Generated structured analytical outputs.
+
+#### Week 05 Documentation
+
+Detailed Week 05 documentation is available in:
+
+week-05/README.md
+
+---
+
+### Week 06 — Inventory & Warehouse Analytics
+
+**Status: Completed ?**
+
+Week 06 focused on inventory and warehouse analytics.
+
+#### Work Completed
+
+- Analysed inventory levels and stock movement.
+- Analysed warehouse operations and efficiency.
+- Developed inventory-related analytical features.
+- Identified inventory risks and operational patterns.
+- Generated structured analytical outputs.
+
+#### Week 06 Documentation
+
+Detailed Week 06 documentation is available in:
+
+week-06/README.md
+
+---
+
+### Week 07 — Supplier & Customer Analytics
+
+**Status: Completed ?**
+
+Week 07 focused on supplier performance, supplier risk, customer behaviour, and customer analytics.
+
+#### Supplier Analytics
+
+- Supplier Reliability Analysis
+- Supplier Performance Comparison
+- Supplier Dependency Risk Analysis
+- Critical Supplier Identification
+
+#### Customer Analytics
+
+- Customer Purchase Behaviour Analysis
+- RFM Analysis
+- Customer Segmentation
+- Customer Lifetime Value Analysis
+- Customer Retention Analysis
+- Customer Churn Analysis
+- Customer Cohort Analysis
+- High-Value Customer Identification
+- At-Risk Customer Identification
+- Customer Analytics Summary
+
+#### Week 07 Documentation
+
+Detailed Week 07 documentation is available in:
+
+week-07/README.md
+
+---
+
+### Project Status
+
+| Week | Status |
+|------|--------|
+| Week 01 | ? Completed |
+| Week 02 | ? Completed |
+| Week 03 | ? Completed |
+| Week 04 | ? Completed |
+| Week 05 | ? Completed |
+| Week 06 | ? Completed |
+| Week 07 | ? Completed |
+
