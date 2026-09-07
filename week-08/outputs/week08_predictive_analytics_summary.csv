@@ -1,0 +1,22 @@
+Metric,Value
+Demand Forecast Records,65751
+Inventory Forecast Records,396433
+Stockout Risk Records,180
+Reorder Point Records,30
+Safety Stock Records,30
+Scenario Forecast Records,180
+Unique Products Analysed,30
+Critical Stockout Risk Items,0
+High Stockout Risk Items,0
+Medium Stockout Risk Items,0
+Low Stockout Risk Items,180
+Increase Reorder Level Recommendations,29
+Decrease Reorder Level Recommendations,1
+Maintain Reorder Level Recommendations,0
+Increase Safety Stock Recommendations,28
+Decrease Safety Stock Recommendations,2
+Maintain Safety Stock Recommendations,0
+High Stockout Scenario Items,0
+Monitor Closely Scenario Items,0
+Potential Overstock Scenario Items,180
+Healthy Scenario Items,0
