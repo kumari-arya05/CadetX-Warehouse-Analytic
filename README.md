@@ -1,4 +1,4 @@
-# CadetX Warehouse Analytics
+﻿# CadetX Warehouse Analytics
 
 ├── week-05/
 ├── week-06/
@@ -52,6 +52,9 @@ CadetX-Warehouse-Analytic/
  week-02/
  week-03/
  week-04/
+    week-05/
+    week-06/
+    week-07/
  README.md
 ```
 
