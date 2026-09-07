@@ -448,3 +448,48 @@ week-07/README.md
 | Week 06 | Completed |
 | Week 07 | Completed |
 
+
+### Week 08 Predictive Analytics
+
+**Status: Completed**
+
+Week 08 focused on predictive analytics for demand forecasting, inventory planning, stockout risk prediction, reorder point optimisation, safety stock calculation, and scenario-based inventory forecasting.
+
+#### Work Completed
+
+- Developed product demand forecasting.
+- Developed inventory level forecasting.
+- Implemented stockout risk prediction.
+- Optimised reorder points using demand and lead-time information.
+- Calculated recommended safety stock using demand variability and product criticality.
+- Developed scenario-based inventory forecasting.
+- Generated predictive analytics summary metrics.
+- Validated Week 08 analytical outputs.
+
+#### Week 08 Scripts
+
+-  1_product_demand_forecasting.py - Product demand forecasting
+-  2_inventory_level_forecasting.py - Inventory level forecasting
+-  3_stockout_risk_prediction.py - Stockout risk prediction
+-  4_reorder_point_optimization.py - Reorder point optimisation
+-  5_safety_stock_calculation.py - Safety stock calculation
+-  6_scenario_inventory_forecasting.py - Scenario-based inventory forecasting
+-  7_week08_summary.py - Week 08 predictive analytics summary
+
+#### Week 08 Outputs
+
+- product_demand_forecasting.csv`n- inventory_level_forecasting.csv`n- stockout_risk_prediction.csv`n- eorder_point_optimization.csv`n- safety_stock_calculation.csv`n- scenario_inventory_forecasting.csv`n- week08_predictive_analytics_summary.csv`n
+### Project Status
+
+| Week | Status |
+|---|---|
+| Week 01 | Completed |
+| Week 02 | Completed |
+| Week 03 | Completed |
+| Week 04 | Completed |
+| Week 05 | Completed |
+| Week 06 | Completed |
+| Week 07 | Completed |
+| Week 08 | Completed |
+
+## Current Project Status: Week 08 Completed - Ready for the next sprint
