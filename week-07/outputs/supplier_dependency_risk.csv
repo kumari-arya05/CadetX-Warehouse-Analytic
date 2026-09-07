@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_type,product_category,city,province,region,reliability_score,total_orders,total_purchase_value,order_dependency_percentage,value_dependency_percentage,dependency_risk_score,dependency_risk,critical_supplier
+SUP0005,Tianjin OEM Supplies,OEM,Small Parts,Tianjin,Tianjin,North China,3,3044,44748497243.67,12.68,12.91,1,Low Risk,False
+SUP0001,Shenzhen OEM Supplies,OEM,Medium Parts,Shenzhen,Guangdong,South China,5,2944,43664270006.09,12.27,12.6,1,Low Risk,False
+SUP0003,Shanghai Distributor Supplies,Distributor,Large Parts,Shanghai,Shanghai,East China,4,3033,43657994600.35,12.64,12.6,1,Low Risk,False
+SUP0007,Suzhou Local Vendor Supplies,Local Vendor,Medium Parts,Suzhou,Jiangsu,East China,5,3028,43632412424.6,12.62,12.59,1,Low Risk,False
+SUP0008,Hangzhou OEM Supplies,OEM,Small Parts,Hangzhou,Zhejiang,East China,4,3010,43432705804.86,12.54,12.53,1,Low Risk,False
+SUP0006,Qingdao Distributor Supplies,Distributor,Large Parts,Qingdao,Shandong,East China,3,3038,43243725354.91,12.66,12.48,1,Low Risk,False
+SUP0004,Ningbo Distributor Supplies,Distributor,Large Parts,Ningbo,Zhejiang,East China,3,2966,42427550782.14,12.36,12.24,1,Low Risk,False
+SUP0002,Guangzhou Local Vendor Supplies,Local Vendor,Small Parts,Guangzhou,Guangdong,South China,5,2937,41814821322.52,12.24,12.06,1,Low Risk,False

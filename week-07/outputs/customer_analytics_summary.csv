@@ -1,0 +1,16 @@
+analysis,metric,value
+Customer Purchase Behaviour,Total Customers,500.0
+Customer Purchase Behaviour,Total Orders,20000.0
+Customer Purchase Behaviour,Total Order Value,25447392560.0
+RFM Analysis,Customers Analysed,500.0
+RFM Analysis,RFM Segments,5.0
+Customer Segmentation,Customers Segmented,500.0
+Customer Lifetime Value,Customers Analysed,500.0
+Customer Lifetime Value,Total Estimated 3-Year CLV,13390922585.52
+Customer Lifetime Value,Average Estimated 3-Year CLV,26781845.17
+Customer Retention,Customers Analysed,500.0
+Customer Churn,Customers Analysed,500.0
+Customer Churn,Churned Customers,17.0
+Customer Cohort Analysis,Cohort Records,644.0
+High-Value Customer Identification,High-Value Customers,100.0
+At-Risk Customer Identification,At-Risk Customers,99.0

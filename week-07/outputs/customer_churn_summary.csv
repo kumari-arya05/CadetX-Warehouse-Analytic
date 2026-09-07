@@ -1,0 +1,4 @@
+churn_status,customers,total_revenue,average_days_since_purchase
+Active,401,20636105880,34.64
+At Risk,82,3979059250,119.68
+Churned,17,832227430,212.82

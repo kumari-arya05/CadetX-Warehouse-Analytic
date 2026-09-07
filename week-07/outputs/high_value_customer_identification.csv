@@ -1,0 +1,501 @@
+customer_id,customer_type,industry_segment,city,state,region,customer_rating,total_orders,total_revenue,first_purchase_date,last_purchase_date,customer_lifetime_days,customer_lifetime_years,annual_customer_value,estimated_3_year_clv,clv_segment,is_high_value_customer,value_rank,value_category
+C0288,Dealer,Infrastructure,Delhi,Delhi,North,3,63,84094790,2019-02-21,2024-10-18,2066,5.66,14857017.59,44571052.78,High CLV,True,1,High Value
+C0483,Corporate,Rental,Delhi,Delhi,North,1,53,85183900,2019-02-20,2024-12-18,2128,5.83,14610960.29,43832880.87,High CLV,True,2,High Value
+C0153,Retail,Rental,Patna,Bihar,East,4,59,85877020,2019-01-17,2024-12-12,2156,5.91,14538549.3,43615647.91,High CLV,True,3,High Value
+C0254,Dealer,Mining,Ahmedabad,Gujarat,West,5,52,75547750,2019-07-01,2024-09-25,1913,5.24,14414494.9,43243484.71,High CLV,True,4,High Value
+C0240,Corporate,Manufacturing,Hyderabad,Telangana,South,1,50,81776260,2019-02-19,2024-11-10,2091,5.73,14274669.97,42824009.9,High CLV,True,5,High Value
+C0342,Dealer,Infrastructure,Delhi,Delhi,North,5,44,78469470,2019-04-12,2024-10-09,2007,5.5,14270730.72,42812192.15,High CLV,True,6,High Value
+C0420,Retail,Rental,Chennai,Tamil Nadu,South,3,54,82700390,2019-01-10,2024-11-22,2143,5.87,14085694.05,42257082.15,High CLV,True,7,High Value
+C0207,Corporate,Rental,Kolkata,West Bengal,East,1,51,79795630,2019-02-10,2024-10-13,2072,5.68,14056662.62,42169987.86,High CLV,True,8,High Value
+C0495,Fleet Owner,Infrastructure,Jaipur,Rajasthan,North,2,52,82914040,2019-01-01,2024-11-25,2155,5.9,14043445.29,42130335.87,High CLV,True,9,High Value
+C0083,Dealer,Infrastructure,Delhi,Delhi,North,2,50,74075280,2019-05-23,2024-10-04,1961,5.37,13787596.74,41362790.21,High CLV,True,10,High Value
+C0110,Dealer,Logistics,Indore,Madhya Pradesh,Central,5,44,74097790,2019-01-25,2024-06-21,1974,5.41,13700959.14,41102877.43,High CLV,True,11,High Value
+C0359,Fleet Owner,Mining,Hyderabad,Telangana,South,3,52,78412380,2019-02-12,2024-11-28,2116,5.8,13525764.98,40577294.94,High CLV,True,12,High Value
+C0466,Retail,Manufacturing,Bengaluru,Karnataka,South,3,52,78342990,2019-01-25,2024-12-13,2149,5.89,13306277.97,39918833.9,High CLV,True,13,High Value
+C0046,Retail,Rental,Ahmedabad,Gujarat,West,3,51,76069120,2019-02-03,2024-12-09,2136,5.85,12998702.62,38996107.87,High CLV,True,14,High Value
+C0475,Fleet Owner,Construction,Kolkata,West Bengal,East,3,58,76825820,2019-01-19,2024-12-18,2160,5.92,12982140.88,38946422.64,High CLV,True,15,High Value
+C0178,Dealer,Logistics,Kolkata,West Bengal,East,1,58,76367620,2019-01-22,2024-12-09,2148,5.88,12976806.94,38930420.81,High CLV,True,16,High Value
+C0482,Fleet Owner,Logistics,Kolkata,West Bengal,East,1,36,64020490,2019-12-15,2024-12-03,1815,4.97,12874643.99,38623931.98,High CLV,True,17,High Value
+C0206,Retail,Construction,Pune,Maharashtra,West,3,46,75741580,2019-01-08,2024-12-11,2164,5.93,12775266.5,38325799.49,High CLV,True,18,High Value
+C0291,Retail,Construction,Hyderabad,Telangana,South,2,54,73179030,2019-03-13,2024-12-03,2092,5.73,12767851.79,38303555.38,High CLV,True,19,High Value
+C0084,Corporate,Logistics,Pune,Maharashtra,West,3,47,71147780,2019-04-29,2024-12-05,2047,5.61,12686340.84,38059022.52,High CLV,True,20,High Value
+C0421,Retail,Construction,Chennai,Tamil Nadu,South,3,45,69154590,2019-04-06,2024-09-17,1991,5.45,12677762.61,38033287.82,High CLV,True,21,High Value
+C0200,Retail,Logistics,Ranchi,Jharkhand,East,2,52,73304770,2019-02-09,2024-11-25,2116,5.8,12644726.39,37934179.18,High CLV,True,22,High Value
+C0134,Fleet Owner,Infrastructure,Ahmedabad,Gujarat,West,5,50,71908050,2019-03-03,2024-11-24,2093,5.73,12540104.28,37620312.83,High CLV,True,23,High Value
+C0490,Government,Logistics,Pune,Maharashtra,West,3,50,73710890,2019-01-26,2024-12-29,2164,5.93,12432751.78,37298255.34,High CLV,True,24,High Value
+C0241,Government,Construction,Ahmedabad,Gujarat,West,1,46,71234710,2019-02-01,2024-10-31,2099,5.75,12387169.68,37161509.03,High CLV,True,25,High Value
+C0462,Retail,Logistics,Chennai,Tamil Nadu,South,5,52,72302020,2019-01-06,2024-11-13,2138,5.86,12343422.5,37030267.49,High CLV,True,26,High Value
+C0371,Retail,Rental,Hyderabad,Telangana,South,3,51,71366470,2019-01-03,2024-11-02,2130,5.84,12229465.52,36688396.55,High CLV,True,27,High Value
+C0380,Fleet Owner,Manufacturing,Hyderabad,Telangana,South,5,58,71455250,2019-01-29,2024-12-08,2140,5.86,12187460.86,36562382.59,High CLV,True,28,High Value
+C0272,Government,Construction,Delhi,Delhi,North,1,43,64345280,2019-09-01,2024-12-13,1930,5.29,12168926.01,36506778.03,High CLV,True,29,High Value
+C0304,Dealer,Construction,Delhi,Delhi,North,5,51,71638560,2019-01-26,2024-12-25,2160,5.92,12105590.0,36316770.0,High CLV,True,30,High Value
+C0422,Government,Construction,Hyderabad,Telangana,South,5,44,61810690,2019-09-19,2024-11-04,1873,5.13,12045329.34,36135988.01,High CLV,True,31,High Value
+C0005,Dealer,Construction,Ahmedabad,Gujarat,West,2,51,67256610,2019-02-28,2024-10-04,2045,5.6,12004236.01,36012708.04,High CLV,True,32,High Value
+C0294,Government,Infrastructure,Hyderabad,Telangana,South,4,51,69115310,2019-03-26,2024-12-27,2103,5.76,11995762.32,35987286.95,High CLV,True,33,High Value
+C0468,Fleet Owner,Rental,Hyderabad,Telangana,South,1,56,70116180,2019-02-11,2024-12-31,2150,5.89,11903444.51,35710333.53,High CLV,True,34,High Value
+C0107,Fleet Owner,Construction,Delhi,Delhi,North,1,52,70691460,2019-01-01,2024-12-11,2171,5.95,11885022.06,35655066.19,High CLV,True,35,High Value
+C0440,Retail,Manufacturing,Hyderabad,Telangana,South,5,47,67904760,2019-01-29,2024-10-21,2092,5.73,11847627.82,35542883.46,High CLV,True,36,High Value
+C0197,Government,Manufacturing,Ahmedabad,Gujarat,West,2,50,66821570,2019-02-22,2024-10-18,2065,5.66,11811076.54,35433229.61,High CLV,True,37,High Value
+C0142,Retail,Manufacturing,Ahmedabad,Gujarat,West,1,48,68942040,2019-02-06,2024-12-08,2132,5.84,11802928.99,35408786.96,High CLV,True,38,High Value
+C0307,Dealer,Manufacturing,Ahmedabad,Gujarat,West,1,48,68834490,2019-01-15,2024-11-24,2140,5.86,11740462.08,35221386.24,High CLV,True,39,High Value
+C0435,Dealer,Manufacturing,Chennai,Tamil Nadu,South,4,57,66153460,2019-03-12,2024-11-01,2061,5.65,11715678.26,35147034.79,High CLV,True,40,High Value
+C0070,Government,Logistics,Ahmedabad,Gujarat,West,3,48,68783440,2019-02-04,2024-12-20,2146,5.88,11698954.15,35096862.44,High CLV,True,41,High Value
+C0394,Government,Construction,Hyderabad,Telangana,South,4,46,66611310,2019-03-08,2024-11-21,2085,5.71,11660972.73,34982918.2,High CLV,True,42,High Value
+C0491,Dealer,Infrastructure,Chennai,Tamil Nadu,South,1,32,61370730,2019-03-27,2024-07-04,1926,5.28,11630486.21,34891458.64,High CLV,True,43,High Value
+C0385,Corporate,Manufacturing,Ahmedabad,Gujarat,West,2,42,60053350,2019-07-27,2024-09-23,1885,5.16,11628367.51,34885102.52,High CLV,True,44,High Value
+C0244,Government,Logistics,Lucknow,Uttar Pradesh,North,3,48,64972160,2019-05-06,2024-12-09,2044,5.6,11602171.43,34806514.29,High CLV,True,45,High Value
+C0489,Fleet Owner,Rental,Chennai,Tamil Nadu,South,5,51,61811660,2019-04-14,2024-08-17,1952,5.35,11558020.44,34674061.32,High CLV,True,46,High Value
+C0476,Fleet Owner,Infrastructure,Delhi,Delhi,North,3,38,65951870,2019-01-13,2024-09-29,2086,5.72,11539996.43,34619989.29,High CLV,True,47,High Value
+C0403,Government,Construction,Kolkata,West Bengal,East,4,49,66810710,2019-02-19,2024-12-10,2121,5.81,11497364.05,34492092.15,High CLV,True,48,High Value
+C0375,Fleet Owner,Mining,Surat,Gujarat,West,1,44,65579710,2019-02-20,2024-11-03,2083,5.71,11491403.82,34474211.45,High CLV,True,49,High Value
+C0384,Retail,Construction,Chennai,Tamil Nadu,South,3,42,64311810,2019-02-05,2024-09-09,2043,5.6,11489873.05,34469619.16,High CLV,True,50,High Value
+C0076,Government,Mining,Chennai,Tamil Nadu,South,2,49,68416560,2019-01-12,2024-12-27,2176,5.96,11476123.35,34428370.04,High CLV,True,51,High Value
+C0297,Fleet Owner,Rental,Chennai,Tamil Nadu,South,3,39,62422580,2019-01-19,2024-07-01,1990,5.45,11449367.69,34348103.07,High CLV,True,52,High Value
+C0221,Dealer,Logistics,Delhi,Delhi,North,5,44,64336800,2019-01-17,2024-09-05,2058,5.64,11410559.77,34231679.3,High CLV,True,53,High Value
+C0006,Government,Construction,Ahmedabad,Gujarat,West,3,46,60992880,2019-04-21,2024-09-02,1961,5.37,11352575.83,34057727.49,High CLV,True,54,High Value
+C0062,Dealer,Construction,Hyderabad,Telangana,South,1,38,63839240,2019-03-18,2024-10-31,2054,5.63,11344363.49,34033090.46,High CLV,True,55,High Value
+C0169,Fleet Owner,Construction,Ahmedabad,Gujarat,West,4,44,63375830,2019-03-25,2024-10-27,2043,5.6,11322651.96,33967955.87,High CLV,True,56,High Value
+C0201,Dealer,Infrastructure,Chennai,Tamil Nadu,South,4,49,66387120,2019-02-01,2024-12-13,2142,5.87,11312464.43,33937393.28,High CLV,True,57,High Value
+C0103,Dealer,Infrastructure,Coimbatore,Tamil Nadu,South,4,42,62476630,2019-02-21,2024-08-29,2016,5.52,11311493.03,33934479.09,High CLV,True,58,High Value
+C0295,Corporate,Mining,Kolkata,West Bengal,East,5,46,63205470,2019-03-07,2024-10-09,2043,5.6,11292215.64,33876646.92,High CLV,True,59,High Value
+C0041,Government,Rental,Hyderabad,Telangana,South,5,42,60948700,2019-01-11,2024-06-11,1978,5.42,11246853.13,33740559.4,High CLV,True,60,High Value
+C0373,Corporate,Manufacturing,Hyderabad,Telangana,South,3,43,60942770,2019-04-03,2024-09-02,1979,5.42,11240076.33,33720228.98,High CLV,True,61,High Value
+C0135,Retail,Rental,Bengaluru,Karnataka,South,2,45,61465530,2019-03-09,2024-08-27,1998,5.47,11228687.91,33686063.74,High CLV,True,62,High Value
+C0119,Government,Manufacturing,Surat,Gujarat,West,4,58,65855380,2019-01-07,2024-11-23,2147,5.88,11195721.33,33587164.0,High CLV,True,63,High Value
+C0102,Government,Infrastructure,Patna,Bihar,East,4,38,62773480,2019-03-11,2024-10-24,2054,5.63,11154975.75,33464927.26,High CLV,True,64,High Value
+C0069,Dealer,Logistics,Delhi,Delhi,North,2,52,64878390,2019-02-18,2024-12-11,2123,5.82,11154315.76,33462947.27,High CLV,True,65,High Value
+C0049,Dealer,Manufacturing,Coimbatore,Tamil Nadu,South,5,42,66038070,2019-01-25,2024-12-25,2161,5.92,11154046.99,33462140.98,High CLV,True,66,High Value
+C0209,Corporate,Infrastructure,Ranchi,Jharkhand,East,5,46,56741580,2019-10-18,2024-11-22,1862,5.1,11122812.41,33368437.22,High CLV,True,67,High Value
+C0082,Fleet Owner,Manufacturing,Ahmedabad,Gujarat,West,3,50,63866170,2019-03-17,2024-12-18,2103,5.76,11084713.29,33254139.87,High CLV,True,68,High Value
+C0411,Corporate,Mining,Hyderabad,Telangana,South,5,46,61125740,2019-06-05,2024-12-12,2017,5.53,11061425.43,33184276.3,High CLV,True,69,High Value
+C0013,Dealer,Construction,Surat,Gujarat,West,2,49,64377720,2019-01-02,2024-10-27,2125,5.82,11057820.14,33173460.42,High CLV,True,70,High Value
+C0168,Dealer,Infrastructure,Pune,Maharashtra,West,1,38,61195700,2019-06-02,2024-12-18,2026,5.55,11024891.66,33074674.98,High CLV,True,71,High Value
+C0311,Government,Infrastructure,Chandigarh,Punjab,North,4,46,61951490,2019-02-03,2024-09-17,2053,5.62,11014268.8,33042806.41,High CLV,True,72,High Value
+C0060,Dealer,Mining,Hyderabad,Telangana,South,1,50,64410620,2019-01-19,2024-11-24,2136,5.85,11006496.4,33019489.19,High CLV,True,73,High Value
+C0113,Corporate,Logistics,Chennai,Tamil Nadu,South,2,42,65271430,2019-01-13,2024-12-23,2171,5.95,10973777.96,32921333.88,High CLV,True,74,High Value
+C0250,Government,Infrastructure,Patna,Bihar,East,2,45,63230590,2019-03-08,2024-12-20,2114,5.79,10917296.76,32751890.28,High CLV,True,75,High Value
+C0356,Dealer,Mining,Bhubaneswar,Odisha,East,2,45,62479450,2019-03-16,2024-12-05,2091,5.73,10906264.59,32718793.76,High CLV,True,76,High Value
+C0126,Dealer,Manufacturing,Hyderabad,Telangana,South,4,39,55322000,2019-03-05,2024-04-05,1858,5.09,10867884.82,32603654.47,High CLV,True,77,High Value
+C0129,Corporate,Mining,Delhi,Delhi,North,5,40,64690070,2019-01-06,2024-12-18,2173,5.95,10866026.48,32598079.45,High CLV,True,78,High Value
+C0300,Dealer,Mining,Delhi,Delhi,North,1,44,60578170,2019-05-05,2024-11-30,2036,5.58,10860035.39,32580106.16,High CLV,True,79,High Value
+C0131,Corporate,Rental,Hyderabad,Telangana,South,2,39,57656260,2019-02-21,2024-06-14,1940,5.32,10847698.4,32543095.21,High CLV,True,80,High Value
+C0337,Corporate,Manufacturing,Delhi,Delhi,North,2,35,58199500,2019-04-15,2024-08-25,1959,5.37,10843704.7,32531114.09,High CLV,True,81,High Value
+C0165,Fleet Owner,Manufacturing,Delhi,Delhi,North,4,51,63180540,2019-02-27,2024-12-24,2127,5.83,10841982.65,32525947.95,High CLV,True,82,High Value
+C0459,Retail,Logistics,Ranchi,Jharkhand,East,5,45,62289100,2019-03-10,2024-12-14,2106,5.77,10795594.25,32386782.76,High CLV,True,83,High Value
+C0215,Corporate,Rental,Chennai,Tamil Nadu,South,5,53,62827530,2019-02-28,2024-12-24,2126,5.82,10786476.22,32359428.67,High CLV,True,84,High Value
+C0042,Fleet Owner,Rental,Chennai,Tamil Nadu,South,4,44,61493750,2019-01-25,2024-10-13,2088,5.72,10749625.84,32248877.51,High CLV,True,85,High Value
+C0141,Corporate,Rental,Ahmedabad,Gujarat,West,4,40,59888120,2019-04-06,2024-11-15,2050,5.62,10663006.73,31989020.2,High CLV,True,86,High Value
+C0225,Fleet Owner,Logistics,Delhi,Delhi,North,5,51,56839930,2019-03-17,2024-07-17,1949,5.34,10644727.78,31934183.35,High CLV,True,87,High Value
+C0246,Retail,Manufacturing,Delhi,Delhi,North,2,37,61368980,2019-01-26,2024-11-02,2107,5.77,10631076.27,31893228.81,High CLV,True,88,High Value
+C0234,Corporate,Infrastructure,Surat,Gujarat,West,2,33,63256170,2019-01-09,2024-12-26,2178,5.97,10600781.47,31802344.42,High CLV,True,89,High Value
+C0196,Fleet Owner,Rental,Guwahati,Assam,North East,3,54,61286970,2019-01-09,2024-10-28,2119,5.81,10556745.66,31670236.97,High CLV,True,90,High Value
+C0306,Fleet Owner,Manufacturing,Kolkata,West Bengal,East,1,47,57049240,2019-07-19,2024-12-16,1977,5.42,10532611.33,31597833.99,High CLV,True,91,High Value
+C0116,Dealer,Construction,Delhi,Delhi,North,1,40,60134220,2019-01-06,2024-09-25,2089,5.72,10506936.48,31520809.43,High CLV,True,92,High Value
+C0478,Retail,Rental,Delhi,Delhi,North,1,47,61995630,2019-02-04,2024-12-29,2155,5.9,10500419.93,31501259.79,High CLV,True,93,High Value
+C0276,Dealer,Manufacturing,Indore,Madhya Pradesh,Central,3,49,62626530,2019-01-08,2024-12-29,2182,5.98,10476023.58,31428070.74,High CLV,True,94,High Value
+C0219,Government,Manufacturing,Pune,Maharashtra,West,2,48,62317920,2019-01-09,2024-12-21,2173,5.95,10467575.15,31402725.45,High CLV,True,95,High Value
+C0242,Government,Construction,Chennai,Tamil Nadu,South,3,50,60722930,2019-01-30,2024-11-18,2119,5.81,10459589.17,31378767.51,High CLV,True,96,High Value
+C0002,Fleet Owner,Manufacturing,Hyderabad,Telangana,South,2,56,61160690,2019-01-24,2024-11-28,2135,5.85,10456043.02,31368129.06,High CLV,True,97,High Value
+C0237,Dealer,Infrastructure,Coimbatore,Tamil Nadu,South,5,46,59754510,2019-01-28,2024-10-15,2087,5.72,10450597.1,31351791.3,High CLV,True,98,High Value
+C0186,Fleet Owner,Infrastructure,Kolkata,West Bengal,East,3,42,60717650,2019-02-17,2024-12-11,2124,5.82,10434059.44,31302178.32,High CLV,True,99,High Value
+C0063,Retail,Rental,Delhi,Delhi,North,5,43,60573240,2019-02-28,2024-12-19,2121,5.81,10423966.34,31271899.01,High CLV,True,100,High Value
+C0025,Corporate,Infrastructure,Pune,Maharashtra,West,2,44,58809760,2019-01-29,2024-09-21,2062,5.65,10410069.06,31230207.18,Medium CLV,False,101,Standard
+C0160,Retail,Rental,Ahmedabad,Gujarat,West,2,49,59980970,2019-02-19,2024-11-23,2104,5.76,10405443.94,31216331.82,Medium CLV,False,102,Standard
+C0253,Retail,Rental,Pune,Maharashtra,West,2,40,59006480,2019-03-28,2024-11-27,2071,5.67,10399500.34,31198501.01,Medium CLV,False,103,Standard
+C0433,Dealer,Infrastructure,Chandigarh,Punjab,North,3,38,51222820,2019-09-11,2024-08-13,1798,4.93,10398403.39,31195210.18,Medium CLV,False,104,Standard
+C0154,Fleet Owner,Logistics,Delhi,Delhi,North,5,46,61178520,2019-01-29,2024-12-16,2148,5.88,10395791.34,31187374.02,Medium CLV,False,105,Standard
+C0045,Corporate,Rental,Kolkata,West Bengal,East,4,43,60965470,2019-02-02,2024-12-15,2143,5.87,10383759.47,31151278.42,Medium CLV,False,106,Standard
+C0282,Government,Logistics,Kolkata,West Bengal,East,2,51,61527530,2019-01-17,2024-12-24,2168,5.94,10358647.81,31075943.43,Medium CLV,False,107,Standard
+C0071,Corporate,Rental,Jaipur,Rajasthan,North,2,47,60419160,2019-01-24,2024-11-26,2133,5.84,10338956.12,31016868.35,Medium CLV,False,108,Standard
+C0216,Government,Mining,Kolkata,West Bengal,East,1,46,60089830,2019-01-27,2024-11-20,2124,5.82,10326171.35,30978514.05,Medium CLV,False,109,Standard
+C0343,Corporate,Construction,Pune,Maharashtra,West,1,45,59151480,2019-02-28,2024-11-21,2093,5.73,10315475.49,30946426.47,Medium CLV,False,110,Standard
+C0415,Government,Infrastructure,Guwahati,Assam,North East,1,36,57595000,2019-03-13,2024-10-11,2039,5.59,10310041.69,30930125.06,Medium CLV,False,111,Standard
+C0455,Retail,Logistics,Indore,Madhya Pradesh,Central,1,40,57607900,2019-04-27,2024-11-27,2041,5.59,10302245.71,30906737.14,Medium CLV,False,112,Standard
+C0261,Dealer,Manufacturing,Delhi,Delhi,North,5,40,57586180,2019-05-06,2024-12-06,2041,5.59,10298361.44,30895084.32,Medium CLV,False,113,Standard
+C0192,Fleet Owner,Logistics,Patna,Bihar,East,2,43,59390920,2019-01-19,2024-10-25,2106,5.77,10293298.1,30879894.3,Medium CLV,False,114,Standard
+C0284,Corporate,Manufacturing,Kolkata,West Bengal,East,1,45,61309650,2019-01-09,2024-12-23,2175,5.96,10288745.86,30866237.59,Medium CLV,False,115,Standard
+C0016,Government,Rental,Ranchi,Jharkhand,East,4,41,60898100,2019-01-18,2024-12-18,2161,5.92,10285889.17,30857667.52,Medium CLV,False,116,Standard
+C0255,Retail,Infrastructure,Chennai,Tamil Nadu,South,4,49,60102490,2019-01-05,2024-11-11,2137,5.85,10265516.54,30796549.63,Medium CLV,False,117,Standard
+C0408,Government,Infrastructure,Hyderabad,Telangana,South,4,39,54619740,2019-07-06,2024-11-02,1946,5.33,10244709.71,30734129.14,Medium CLV,False,118,Standard
+C0162,Retail,Mining,Kolkata,West Bengal,East,4,30,53940730,2019-07-05,2024-10-14,1928,5.28,10211808.32,30635424.97,Medium CLV,False,119,Standard
+C0369,Government,Manufacturing,Pune,Maharashtra,West,1,46,59977870,2019-01-26,2024-12-13,2148,5.88,10191770.27,30575310.82,Medium CLV,False,120,Standard
+C0488,Government,Construction,Chennai,Tamil Nadu,South,1,40,58528170,2019-03-01,2024-11-26,2097,5.75,10187306.65,30561919.96,Medium CLV,False,121,Standard
+C0428,Retail,Construction,Delhi,Delhi,North,4,45,56913820,2019-01-25,2024-08-26,2040,5.59,10183109.95,30549329.85,Medium CLV,False,122,Standard
+C0257,Corporate,Logistics,Delhi,Delhi,North,1,45,60172930,2019-01-18,2024-12-23,2166,5.93,10139944.34,30419833.03,Medium CLV,False,123,Standard
+C0374,Corporate,Manufacturing,Pune,Maharashtra,West,5,46,58464410,2019-03-07,2024-12-10,2105,5.77,10137534.28,30412602.83,Medium CLV,False,124,Standard
+C0172,Dealer,Manufacturing,Bengaluru,Karnataka,South,1,42,56707730,2019-04-26,2024-11-27,2042,5.59,10136298.46,30408895.37,Medium CLV,False,125,Standard
+C0438,Corporate,Rental,Kolkata,West Bengal,East,2,45,52796800,2019-06-17,2024-09-01,1903,5.21,10126553.86,30379661.59,Medium CLV,False,126,Standard
+C0471,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,5,42,58365420,2019-02-23,2024-11-27,2104,5.76,10125179.8,30375539.4,Medium CLV,False,127,Standard
+C0032,Government,Logistics,Ahmedabad,Gujarat,West,5,45,58165930,2019-01-23,2024-10-25,2102,5.76,10100173.38,30300520.15,Medium CLV,False,128,Standard
+C0293,Dealer,Logistics,Pune,Maharashtra,West,3,42,57398730,2019-01-19,2024-09-25,2076,5.69,10091780.56,30275341.69,Medium CLV,False,129,Standard
+C0026,Fleet Owner,Mining,Jaipur,Rajasthan,North,5,41,60102980,2019-01-09,2024-12-29,2181,5.98,10058499.63,30175498.9,Medium CLV,False,130,Standard
+C0270,Corporate,Manufacturing,Delhi,Delhi,North,2,46,57707880,2019-03-27,2024-12-20,2095,5.74,10054117.52,30162352.55,Medium CLV,False,131,Standard
+C0460,Dealer,Logistics,Coimbatore,Tamil Nadu,South,1,36,56715420,2019-04-06,2024-11-25,2060,5.64,10049091.41,30147274.22,Medium CLV,False,132,Standard
+C0184,Retail,Rental,Chennai,Tamil Nadu,South,3,35,57050360,2019-03-12,2024-11-28,2088,5.72,9972883.81,29918651.44,Medium CLV,False,133,Standard
+C0269,Government,Mining,Chennai,Tamil Nadu,South,1,48,58480890,2019-01-12,2024-11-22,2141,5.87,9969885.5,29909656.49,Medium CLV,False,134,Standard
+C0341,Fleet Owner,Mining,Delhi,Delhi,North,5,38,55626730,2019-03-10,2024-10-07,2038,5.58,9962589.03,29887767.1,Medium CLV,False,135,Standard
+C0236,Corporate,Mining,Mumbai,Maharashtra,West,1,47,55730670,2019-03-21,2024-10-25,2045,5.6,9947038.9,29841116.7,Medium CLV,False,136,Standard
+C0149,Government,Manufacturing,Surat,Gujarat,West,3,42,57543220,2019-02-28,2024-12-12,2114,5.79,9935324.17,29805972.52,Medium CLV,False,137,Standard
+C0318,Corporate,Logistics,Delhi,Delhi,North,3,41,58005460,2019-01-08,2024-11-09,2132,5.84,9930578.28,29791734.85,Medium CLV,False,138,Standard
+C0235,Fleet Owner,Mining,Bhubaneswar,Odisha,East,5,43,53090300,2019-05-08,2024-09-10,1952,5.35,9927233.35,29781700.05,Medium CLV,False,139,Standard
+C0065,Corporate,Mining,Vadodara,Gujarat,West,4,41,59050070,2019-01-01,2024-12-12,2172,5.95,9923239.2,29769717.61,Medium CLV,False,140,Standard
+C0140,Retail,Logistics,Pune,Maharashtra,West,3,44,58201560,2019-01-12,2024-11-24,2143,5.87,9913004.85,29739014.56,Medium CLV,False,141,Standard
+C0166,Fleet Owner,Manufacturing,Ahmedabad,Gujarat,West,2,34,58111030,2019-01-18,2024-12-08,2151,5.89,9860774.5,29582323.5,Medium CLV,False,142,Standard
+C0406,Dealer,Logistics,Pune,Maharashtra,West,3,37,55494220,2019-02-25,2024-10-11,2055,5.63,9856637.62,29569912.85,Medium CLV,False,143,Standard
+C0447,Fleet Owner,Rental,Kolkata,West Bengal,East,2,39,58830780,2019-01-05,2024-12-23,2179,5.97,9854628.13,29563884.4,Medium CLV,False,144,Standard
+C0429,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,3,44,56178520,2019-02-08,2024-10-21,2082,5.7,9848779.92,29546339.77,Medium CLV,False,145,Standard
+C0358,Government,Infrastructure,Pune,Maharashtra,West,4,40,53790030,2019-04-17,2024-10-01,1994,5.46,9846219.13,29538657.4,Medium CLV,False,146,Standard
+C0319,Dealer,Mining,Bengaluru,Karnataka,South,5,37,54752580,2019-05-16,2024-12-08,2033,5.57,9830148.4,29490445.2,Medium CLV,False,147,Standard
+C0461,Corporate,Infrastructure,Delhi,Delhi,North,5,42,55770880,2019-02-27,2024-10-31,2073,5.68,9819764.21,29459292.62,Medium CLV,False,148,Standard
+C0381,Corporate,Mining,Chennai,Tamil Nadu,South,4,34,53603960,2019-07-06,2024-12-21,1995,5.47,9807240.8,29421722.41,Medium CLV,False,149,Standard
+C0193,Dealer,Infrastructure,Vadodara,Gujarat,West,4,44,57786600,2019-01-10,2024-11-30,2151,5.89,9805722.45,29417167.36,Medium CLV,False,150,Standard
+C0109,Retail,Mining,Chennai,Tamil Nadu,South,1,48,57909360,2019-01-14,2024-12-09,2156,5.91,9803764.56,29411293.69,Medium CLV,False,151,Standard
+C0383,Fleet Owner,Infrastructure,Lucknow,Uttar Pradesh,North,5,43,56328200,2019-02-18,2024-11-19,2101,5.76,9785717.75,29357153.26,Medium CLV,False,152,Standard
+C0031,Government,Mining,Kolkata,West Bengal,East,4,40,52182080,2019-04-11,2024-08-13,1951,5.35,9762408.61,29287225.83,Medium CLV,False,153,Standard
+C0425,Dealer,Manufacturing,Chennai,Tamil Nadu,South,3,44,57482400,2019-01-17,2024-12-09,2153,5.9,9745042.27,29235126.8,Medium CLV,False,154,Standard
+C0499,Corporate,Construction,Bhubaneswar,Odisha,East,5,44,57171990,2019-01-18,2024-11-29,2142,5.87,9742192.51,29226577.52,Medium CLV,False,155,Standard
+C0263,Government,Rental,Chennai,Tamil Nadu,South,3,40,55123450,2019-03-06,2024-11-01,2067,5.66,9733942.55,29201827.65,Medium CLV,False,156,Standard
+C0085,Retail,Mining,Chennai,Tamil Nadu,South,4,44,55654550,2019-01-01,2024-09-20,2089,5.72,9724227.26,29172681.79,Medium CLV,False,157,Standard
+C0275,Fleet Owner,Construction,Vadodara,Gujarat,West,5,47,52499270,2019-06-17,2024-11-09,1972,5.4,9717156.97,29151470.92,Medium CLV,False,158,Standard
+C0009,Corporate,Rental,Ahmedabad,Gujarat,West,4,34,54041610,2019-04-14,2024-11-04,2031,5.56,9712056.94,29136170.83,Medium CLV,False,159,Standard
+C0247,Corporate,Logistics,Bhubaneswar,Odisha,East,2,42,55849110,2019-02-14,2024-11-13,2099,5.75,9711731.85,29135195.55,Medium CLV,False,160,Standard
+C0176,Dealer,Logistics,Chennai,Tamil Nadu,South,2,44,54048740,2019-01-14,2024-08-07,2032,5.57,9708558.12,29125674.36,Medium CLV,False,161,Standard
+C0355,Government,Infrastructure,Hyderabad,Telangana,South,4,40,57761570,2019-01-03,2024-12-18,2176,5.96,9688866.29,29066598.87,Medium CLV,False,162,Standard
+C0264,Retail,Infrastructure,Pune,Maharashtra,West,4,39,56501370,2019-01-02,2024-11-02,2131,5.84,9677616.17,29032848.5,Medium CLV,False,163,Standard
+C0213,Fleet Owner,Rental,Mumbai,Maharashtra,West,4,32,53323570,2019-02-26,2024-08-31,2013,5.52,9668704.94,29006114.83,Medium CLV,False,164,Standard
+C0128,Retail,Mining,Ahmedabad,Gujarat,West,1,39,57387360,2019-01-02,2024-12-18,2177,5.96,9621674.97,28865024.9,Medium CLV,False,165,Standard
+C0314,Retail,Logistics,Kolkata,West Bengal,East,1,45,54595560,2019-01-22,2024-09-26,2074,5.68,9608186.79,28824560.37,Medium CLV,False,166,Standard
+C0331,Dealer,Logistics,Delhi,Delhi,North,2,44,54547840,2019-04-12,2024-12-15,2074,5.68,9599788.62,28799365.86,Medium CLV,False,167,Standard
+C0189,Government,Manufacturing,Visakhapatnam,Andhra Pradesh,South,4,41,54638690,2019-03-03,2024-11-11,2080,5.7,9588039.35,28764118.05,Medium CLV,False,168,Standard
+C0161,Dealer,Mining,Ahmedabad,Gujarat,West,4,43,54232700,2019-03-24,2024-11-17,2065,5.66,9585925.18,28757775.54,Medium CLV,False,169,Standard
+C0377,Dealer,Logistics,Nagpur,Maharashtra,West,3,40,56674980,2019-01-08,2024-12-07,2160,5.92,9577022.08,28731066.25,Medium CLV,False,170,Standard
+C0258,Corporate,Mining,Chennai,Tamil Nadu,South,2,31,54371200,2019-02-04,2024-10-10,2075,5.68,9564090.6,28692271.81,Medium CLV,False,171,Standard
+C0191,Corporate,Manufacturing,Visakhapatnam,Andhra Pradesh,South,2,31,56028890,2019-02-03,2024-12-12,2139,5.86,9560797.03,28682391.09,Medium CLV,False,172,Standard
+C0039,Fleet Owner,Rental,Hyderabad,Telangana,South,4,40,53722520,2019-04-17,2024-11-28,2052,5.62,9555906.34,28667719.01,Medium CLV,False,173,Standard
+C0054,Fleet Owner,Manufacturing,Chennai,Tamil Nadu,South,2,42,56103080,2019-01-31,2024-12-14,2144,5.87,9551130.69,28653392.07,Medium CLV,False,174,Standard
+C0326,Government,Mining,Kolkata,West Bengal,East,4,47,55349670,2019-03-14,2024-12-30,2118,5.8,9538540.86,28615622.59,Medium CLV,False,175,Standard
+C0498,Fleet Owner,Construction,Kolkata,West Bengal,East,3,30,52056060,2019-03-01,2024-08-19,1998,5.47,9509740.69,28529222.07,Medium CLV,False,176,Standard
+C0171,Fleet Owner,Construction,Chennai,Tamil Nadu,South,3,36,53338800,2019-04-27,2024-12-05,2049,5.61,9501543.19,28504629.58,Medium CLV,False,177,Standard
+C0268,Government,Mining,Pune,Maharashtra,West,3,37,54298750,2019-01-21,2024-10-07,2086,5.72,9500979.75,28502939.24,Medium CLV,False,178,Standard
+C0123,Corporate,Infrastructure,Kolkata,West Bengal,East,3,37,55075400,2019-01-16,2024-11-04,2119,5.81,9486796.13,28460388.39,Medium CLV,False,179,Standard
+C0413,Fleet Owner,Manufacturing,Chennai,Tamil Nadu,South,1,46,54533070,2019-02-06,2024-11-08,2102,5.76,9469348.5,28408045.5,Medium CLV,False,180,Standard
+C0055,Dealer,Construction,Delhi,Delhi,North,1,37,53940970,2019-04-01,2024-12-11,2081,5.7,9461054.32,28383162.97,Medium CLV,False,181,Standard
+C0312,Government,Construction,Vadodara,Gujarat,West,4,40,52920140,2019-04-16,2024-11-17,2042,5.59,9459280.66,28377841.97,Medium CLV,False,182,Standard
+C0228,Government,Construction,Chennai,Tamil Nadu,South,3,36,51601040,2019-03-27,2024-09-10,1994,5.46,9445526.38,28336579.14,Medium CLV,False,183,Standard
+C0310,Government,Infrastructure,Patna,Bihar,East,4,41,51400980,2019-05-30,2024-11-07,1988,5.45,9437302.67,28311908.0,Medium CLV,False,184,Standard
+C0230,Dealer,Infrastructure,Delhi,Delhi,North,5,41,53600640,2019-02-19,2024-10-31,2081,5.7,9401361.65,28204084.96,Medium CLV,False,185,Standard
+C0469,Government,Manufacturing,Chandigarh,Punjab,North,1,44,55971040,2019-01-04,2024-12-18,2175,5.96,9392841.2,28178523.59,Medium CLV,False,186,Standard
+C0156,Government,Manufacturing,Chennai,Tamil Nadu,South,5,36,53295180,2019-01-14,2024-09-17,2073,5.68,9383859.48,28151578.44,Medium CLV,False,187,Standard
+C0101,Corporate,Logistics,Chennai,Tamil Nadu,South,5,43,52693260,2019-02-26,2024-10-10,2053,5.62,9368261.03,28104783.1,Medium CLV,False,188,Standard
+C0047,Corporate,Rental,Pune,Maharashtra,West,5,36,50441290,2019-04-06,2024-08-25,1968,5.39,9355218.93,28065656.78,Medium CLV,False,189,Standard
+C0464,Corporate,Infrastructure,Lucknow,Uttar Pradesh,North,1,39,52911390,2019-01-18,2024-09-13,2065,5.66,9352376.44,28057129.32,Medium CLV,False,190,Standard
+C0448,Fleet Owner,Logistics,Kolkata,West Bengal,East,4,37,53741830,2019-03-13,2024-12-11,2100,5.75,9340841.88,28022525.64,Medium CLV,False,191,Standard
+C0486,Government,Manufacturing,Pune,Maharashtra,West,2,42,53820770,2019-01-01,2024-10-07,2106,5.77,9327911.23,27983733.69,Medium CLV,False,192,Standard
+C0035,Dealer,Infrastructure,Indore,Madhya Pradesh,Central,4,46,54533770,2019-01-07,2024-11-12,2136,5.85,9318738.79,27956216.36,Medium CLV,False,193,Standard
+C0010,Dealer,Construction,Chennai,Tamil Nadu,South,5,50,54508210,2019-01-23,2024-11-27,2135,5.85,9318733.79,27956201.38,Medium CLV,False,194,Standard
+C0340,Government,Mining,Hyderabad,Telangana,South,3,39,55130110,2019-01-05,2024-12-04,2160,5.92,9315967.66,27947902.99,Medium CLV,False,195,Standard
+C0390,Fleet Owner,Construction,Delhi,Delhi,North,3,35,52697070,2019-03-13,2024-11-09,2068,5.67,9300981.89,27902945.67,Medium CLV,False,196,Standard
+C0260,Dealer,Logistics,Hyderabad,Telangana,South,5,38,52018150,2019-01-30,2024-09-05,2045,5.6,9284413.08,27853239.24,Medium CLV,False,197,Standard
+C0105,Government,Logistics,Delhi,Delhi,North,4,46,52573780,2019-03-29,2024-11-26,2069,5.67,9274736.44,27824209.33,Medium CLV,False,198,Standard
+C0443,Dealer,Infrastructure,Kolkata,West Bengal,East,1,43,52360250,2019-03-27,2024-11-18,2063,5.65,9263931.77,27791795.32,Medium CLV,False,199,Standard
+C0414,Dealer,Construction,Chennai,Tamil Nadu,South,4,44,54269830,2019-02-16,2024-12-31,2145,5.88,9234726.32,27704178.95,Medium CLV,False,200,Standard
+C0202,Government,Logistics,Chandigarh,Punjab,North,4,35,46256330,2019-09-19,2024-09-21,1829,5.01,9231033.6,27693100.79,Medium CLV,False,201,Standard
+C0249,Corporate,Construction,Ahmedabad,Gujarat,West,4,40,52709760,2019-01-16,2024-10-01,2085,5.71,9227368.06,27682104.17,Medium CLV,False,202,Standard
+C0453,Dealer,Mining,Ranchi,Jharkhand,East,3,36,51744150,2019-05-25,2024-12-31,2047,5.61,9226484.98,27679454.93,Medium CLV,False,203,Standard
+C0205,Retail,Construction,Lucknow,Uttar Pradesh,North,2,39,53896570,2019-01-10,2024-11-15,2136,5.85,9209853.96,27629561.87,Medium CLV,False,204,Standard
+C0175,Fleet Owner,Rental,Kolkata,West Bengal,East,5,41,53235590,2019-01-24,2024-11-04,2111,5.78,9204637.78,27613913.33,Medium CLV,False,205,Standard
+C0274,Dealer,Mining,Jaipur,Rajasthan,North,3,42,50332620,2019-01-08,2024-06-27,1997,5.47,9199502.4,27598507.21,Medium CLV,False,206,Standard
+C0449,Fleet Owner,Logistics,Surat,Gujarat,West,3,37,49669150,2019-06-25,2024-11-19,1974,5.41,9184012.03,27552036.09,Medium CLV,False,207,Standard
+C0379,Retail,Mining,Vadodara,Gujarat,West,3,44,52506820,2019-03-29,2024-12-15,2088,5.72,9178634.72,27535904.17,Medium CLV,False,208,Standard
+C0485,Fleet Owner,Rental,Pune,Maharashtra,West,1,34,52472400,2019-01-14,2024-10-01,2087,5.72,9177012.94,27531038.81,Medium CLV,False,209,Standard
+C0198,Government,Mining,Ahmedabad,Gujarat,West,2,38,51107370,2019-03-27,2024-10-19,2033,5.57,9175696.04,27527088.12,Medium CLV,False,210,Standard
+C0335,Government,Infrastructure,Guwahati,Assam,North East,5,43,52685710,2019-01-31,2024-11-03,2103,5.76,9144215.0,27432645.01,Medium CLV,False,211,Standard
+C0231,Government,Infrastructure,Pune,Maharashtra,West,4,39,52413100,2019-02-15,2024-11-08,2093,5.73,9140363.83,27421091.5,Medium CLV,False,212,Standard
+C0138,Corporate,Mining,Hyderabad,Telangana,South,5,41,54457080,2019-01-10,2024-12-25,2176,5.96,9134574.54,27403723.62,Medium CLV,False,213,Standard
+C0251,Dealer,Mining,Chandigarh,Punjab,North,4,39,50171060,2019-01-09,2024-07-06,2005,5.49,9133384.99,27400154.96,Medium CLV,False,214,Standard
+C0493,Retail,Construction,Chennai,Tamil Nadu,South,3,45,52616240,2019-02-18,2024-11-22,2104,5.76,9127817.3,27383451.9,Medium CLV,False,215,Standard
+C0398,Government,Rental,Hyderabad,Telangana,South,5,43,53653050,2019-01-15,2024-12-02,2148,5.88,9117022.0,27351065.99,Medium CLV,False,216,Standard
+C0290,Corporate,Construction,Ahmedabad,Gujarat,West,3,46,51960040,2019-03-04,2024-11-15,2083,5.71,9104855.78,27314567.35,Medium CLV,False,217,Standard
+C0467,Retail,Construction,Delhi,Delhi,North,5,55,53206760,2019-01-02,2024-11-06,2135,5.85,9096237.66,27288712.97,Medium CLV,False,218,Standard
+C0424,Retail,Construction,Ahmedabad,Gujarat,West,4,38,50065860,2019-03-22,2024-09-23,2012,5.51,9082524.3,27247572.91,Medium CLV,False,219,Standard
+C0064,Corporate,Manufacturing,Chandigarh,Punjab,North,3,39,52021770,2019-03-21,2024-12-14,2095,5.74,9063458.74,27190376.21,Medium CLV,False,220,Standard
+C0349,Corporate,Rental,Ahmedabad,Gujarat,West,1,36,51806430,2019-01-31,2024-10-19,2088,5.72,9056200.65,27168601.94,Medium CLV,False,221,Standard
+C0328,Government,Rental,Kolkata,West Bengal,East,4,40,53610980,2019-01-03,2024-12-05,2163,5.93,9046697.97,27140093.9,Medium CLV,False,222,Standard
+C0030,Corporate,Construction,Hyderabad,Telangana,South,5,38,50515670,2019-01-30,2024-09-02,2042,5.59,9029490.48,27088471.43,Medium CLV,False,223,Standard
+C0365,Government,Manufacturing,Kolkata,West Bengal,East,1,47,52500540,2019-01-04,2024-11-05,2132,5.84,8988131.85,26964395.54,Medium CLV,False,224,Standard
+C0396,Government,Manufacturing,Ahmedabad,Gujarat,West,2,40,52935440,2019-01-14,2024-12-07,2154,5.9,8970025.81,26910077.44,Medium CLV,False,225,Standard
+C0227,Fleet Owner,Infrastructure,Kolkata,West Bengal,East,1,39,51113410,2019-02-13,2024-10-24,2080,5.7,8969420.5,26908261.51,Medium CLV,False,226,Standard
+C0273,Dealer,Manufacturing,Kolkata,West Bengal,East,1,40,50756990,2019-05-04,2024-12-31,2068,5.67,8958559.65,26875678.94,Medium CLV,False,227,Standard
+C0023,Corporate,Mining,Chennai,Tamil Nadu,South,2,37,53343670,2019-01-05,2024-12-27,2183,5.98,8919120.27,26757360.81,Medium CLV,False,228,Standard
+C0173,Retail,Logistics,Chennai,Tamil Nadu,South,1,36,50058960,2019-03-29,2024-11-08,2051,5.62,8908591.13,26725773.38,Medium CLV,False,229,Standard
+C0259,Fleet Owner,Logistics,Coimbatore,Tamil Nadu,South,1,37,52219040,2019-02-02,2024-12-13,2141,5.87,8902358.52,26707075.57,Medium CLV,False,230,Standard
+C0492,Dealer,Rental,Ranchi,Jharkhand,East,1,37,51225690,2019-02-04,2024-11-05,2101,5.76,8899275.04,26697825.11,Medium CLV,False,231,Standard
+C0001,Retail,Construction,Kolkata,West Bengal,East,4,40,52640600,2019-01-26,2024-12-25,2160,5.92,8895286.57,26685859.72,Medium CLV,False,232,Standard
+C0015,Government,Rental,Pune,Maharashtra,West,2,38,51005500,2019-02-18,2024-11-16,2098,5.75,8873692.8,26621078.41,Medium CLV,False,233,Standard
+C0419,Fleet Owner,Logistics,Mumbai,Maharashtra,West,1,34,49492260,2019-03-05,2024-09-30,2036,5.58,8872630.11,26617890.32,Medium CLV,False,234,Standard
+C0080,Retail,Mining,Chennai,Tamil Nadu,South,1,46,50588120,2019-02-20,2024-11-03,2083,5.71,8864456.94,26593370.81,Medium CLV,False,235,Standard
+C0021,Corporate,Mining,Hyderabad,Telangana,South,5,47,51375230,2019-01-16,2024-11-01,2116,5.8,8861984.38,26585953.14,Medium CLV,False,236,Standard
+C0190,Retail,Manufacturing,Jaipur,Rajasthan,North,1,38,49869830,2019-05-15,2024-12-29,2055,5.63,8857658.37,26572975.11,Medium CLV,False,237,Standard
+C0056,Dealer,Mining,Delhi,Delhi,North,4,38,51714180,2019-01-08,2024-11-10,2133,5.84,8849355.7,26548067.09,Medium CLV,False,238,Standard
+C0038,Fleet Owner,Rental,Jaipur,Rajasthan,North,1,41,52105520,2019-01-08,2024-11-29,2152,5.9,8837599.81,26512799.44,Medium CLV,False,239,Standard
+C0302,Fleet Owner,Mining,Ahmedabad,Gujarat,West,1,42,51978350,2019-02-05,2024-12-24,2149,5.89,8828337.72,26485013.15,Medium CLV,False,240,Standard
+C0157,Dealer,Infrastructure,Chandigarh,Punjab,North,1,38,51879830,2019-02-15,2024-12-30,2145,5.88,8828036.34,26484109.02,Medium CLV,False,241,Standard
+C0458,Dealer,Manufacturing,Ahmedabad,Gujarat,West,4,43,48276200,2019-07-09,2024-12-28,1999,5.48,8814813.91,26444441.72,Medium CLV,False,242,Standard
+C0363,Fleet Owner,Logistics,Visakhapatnam,Andhra Pradesh,South,5,37,50237880,2019-02-24,2024-11-07,2083,5.71,8803085.07,26409255.21,Medium CLV,False,243,Standard
+C0333,Corporate,Mining,Hyderabad,Telangana,South,3,42,51934490,2019-01-09,2024-12-02,2154,5.9,8800412.65,26401237.95,Medium CLV,False,244,Standard
+C0211,Fleet Owner,Manufacturing,Hyderabad,Telangana,South,1,45,50253990,2019-03-06,2024-11-20,2086,5.72,8793243.7,26379731.09,Medium CLV,False,245,Standard
+C0152,Corporate,Manufacturing,Chennai,Tamil Nadu,South,2,41,49749000,2019-03-10,2024-11-18,2080,5.7,8729992.79,26189978.37,Medium CLV,False,246,Standard
+C0099,Fleet Owner,Rental,Visakhapatnam,Andhra Pradesh,South,4,52,52019750,2019-01-10,2024-12-26,2177,5.96,8721731.17,26165193.5,Medium CLV,False,247,Standard
+C0256,Corporate,Infrastructure,Guwahati,Assam,North East,4,34,49845250,2019-01-03,2024-09-19,2086,5.72,8721723.99,26165171.98,Medium CLV,False,248,Standard
+C0158,Corporate,Infrastructure,Kolkata,West Bengal,East,2,37,48735540,2019-02-25,2024-09-26,2040,5.59,8719839.26,26159517.79,Medium CLV,False,249,Standard
+C0280,Corporate,Construction,Pune,Maharashtra,West,4,47,50723520,2019-01-12,2024-11-05,2124,5.82,8716612.43,26149837.29,Medium CLV,False,250,Standard
+C0407,Dealer,Logistics,Hyderabad,Telangana,South,2,43,51590180,2019-01-22,2024-12-25,2164,5.93,8701670.84,26105012.52,Low CLV,False,251,Standard
+C0395,Corporate,Manufacturing,Kolkata,West Bengal,East,1,44,50643860,2019-02-21,2024-12-20,2129,5.83,8682484.22,26047452.65,Low CLV,False,252,Standard
+C0073,Corporate,Rental,Jaipur,Rajasthan,North,4,36,48992520,2019-03-23,2024-11-12,2061,5.65,8676501.6,26029504.8,Low CLV,False,253,Standard
+C0024,Dealer,Rental,Visakhapatnam,Andhra Pradesh,South,4,48,49014090,2019-01-22,2024-09-17,2065,5.66,8663507.43,25990522.3,Low CLV,False,254,Standard
+C0239,Government,Logistics,Chennai,Tamil Nadu,South,4,38,43671220,2019-10-11,2024-10-27,1843,5.05,8648939.39,25946818.18,Low CLV,False,255,Standard
+C0124,Dealer,Construction,Pune,Maharashtra,West,3,47,51329600,2019-01-11,2024-12-22,2172,5.95,8625830.57,25877491.71,Low CLV,False,256,Standard
+C0439,Dealer,Construction,Visakhapatnam,Andhra Pradesh,South,5,43,49820310,2019-03-21,2024-12-29,2110,5.78,8618205.28,25854615.85,Low CLV,False,257,Standard
+C0450,Fleet Owner,Construction,Kolkata,West Bengal,East,5,43,48802430,2019-01-15,2024-09-12,2067,5.66,8617748.89,25853246.66,Low CLV,False,258,Standard
+C0360,Dealer,Construction,Ahmedabad,Gujarat,West,5,34,47187810,2019-05-25,2024-11-17,2003,5.49,8598877.01,25796631.03,Low CLV,False,259,Standard
+C0301,Dealer,Mining,Ranchi,Jharkhand,East,5,47,50854440,2019-01-13,2024-12-19,2167,5.94,8565699.4,25697098.2,Low CLV,False,260,Standard
+C0444,Dealer,Manufacturing,Chennai,Tamil Nadu,South,1,35,46629480,2019-02-25,2024-08-06,1989,5.45,8556943.29,25670829.86,Low CLV,False,261,Standard
+C0496,Government,Infrastructure,Bhubaneswar,Odisha,East,5,41,49977230,2019-02-17,2024-12-27,2140,5.86,8524153.71,25572461.14,Low CLV,False,262,Standard
+C0445,Government,Mining,Kolkata,West Bengal,East,2,30,48822870,2019-04-04,2024-12-28,2095,5.74,8506132.48,25518397.45,Low CLV,False,263,Standard
+C0072,Government,Logistics,Pune,Maharashtra,West,3,30,47027920,2019-06-15,2024-12-23,2018,5.53,8506041.03,25518123.09,Low CLV,False,264,Standard
+C0133,Government,Mining,Visakhapatnam,Andhra Pradesh,South,1,31,42807750,2019-03-27,2024-04-07,1838,5.04,8500994.97,25502984.9,Low CLV,False,265,Standard
+C0367,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,2,31,48346630,2019-02-28,2024-11-04,2076,5.69,8500250.46,25500751.37,Low CLV,False,266,Standard
+C0477,Government,Construction,Ahmedabad,Gujarat,West,5,37,45390380,2019-06-12,2024-10-13,1950,5.34,8496148.05,25488444.15,Low CLV,False,267,Standard
+C0088,Corporate,Infrastructure,Pune,Maharashtra,West,1,39,49923700,2019-01-26,2024-12-12,2147,5.88,8487261.53,25461784.58,Low CLV,False,268,Standard
+C0077,Corporate,Mining,Delhi,Delhi,North,1,38,49739710,2019-02-05,2024-12-16,2141,5.87,8479679.66,25439038.98,Low CLV,False,269,Standard
+C0004,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,3,47,49040570,2019-03-21,2024-12-31,2112,5.79,8475287.9,25425863.71,Low CLV,False,270,Standard
+C0093,Dealer,Manufacturing,Chennai,Tamil Nadu,South,2,41,49642790,2019-01-24,2024-12-01,2138,5.86,8475031.97,25425095.91,Low CLV,False,271,Standard
+C0286,Dealer,Construction,Chennai,Tamil Nadu,South,2,39,50682130,2019-01-06,2024-12-29,2184,5.98,8470227.77,25410683.31,Low CLV,False,272,Standard
+C0436,Fleet Owner,Logistics,Kolkata,West Bengal,East,3,38,49724270,2019-02-01,2024-12-15,2144,5.87,8465185.89,25395557.67,Low CLV,False,273,Standard
+C0106,Dealer,Infrastructure,Indore,Madhya Pradesh,Central,2,42,47644410,2019-03-29,2024-11-12,2055,5.63,8462389.12,25387167.37,Low CLV,False,274,Standard
+C0050,Dealer,Mining,Kolkata,West Bengal,East,3,30,50086150,2019-01-11,2024-12-14,2164,5.93,8447987.41,25343962.22,Low CLV,False,275,Standard
+C0329,Dealer,Infrastructure,Indore,Madhya Pradesh,Central,1,36,50414010,2019-01-03,2024-12-26,2184,5.98,8425418.34,25276255.01,Low CLV,False,276,Standard
+C0315,Dealer,Rental,Surat,Gujarat,West,4,42,50056680,2019-01-09,2024-12-17,2169,5.94,8423553.8,25270661.41,Low CLV,False,277,Standard
+C0217,Corporate,Infrastructure,Delhi,Delhi,North,5,38,49708160,2019-01-19,2024-12-18,2160,5.92,8399758.52,25199275.56,Low CLV,False,278,Standard
+C0401,Government,Logistics,Guwahati,Assam,North East,1,38,48565440,2019-01-11,2024-10-25,2114,5.79,8385234.44,25155703.31,Low CLV,False,279,Standard
+C0185,Dealer,Logistics,Pune,Maharashtra,West,5,39,45894360,2019-03-25,2024-09-16,2002,5.48,8367353.35,25102060.04,Low CLV,False,280,Standard
+C0029,Dealer,Construction,Visakhapatnam,Andhra Pradesh,South,1,38,45653420,2019-01-16,2024-06-30,1992,5.46,8365209.99,25095629.97,Low CLV,False,281,Standard
+C0327,Retail,Mining,Vadodara,Gujarat,West,1,45,48891270,2019-02-01,2024-12-06,2135,5.85,8358460.68,25075382.04,Low CLV,False,282,Standard
+C0376,Retail,Construction,Delhi,Delhi,North,5,35,49197710,2019-01-31,2024-12-19,2149,5.89,8356055.91,25068167.73,Low CLV,False,283,Standard
+C0410,Corporate,Mining,Hyderabad,Telangana,South,4,42,49311570,2019-01-01,2024-11-27,2157,5.91,8344331.5,25032994.51,Low CLV,False,284,Standard
+C0409,Government,Logistics,Pune,Maharashtra,West,1,45,47755320,2019-01-19,2024-10-09,2090,5.73,8340043.92,25020131.77,Low CLV,False,285,Standard
+C0378,Retail,Manufacturing,Delhi,Delhi,North,4,42,49279070,2019-01-19,2024-12-15,2157,5.91,8338831.97,25016495.9,Low CLV,False,286,Standard
+C0330,Retail,Infrastructure,Bhubaneswar,Odisha,East,3,41,45803070,2019-02-12,2024-08-10,2006,5.5,8334058.1,25002174.3,Low CLV,False,287,Standard
+C0018,Retail,Construction,Ahmedabad,Gujarat,West,2,36,46340880,2019-05-31,2024-12-24,2034,5.57,8315841.3,24947523.89,Low CLV,False,288,Standard
+C0181,Government,Construction,Vadodara,Gujarat,West,5,40,47189990,2019-04-13,2024-12-15,2073,5.68,8308898.38,24926695.15,Low CLV,False,289,Standard
+C0130,Government,Mining,Pune,Maharashtra,West,1,41,47762000,2019-02-17,2024-11-16,2099,5.75,8305445.45,24916336.35,Low CLV,False,290,Standard
+C0232,Government,Mining,Chennai,Tamil Nadu,South,1,41,49272940,2019-01-24,2024-12-29,2166,5.93,8303150.09,24909450.28,Low CLV,False,291,Standard
+C0066,Retail,Manufacturing,Indore,Madhya Pradesh,Central,1,38,47238780,2019-01-29,2024-10-11,2082,5.7,8281534.44,24844603.31,Low CLV,False,292,Standard
+C0146,Retail,Mining,Ahmedabad,Gujarat,West,3,33,49274960,2019-01-20,2024-12-31,2172,5.95,8280552.67,24841658.01,Low CLV,False,293,Standard
+C0399,Fleet Owner,Rental,Chennai,Tamil Nadu,South,3,42,49461920,2019-01-03,2024-12-25,2183,5.98,8270087.4,24810262.21,Low CLV,False,294,Standard
+C0278,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,4,45,47124980,2019-03-23,2024-12-03,2082,5.7,8261583.91,24784751.73,Low CLV,False,295,Standard
+C0442,Dealer,Logistics,Kolkata,West Bengal,East,3,36,47299810,2019-01-28,2024-10-20,2092,5.73,8252595.91,24757787.74,Low CLV,False,296,Standard
+C0036,Fleet Owner,Construction,Kolkata,West Bengal,East,2,39,47362410,2019-03-26,2024-12-23,2099,5.75,8235959.81,24707879.44,Low CLV,False,297,Standard
+C0457,Retail,Manufacturing,Kolkata,West Bengal,East,4,35,48077820,2019-01-13,2024-11-15,2133,5.84,8227100.0,24681300.0,Low CLV,False,298,Standard
+C0426,Dealer,Infrastructure,Guwahati,Assam,North East,1,40,47615070,2019-02-20,2024-12-03,2113,5.79,8225035.75,24675107.26,Low CLV,False,299,Standard
+C0081,Corporate,Rental,Surat,Gujarat,West,1,40,49127920,2019-01-03,2024-12-23,2181,5.98,8221774.78,24665324.35,Low CLV,False,300,Standard
+C0266,Fleet Owner,Rental,Bengaluru,Karnataka,South,4,37,46658690,2019-01-22,2024-09-24,2072,5.68,8219315.56,24657946.69,Low CLV,False,301,Standard
+C0472,Dealer,Manufacturing,Coimbatore,Tamil Nadu,South,4,37,45819430,2019-04-29,2024-11-23,2035,5.58,8218227.0,24654681.01,Low CLV,False,302,Standard
+C0364,Government,Infrastructure,Kolkata,West Bengal,East,5,38,48290310,2019-01-04,2024-11-18,2145,5.88,8217232.24,24651696.71,Low CLV,False,303,Standard
+C0027,Fleet Owner,Logistics,Surat,Gujarat,West,1,44,47252220,2019-03-25,2024-12-26,2103,5.76,8201169.9,24603509.7,Low CLV,False,304,Standard
+C0357,Corporate,Mining,Ahmedabad,Gujarat,West,2,32,48125180,2019-01-05,2024-11-17,2143,5.87,8196775.87,24590327.62,Low CLV,False,305,Standard
+C0417,Fleet Owner,Mining,Kolkata,West Bengal,East,3,36,44665420,2019-04-02,2024-09-11,1989,5.45,8196520.01,24589560.03,Low CLV,False,306,Standard
+C0127,Government,Construction,Kolkata,West Bengal,East,1,31,43586400,2019-03-01,2024-06-25,1943,5.32,8187872.36,24563617.09,Low CLV,False,307,Standard
+C0111,Corporate,Construction,Chennai,Tamil Nadu,South,3,39,46609900,2019-04-09,2024-12-16,2078,5.69,8187013.23,24561039.7,Low CLV,False,308,Standard
+C0405,Corporate,Infrastructure,Pune,Maharashtra,West,3,37,44240650,2019-01-30,2024-06-25,1973,5.41,8184408.13,24553224.4,Low CLV,False,309,Standard
+C0222,Fleet Owner,Logistics,Delhi,Delhi,North,5,44,48043620,2019-01-30,2024-12-13,2144,5.87,8179067.77,24537203.31,Low CLV,False,310,Standard
+C0354,Corporate,Logistics,Hyderabad,Telangana,South,2,41,48835850,2019-01-06,2024-12-25,2180,5.97,8176644.61,24529933.83,Low CLV,False,311,Standard
+C0051,Retail,Infrastructure,Jaipur,Rajasthan,North,4,37,47017080,2019-02-15,2024-11-15,2100,5.75,8172016.29,24516048.86,Low CLV,False,312,Standard
+C0086,Retail,Construction,Ahmedabad,Gujarat,West,3,30,47920240,2019-01-12,2024-11-22,2141,5.87,8169494.44,24508483.33,Low CLV,False,313,Standard
+C0112,Fleet Owner,Mining,Hyderabad,Telangana,South,2,40,47047550,2019-02-27,2024-12-01,2104,5.76,8161766.04,24485298.12,Low CLV,False,314,Standard
+C0427,Corporate,Mining,Vadodara,Gujarat,West,3,46,47425980,2019-02-05,2024-11-26,2121,5.81,8161472.28,24484416.83,Low CLV,False,315,Standard
+C0188,Corporate,Logistics,Pune,Maharashtra,West,4,45,48293510,2019-01-28,2024-12-27,2160,5.92,8160708.87,24482126.6,Low CLV,False,316,Standard
+C0068,Retail,Mining,Delhi,Delhi,North,1,42,46858170,2019-03-11,2024-12-06,2097,5.75,8156047.71,24468143.13,Low CLV,False,317,Standard
+C0321,Retail,Logistics,Hyderabad,Telangana,South,2,42,48683300,2019-01-04,2024-12-22,2179,5.97,8154843.74,24464531.21,Low CLV,False,318,Standard
+C0137,Dealer,Infrastructure,Chennai,Tamil Nadu,South,5,28,44868410,2019-06-13,2024-12-12,2009,5.5,8151801.72,24455405.15,Low CLV,False,319,Standard
+C0463,Dealer,Mining,Nagpur,Maharashtra,West,4,36,45761800,2019-01-10,2024-08-22,2051,5.62,8143860.07,24431580.2,Low CLV,False,320,Standard
+C0059,Retail,Manufacturing,Hyderabad,Telangana,South,3,39,47904570,2019-01-21,2024-12-20,2160,5.92,8094985.21,24284955.62,Low CLV,False,321,Standard
+C0397,Fleet Owner,Mining,Ahmedabad,Gujarat,West,3,41,47355040,2019-02-11,2024-12-17,2136,5.85,8092036.33,24276108.99,Low CLV,False,322,Standard
+C0361,Government,Logistics,Hyderabad,Telangana,South,5,35,46126450,2019-01-15,2024-09-26,2081,5.7,8090415.31,24271245.92,Low CLV,False,323,Standard
+C0481,Corporate,Logistics,Chennai,Tamil Nadu,South,5,40,47983990,2019-01-03,2024-12-31,2189,6.0,8000985.08,24002955.25,Low CLV,False,324,Standard
+C0148,Government,Construction,Coimbatore,Tamil Nadu,South,4,40,46876850,2019-01-28,2024-12-09,2142,5.87,7987885.27,23963655.81,Low CLV,False,325,Standard
+C0164,Government,Construction,Delhi,Delhi,North,4,39,46613620,2019-01-11,2024-11-13,2133,5.84,7976545.38,23929636.15,Low CLV,False,326,Standard
+C0296,Corporate,Manufacturing,Kolkata,West Bengal,East,2,41,46533710,2019-01-02,2024-11-07,2136,5.85,7951687.34,23855062.01,Low CLV,False,327,Standard
+C0096,Corporate,Construction,Chennai,Tamil Nadu,South,3,40,47646050,2019-01-02,2024-12-30,2189,6.0,7944636.02,23833908.06,Low CLV,False,328,Standard
+C0067,Retail,Manufacturing,Ahmedabad,Gujarat,West,3,33,44311920,2019-05-29,2024-12-30,2042,5.59,7920592.95,23761778.84,Low CLV,False,329,Standard
+C0362,Corporate,Rental,Vadodara,Gujarat,West,1,42,44698950,2019-02-19,2024-10-11,2061,5.65,7916116.81,23748350.44,Low CLV,False,330,Standard
+C0313,Corporate,Mining,Ahmedabad,Gujarat,West,1,32,41705840,2019-05-28,2024-09-02,1924,5.27,7911970.69,23735912.06,Low CLV,False,331,Standard
+C0017,Government,Infrastructure,Chennai,Tamil Nadu,South,1,40,46619950,2019-01-31,2024-12-21,2151,5.89,7910870.18,23732610.53,Low CLV,False,332,Standard
+C0195,Fleet Owner,Logistics,Kolkata,West Bengal,East,2,33,46367090,2019-02-15,2024-12-28,2143,5.87,7897334.51,23692003.52,Low CLV,False,333,Standard
+C0075,Retail,Mining,Hyderabad,Telangana,South,5,35,43533480,2019-04-17,2024-10-20,2013,5.52,7893552.01,23680656.04,Low CLV,False,334,Standard
+C0393,Retail,Rental,Kolkata,West Bengal,East,3,42,45246830,2019-03-27,2024-12-18,2093,5.73,7890632.08,23671896.25,Low CLV,False,335,Standard
+C0245,Dealer,Logistics,Chennai,Tamil Nadu,South,2,37,46663320,2019-01-01,2024-11-30,2160,5.92,7885236.94,23655710.83,Low CLV,False,336,Standard
+C0289,Corporate,Logistics,Hyderabad,Telangana,South,2,40,45171030,2019-02-07,2024-10-29,2091,5.73,7884947.85,23654843.54,Low CLV,False,337,Standard
+C0370,Corporate,Infrastructure,Kolkata,West Bengal,East,4,41,45980090,2019-02-18,2024-12-18,2130,5.84,7879217.3,23637651.9,Low CLV,False,338,Standard
+C0348,Retail,Logistics,Delhi,Delhi,North,2,35,43554630,2019-04-15,2024-10-24,2019,5.53,7873917.76,23621753.27,Low CLV,False,339,Standard
+C0265,Retail,Mining,Ahmedabad,Gujarat,West,1,33,44129000,2019-02-19,2024-09-27,2047,5.61,7868629.7,23605889.11,Low CLV,False,340,Standard
+C0090,Government,Infrastructure,Delhi,Delhi,North,1,45,44051020,2019-03-16,2024-10-22,2047,5.61,7854725.11,23564175.33,Low CLV,False,341,Standard
+C0389,Retail,Mining,Surat,Gujarat,West,5,33,44362320,2019-04-04,2024-11-25,2062,5.65,7852690.01,23558070.03,Low CLV,False,342,Standard
+C0033,Government,Mining,Chennai,Tamil Nadu,South,5,34,45334540,2019-03-05,2024-12-12,2109,5.78,7845949.31,23537847.94,Low CLV,False,343,Standard
+C0325,Corporate,Rental,Kolkata,West Bengal,East,3,33,44540760,2019-03-03,2024-11-09,2078,5.69,7823569.49,23470708.47,Low CLV,False,344,Standard
+C0163,Dealer,Logistics,Ahmedabad,Gujarat,West,5,40,40457330,2019-06-02,2024-08-05,1891,5.18,7809056.29,23427168.88,Low CLV,False,345,Standard
+C0480,Government,Infrastructure,Mumbai,Maharashtra,West,3,37,45569160,2019-01-24,2024-11-24,2131,5.84,7805135.34,23415406.01,Low CLV,False,346,Standard
+C0098,Corporate,Mining,Kolkata,West Bengal,East,1,37,45007740,2019-03-14,2024-12-18,2106,5.77,7800486.75,23401460.26,Low CLV,False,347,Standard
+C0224,Retail,Manufacturing,Kolkata,West Bengal,East,3,40,45785060,2019-01-30,2024-12-14,2145,5.88,7790930.96,23372792.87,Low CLV,False,348,Standard
+C0074,Fleet Owner,Infrastructure,Bhubaneswar,Odisha,East,5,45,46570120,2019-01-10,2024-12-31,2182,5.98,7790143.81,23370431.44,Low CLV,False,349,Standard
+C0324,Corporate,Mining,Chennai,Tamil Nadu,South,5,38,43386470,2019-01-24,2024-08-24,2039,5.59,7766582.42,23299747.25,Low CLV,False,350,Standard
+C0095,Fleet Owner,Logistics,Nagpur,Maharashtra,West,3,31,46147160,2019-01-16,2024-12-26,2171,5.95,7758504.56,23275513.68,Low CLV,False,351,Standard
+C0431,Government,Logistics,Nagpur,Maharashtra,West,5,31,39337010,2019-06-09,2024-07-05,1853,5.08,7748520.59,23245561.76,Low CLV,False,352,Standard
+C0345,Retail,Infrastructure,Pune,Maharashtra,West,2,44,44678620,2019-02-15,2024-11-20,2105,5.77,7747124.13,23241372.4,Low CLV,False,353,Standard
+C0372,Government,Logistics,Hyderabad,Telangana,South,4,37,41848360,2019-02-15,2024-07-10,1972,5.4,7745766.43,23237299.29,Low CLV,False,354,Standard
+C0147,Dealer,Rental,Delhi,Delhi,North,5,36,45513830,2019-02-05,2024-12-22,2147,5.88,7737563.09,23212689.26,Low CLV,False,355,Standard
+C0052,Government,Manufacturing,Guwahati,Assam,North East,2,37,45097920,2019-02-12,2024-12-11,2129,5.83,7731677.22,23195031.66,Low CLV,False,356,Standard
+C0497,Government,Logistics,Chennai,Tamil Nadu,South,3,33,42503770,2019-06-12,2024-12-10,2008,5.5,7726033.89,23178101.67,Low CLV,False,357,Standard
+C0285,Government,Infrastructure,Pune,Maharashtra,West,4,51,44949370,2019-02-11,2024-12-05,2124,5.82,7724350.31,23173050.92,Low CLV,False,358,Standard
+C0339,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,2,27,40846800,2019-05-01,2024-08-16,1934,5.3,7708935.88,23126807.65,Low CLV,False,359,Standard
+C0144,Fleet Owner,Construction,Mumbai,Maharashtra,West,2,31,42387320,2019-03-14,2024-09-13,2010,5.51,7697199.9,23091599.7,Low CLV,False,360,Standard
+C0223,Corporate,Logistics,Ahmedabad,Gujarat,West,1,34,43216770,2019-03-01,2024-10-15,2055,5.63,7675971.31,23027913.94,Low CLV,False,361,Standard
+C0022,Retail,Infrastructure,Chennai,Tamil Nadu,South,3,39,44585750,2019-01-13,2024-11-06,2124,5.82,7661863.82,22985591.45,Low CLV,False,362,Standard
+C0267,Fleet Owner,Infrastructure,Hyderabad,Telangana,South,3,33,38686930,2019-03-07,2024-03-25,1845,5.05,7653511.9,22960535.69,Low CLV,False,363,Standard
+C0404,Government,Mining,Ahmedabad,Gujarat,West,5,35,44973650,2019-02-10,2024-12-26,2146,5.88,7649292.75,22947878.26,Low CLV,False,364,Standard
+C0218,Fleet Owner,Construction,Nagpur,Maharashtra,West,5,45,43621310,2019-02-02,2024-10-16,2083,5.71,7643676.5,22931029.5,Low CLV,False,365,Standard
+C0386,Retail,Construction,Delhi,Delhi,North,4,38,42278620,2019-04-23,2024-11-04,2022,5.54,7631897.28,22895691.84,Low CLV,False,366,Standard
+C0011,Retail,Infrastructure,Vadodara,Gujarat,West,4,41,44933810,2019-01-03,2024-11-22,2150,5.89,7628297.98,22884893.93,Low CLV,False,367,Standard
+C0323,Government,Manufacturing,Ahmedabad,Gujarat,West,2,40,45380540,2019-01-11,2024-12-22,2172,5.95,7626103.64,22878310.91,Low CLV,False,368,Standard
+C0159,Dealer,Construction,Chennai,Tamil Nadu,South,3,36,44984320,2019-02-02,2024-12-26,2154,5.9,7622691.18,22868073.54,Low CLV,False,369,Standard
+C0400,Government,Infrastructure,Delhi,Delhi,North,5,38,42250310,2019-04-06,2024-10-23,2027,5.55,7607973.93,22823921.78,Low CLV,False,370,Standard
+C0432,Fleet Owner,Mining,Hyderabad,Telangana,South,3,41,43308880,2019-01-26,2024-10-04,2078,5.69,7607190.18,22821570.55,Low CLV,False,371,Standard
+C0446,Retail,Logistics,Visakhapatnam,Andhra Pradesh,South,1,36,43391360,2019-02-03,2024-10-16,2082,5.7,7607034.77,22821104.32,Low CLV,False,372,Standard
+C0287,Dealer,Manufacturing,Chennai,Tamil Nadu,South,4,36,43261120,2019-03-22,2024-11-27,2077,5.69,7602459.7,22807379.1,Low CLV,False,373,Standard
+C0043,Corporate,Construction,Chennai,Tamil Nadu,South,4,37,39495710,2019-04-04,2024-06-14,1898,5.2,7595328.85,22785986.54,Low CLV,False,374,Standard
+C0412,Corporate,Infrastructure,Kolkata,West Bengal,East,3,37,38694470,2019-04-20,2024-05-28,1865,5.11,7572912.36,22718737.08,Low CLV,False,375,Standard
+C0252,Retail,Construction,Chennai,Tamil Nadu,South,2,38,39885550,2019-08-03,2024-11-07,1923,5.27,7570580.21,22711740.64,Low CLV,False,376,Standard
+C0299,Retail,Logistics,Bengaluru,Karnataka,South,1,37,42381340,2019-01-24,2024-08-30,2045,5.6,7564395.65,22693186.94,Low CLV,False,377,Standard
+C0114,Retail,Mining,Kolkata,West Bengal,East,4,36,43340450,2019-01-03,2024-09-27,2094,5.74,7554567.45,22663702.36,Low CLV,False,378,Standard
+C0203,Government,Manufacturing,Ahmedabad,Gujarat,West,1,37,43333790,2019-02-25,2024-11-19,2094,5.74,7553406.57,22660219.7,Low CLV,False,379,Standard
+C0281,Government,Logistics,Visakhapatnam,Andhra Pradesh,South,4,31,41345180,2019-01-01,2024-06-25,2002,5.48,7537957.39,22613872.18,Low CLV,False,380,Standard
+C0058,Retail,Infrastructure,Pune,Maharashtra,West,3,41,44614910,2019-01-23,2024-12-24,2162,5.92,7532119.4,22596358.21,Low CLV,False,381,Standard
+C0470,Government,Mining,Chennai,Tamil Nadu,South,1,44,42659850,2019-01-25,2024-09-27,2072,5.68,7514886.7,22544660.11,Low CLV,False,382,Standard
+C0012,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,1,38,42822150,2019-01-28,2024-10-10,2082,5.7,7507245.32,22521735.95,Low CLV,False,383,Standard
+C0423,Dealer,Infrastructure,Visakhapatnam,Andhra Pradesh,South,3,35,43818650,2019-02-25,2024-12-27,2132,5.84,7501785.76,22505357.29,Low CLV,False,384,Standard
+C0233,Government,Logistics,Kolkata,West Bengal,East,3,34,42607030,2019-02-15,2024-10-21,2075,5.68,7494730.58,22484191.73,Low CLV,False,385,Standard
+C0097,Corporate,Construction,Pune,Maharashtra,West,5,30,43037580,2019-03-22,2024-12-16,2096,5.74,7494616.75,22483850.24,Low CLV,False,386,Standard
+C0305,Fleet Owner,Logistics,Delhi,Delhi,North,3,33,41460360,2019-05-16,2024-11-27,2022,5.54,7484189.61,22452568.84,Low CLV,False,387,Standard
+C0451,Government,Manufacturing,Ranchi,Jharkhand,East,3,42,41063830,2019-01-07,2024-07-06,2007,5.5,7468010.94,22404032.81,Low CLV,False,388,Standard
+C0044,Government,Mining,Mumbai,Maharashtra,West,4,38,43843570,2019-01-05,2024-11-17,2143,5.87,7467523.59,22402570.77,Low CLV,False,389,Standard
+C0040,Government,Logistics,Delhi,Delhi,North,2,45,43439870,2019-02-23,2024-12-21,2128,5.83,7450917.55,22352752.66,Low CLV,False,390,Standard
+C0320,Retail,Construction,Delhi,Delhi,North,1,35,42807100,2019-04-01,2024-12-30,2100,5.75,7440281.67,22320845.0,Low CLV,False,391,Standard
+C0387,Dealer,Infrastructure,Kolkata,West Bengal,East,4,38,43291870,2019-01-02,2024-10-26,2124,5.82,7439516.27,22318548.8,Low CLV,False,392,Standard
+C0338,Corporate,Rental,Ahmedabad,Gujarat,West,4,38,43157630,2019-02-01,2024-11-23,2122,5.81,7423437.77,22270313.31,Low CLV,False,393,Standard
+C0014,Fleet Owner,Construction,Kolkata,West Bengal,East,2,31,43395470,2019-02-17,2024-12-21,2134,5.85,7422374.2,22267122.61,Low CLV,False,394,Standard
+C0220,Government,Infrastructure,Indore,Madhya Pradesh,Central,2,47,43066280,2019-01-19,2024-11-06,2118,5.8,7421714.92,22265144.76,Low CLV,False,395,Standard
+C0434,Corporate,Mining,Indore,Madhya Pradesh,Central,4,35,42930130,2019-01-05,2024-10-26,2121,5.81,7387787.58,22163362.73,Low CLV,False,396,Standard
+C0465,Fleet Owner,Mining,Chennai,Tamil Nadu,South,1,39,42438980,2019-03-12,2024-12-12,2102,5.76,7369280.54,22107841.63,Low CLV,False,397,Standard
+C0346,Retail,Construction,Patna,Bihar,East,3,39,42873560,2019-01-21,2024-11-15,2125,5.82,7364164.42,22092493.27,Low CLV,False,398,Standard
+C0402,Fleet Owner,Rental,Hyderabad,Telangana,South,1,39,40181870,2019-01-25,2024-07-12,1995,5.47,7351570.2,22054710.6,Low CLV,False,399,Standard
+C0243,Government,Construction,Delhi,Delhi,North,3,34,39757700,2019-07-13,2024-12-10,1977,5.42,7340192.46,22020577.39,Low CLV,False,400,Standard
+C0368,Fleet Owner,Construction,Chennai,Tamil Nadu,South,1,33,42468360,2019-02-17,2024-11-30,2113,5.79,7335992.14,22007976.43,Low CLV,False,401,Standard
+C0388,Fleet Owner,Infrastructure,Pune,Maharashtra,West,5,34,41959050,2019-03-21,2024-12-12,2093,5.73,7317273.41,21951820.23,Low CLV,False,402,Standard
+C0352,Corporate,Mining,Bengaluru,Karnataka,South,1,37,41846330,2019-02-23,2024-11-11,2088,5.72,7315091.21,21945273.64,Low CLV,False,403,Standard
+C0416,Dealer,Manufacturing,Chennai,Tamil Nadu,South,2,43,42362580,2019-01-05,2024-10-20,2115,5.79,7310799.86,21932399.57,Low CLV,False,404,Standard
+C0210,Retail,Infrastructure,Pune,Maharashtra,West,2,32,42817450,2019-02-20,2024-12-28,2138,5.86,7309807.88,21929423.64,Low CLV,False,405,Standard
+C0019,Government,Logistics,Kolkata,West Bengal,East,5,43,43064130,2019-01-19,2024-12-10,2152,5.9,7304092.68,21912278.04,Low CLV,False,406,Standard
+C0136,Dealer,Mining,Ahmedabad,Gujarat,West,3,42,41124050,2019-03-23,2024-11-13,2062,5.65,7279475.39,21838426.16,Low CLV,False,407,Standard
+C0298,Fleet Owner,Construction,Chennai,Tamil Nadu,South,4,37,42797160,2019-01-05,2024-11-20,2146,5.88,7279106.9,21837320.69,Low CLV,False,408,Standard
+C0122,Dealer,Rental,Guwahati,Assam,North East,2,33,42300750,2019-01-12,2024-11-05,2124,5.82,7269196.68,21807590.04,Low CLV,False,409,Standard
+C0199,Government,Mining,Ahmedabad,Gujarat,West,3,38,41788400,2019-01-19,2024-10-21,2102,5.76,7256311.13,21768933.4,Low CLV,False,410,Standard
+C0316,Dealer,Manufacturing,Kolkata,West Bengal,East,4,38,40257180,2019-03-08,2024-09-22,2025,5.55,7256232.44,21768697.33,Low CLV,False,411,Standard
+C0308,Retail,Mining,Delhi,Delhi,North,3,36,42189220,2019-02-19,2024-12-12,2123,5.82,7253445.74,21760337.21,Low CLV,False,412,Standard
+C0484,Fleet Owner,Mining,Ahmedabad,Gujarat,West,1,31,41941080,2019-01-30,2024-11-10,2111,5.78,7251773.66,21755320.99,Low CLV,False,413,Standard
+C0474,Government,Logistics,Pune,Maharashtra,West,3,35,42219110,2019-01-11,2024-11-07,2127,5.83,7244934.25,21734802.75,Low CLV,False,414,Standard
+C0391,Government,Construction,Ahmedabad,Gujarat,West,3,35,42554570,2019-01-14,2024-11-30,2147,5.88,7234475.1,21703425.31,Low CLV,False,415,Standard
+C0057,Retail,Logistics,Kolkata,West Bengal,East,3,35,41341790,2019-03-20,2024-12-04,2086,5.72,7233822.32,21701466.95,Low CLV,False,416,Standard
+C0487,Dealer,Mining,Visakhapatnam,Andhra Pradesh,South,1,31,36312870,2019-03-08,2024-03-18,1837,5.03,7215132.04,21645396.11,Low CLV,False,417,Standard
+C0441,Dealer,Construction,Lucknow,Uttar Pradesh,North,2,35,41532900,2019-01-17,2024-10-19,2102,5.76,7211945.05,21635835.16,Low CLV,False,418,Standard
+C0118,Retail,Rental,Chennai,Tamil Nadu,South,4,39,42906280,2019-01-16,2024-12-30,2175,5.96,7200364.23,21601092.69,Low CLV,False,419,Standard
+C0344,Fleet Owner,Mining,Mumbai,Maharashtra,West,2,30,39253370,2019-01-04,2024-06-17,1991,5.45,7196122.58,21588367.73,Low CLV,False,420,Standard
+C0008,Corporate,Logistics,Mumbai,Maharashtra,West,1,36,38574950,2019-03-04,2024-07-16,1961,5.37,7179937.15,21539811.45,Low CLV,False,421,Standard
+C0037,Corporate,Construction,Pune,Maharashtra,West,1,38,38561970,2019-06-12,2024-10-25,1962,5.38,7173862.92,21521588.76,Low CLV,False,422,Standard
+C0003,Government,Logistics,Surat,Gujarat,West,2,40,39965740,2019-04-05,2024-10-30,2035,5.58,7168302.26,21504906.78,Low CLV,False,423,Standard
+C0214,Corporate,Rental,Pune,Maharashtra,West,4,35,42524620,2019-01-12,2024-12-26,2175,5.96,7136315.54,21408946.62,Low CLV,False,424,Standard
+C0132,Corporate,Construction,Indore,Madhya Pradesh,Central,2,39,40004370,2019-02-22,2024-10-01,2048,5.61,7129685.08,21389055.25,Low CLV,False,425,Standard
+C0053,Fleet Owner,Construction,Delhi,Delhi,North,5,31,38021810,2019-05-16,2024-09-18,1952,5.35,7109610.99,21328832.97,Low CLV,False,426,Standard
+C0382,Retail,Manufacturing,Hyderabad,Telangana,South,3,37,39722420,2019-04-17,2024-11-19,2043,5.6,7096761.28,21290283.85,Low CLV,False,427,Standard
+C0332,Corporate,Mining,Bengaluru,Karnataka,South,1,39,41463910,2019-01-19,2024-11-23,2135,5.85,7088677.82,21266033.47,Low CLV,False,428,Standard
+C0473,Government,Rental,Chennai,Tamil Nadu,South,3,31,40406800,2019-03-04,2024-11-15,2083,5.71,7080404.22,21241212.67,Low CLV,False,429,Standard
+C0187,Retail,Rental,Jaipur,Rajasthan,North,1,31,38937400,2019-05-02,2024-11-08,2017,5.53,7046182.94,21138548.83,Low CLV,False,430,Standard
+C0048,Dealer,Mining,Hyderabad,Telangana,South,3,34,40336880,2019-01-16,2024-10-06,2090,5.73,7044479.04,21133437.13,Low CLV,False,431,Standard
+C0143,Corporate,Infrastructure,Chennai,Tamil Nadu,South,3,29,39164970,2019-01-11,2024-08-02,2030,5.56,7041977.36,21125932.09,Low CLV,False,432,Standard
+C0092,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,2,41,38901670,2019-01-17,2024-07-30,2021,5.54,7025784.04,21077352.13,Low CLV,False,433,Standard
+C0087,Government,Logistics,Hyderabad,Telangana,South,3,41,41444460,2019-01-22,2024-12-17,2156,5.91,7016339.47,21049018.41,Low CLV,False,434,Standard
+C0350,Dealer,Logistics,Guwahati,Assam,North East,2,37,39052200,2019-05-03,2024-11-25,2033,5.57,7011339.4,21034018.2,Low CLV,False,435,Standard
+C0120,Fleet Owner,Construction,Bengaluru,Karnataka,South,5,36,41105250,2019-01-02,2024-11-15,2144,5.87,6997862.06,20993586.17,Low CLV,False,436,Standard
+C0094,Corporate,Logistics,Pune,Maharashtra,West,4,33,39474600,2019-01-18,2024-09-20,2072,5.68,6953778.47,20861335.42,Low CLV,False,437,Standard
+C0167,Retail,Mining,Vadodara,Gujarat,West,4,35,41587150,2019-01-03,2024-12-28,2186,5.99,6943874.54,20831623.63,Low CLV,False,438,Standard
+C0418,Government,Mining,Pune,Maharashtra,West,4,32,39210750,2019-03-18,2024-11-14,2068,5.67,6920659.45,20761978.36,Low CLV,False,439,Standard
+C0351,Corporate,Rental,Bhubaneswar,Odisha,East,1,38,37753190,2019-03-29,2024-09-12,1994,5.46,6910689.24,20732067.73,Low CLV,False,440,Standard
+C0100,Government,Construction,Chandigarh,Punjab,North,3,42,40056040,2019-01-25,2024-11-10,2116,5.8,6909477.6,20728432.8,Low CLV,False,441,Standard
+C0226,Dealer,Logistics,Ahmedabad,Gujarat,West,5,28,39194740,2019-01-22,2024-09-28,2076,5.69,6891175.39,20673526.16,Low CLV,False,442,Standard
+C0317,Corporate,Manufacturing,Coimbatore,Tamil Nadu,South,3,38,40944770,2019-01-17,2024-12-25,2169,5.94,6890198.73,20670596.2,Low CLV,False,443,Standard
+C0194,Fleet Owner,Construction,Visakhapatnam,Andhra Pradesh,South,1,36,39279180,2019-04-15,2024-12-26,2082,5.7,6886119.45,20658358.36,Low CLV,False,444,Standard
+C0007,Corporate,Manufacturing,Pune,Maharashtra,West,4,36,37839490,2019-05-08,2024-11-03,2006,5.5,6885051.77,20655155.31,Low CLV,False,445,Standard
+C0115,Fleet Owner,Mining,Visakhapatnam,Andhra Pradesh,South,5,33,38312450,2019-05-07,2024-11-28,2032,5.57,6881911.54,20645734.62,Low CLV,False,446,Standard
+C0452,Fleet Owner,Mining,Hyderabad,Telangana,South,1,42,39890320,2019-03-05,2024-12-27,2124,5.82,6854974.95,20564924.86,Low CLV,False,447,Standard
+C0208,Fleet Owner,Logistics,Jaipur,Rajasthan,North,4,34,40653790,2019-01-20,2024-12-30,2171,5.95,6834930.15,20504790.44,Low CLV,False,448,Standard
+C0089,Corporate,Rental,Surat,Gujarat,West,4,40,40101850,2019-01-02,2024-11-14,2143,5.87,6830226.43,20490679.3,Low CLV,False,449,Standard
+C0179,Government,Infrastructure,Chennai,Tamil Nadu,South,3,35,35257010,2019-05-20,2024-07-21,1889,5.18,6812497.96,20437493.89,Low CLV,False,450,Standard
+C0277,Dealer,Logistics,Surat,Gujarat,West,1,38,35987190,2019-05-28,2024-09-14,1936,5.3,6784774.97,20354324.92,Low CLV,False,451,Standard
+C0020,Dealer,Logistics,Kolkata,West Bengal,East,3,41,38461450,2019-01-26,2024-10-17,2091,5.73,6713739.48,20141218.44,Low CLV,False,452,Standard
+C0139,Government,Mining,Ahmedabad,Gujarat,West,2,36,38021440,2019-03-13,2024-11-10,2069,5.67,6707503.91,20122511.74,Low CLV,False,453,Standard
+C0430,Retail,Manufacturing,Nagpur,Maharashtra,West,5,29,37535780,2019-03-08,2024-10-11,2044,5.6,6702817.86,20108453.57,Low CLV,False,454,Standard
+C0283,Retail,Logistics,Jaipur,Rajasthan,North,1,33,36153120,2019-04-14,2024-09-04,1970,5.4,6698420.71,20095262.13,Low CLV,False,455,Standard
+C0121,Government,Construction,Pune,Maharashtra,West,2,36,39128960,2019-01-22,2024-12-01,2140,5.86,6673864.67,20021594.02,Low CLV,False,456,Standard
+C0150,Fleet Owner,Manufacturing,Ahmedabad,Gujarat,West,5,34,35468440,2019-07-12,2024-11-09,1947,5.33,6649193.94,19947581.82,Low CLV,False,457,Standard
+C0212,Retail,Infrastructure,Guwahati,Assam,North East,4,35,38459600,2019-02-01,2024-11-15,2114,5.79,6640375.59,19921126.77,Low CLV,False,458,Standard
+C0125,Government,Mining,Surat,Gujarat,West,4,36,38490080,2019-02-17,2024-12-09,2122,5.81,6620583.98,19861751.93,Low CLV,False,459,Standard
+C0182,Dealer,Infrastructure,Kolkata,West Bengal,East,5,32,35873070,2019-03-03,2024-08-03,1980,5.42,6612964.92,19838894.77,Low CLV,False,460,Standard
+C0262,Corporate,Logistics,Delhi,Delhi,North,4,30,38179240,2019-02-26,2024-12-04,2108,5.78,6610731.78,19832195.35,Low CLV,False,461,Standard
+C0170,Government,Construction,Bengaluru,Karnataka,South,4,32,37935380,2019-03-21,2024-12-20,2101,5.76,6590392.05,19771176.15,Low CLV,False,462,Standard
+C0494,Corporate,Construction,Ranchi,Jharkhand,East,2,32,37868420,2019-02-25,2024-11-28,2103,5.76,6572502.76,19717508.27,Low CLV,False,463,Standard
+C0437,Dealer,Mining,Nagpur,Maharashtra,West,3,32,38523930,2019-02-09,2024-12-21,2142,5.87,6564535.22,19693605.67,Low CLV,False,464,Standard
+C0366,Corporate,Logistics,Kolkata,West Bengal,East,4,30,36772070,2019-03-09,2024-10-26,2058,5.64,6521771.4,19565314.21,Low CLV,False,465,Standard
+C0229,Government,Mining,Patna,Bihar,East,3,29,36130700,2019-05-15,2024-11-29,2025,5.55,6512447.16,19537341.48,Low CLV,False,466,Standard
+C0079,Retail,Rental,Delhi,Delhi,North,5,33,37415140,2019-01-25,2024-11-28,2134,5.85,6399496.77,19198490.3,Low CLV,False,467,Standard
+C0454,Government,Mining,Pune,Maharashtra,West,3,37,36757440,2019-02-08,2024-11-14,2106,5.77,6370591.45,19111774.36,Low CLV,False,468,Standard
+C0392,Fleet Owner,Logistics,Kolkata,West Bengal,East,2,34,37128430,2019-02-11,2024-12-12,2131,5.84,6359397.91,19078193.74,Low CLV,False,469,Standard
+C0271,Corporate,Infrastructure,Hyderabad,Telangana,South,5,28,34224570,2019-06-05,2024-11-26,2001,5.48,6242862.59,18728587.78,Low CLV,False,470,Standard
+C0336,Government,Rental,Kolkata,West Bengal,East,5,39,36133900,2019-01-13,2024-10-26,2113,5.79,6241776.38,18725329.15,Low CLV,False,471,Standard
+C0117,Government,Mining,Guwahati,Assam,North East,3,35,35972400,2019-01-01,2024-10-08,2107,5.77,6231573.8,18694721.4,Low CLV,False,472,Standard
+C0155,Fleet Owner,Mining,Kolkata,West Bengal,East,5,36,35744630,2019-03-24,2024-12-17,2095,5.74,6227584.7,18682754.11,Low CLV,False,473,Standard
+C0151,Government,Infrastructure,Kolkata,West Bengal,East,5,31,35615980,2019-03-03,2024-11-28,2097,5.75,6199252.6,18597757.8,Low CLV,False,474,Standard
+C0500,Corporate,Infrastructure,Kolkata,West Bengal,East,3,29,36693490,2019-01-06,2024-12-07,2162,5.92,6194784.39,18584353.17,Low CLV,False,475,Standard
+C0334,Corporate,Mining,Chennai,Tamil Nadu,South,5,37,34503010,2019-01-03,2024-08-24,2060,5.64,6113397.4,18340192.21,Low CLV,False,476,Standard
+C0078,Dealer,Rental,Visakhapatnam,Andhra Pradesh,South,1,33,34591140,2019-01-31,2024-10-08,2077,5.69,6078847.42,18236542.27,Low CLV,False,477,Standard
+C0248,Fleet Owner,Rental,Pune,Maharashtra,West,5,30,35510400,2019-01-10,2024-12-04,2155,5.9,6014522.51,18043567.52,Low CLV,False,478,Standard
+C0104,Fleet Owner,Infrastructure,Visakhapatnam,Andhra Pradesh,South,1,36,35121810,2019-02-27,2024-12-30,2133,5.84,6010061.25,18030183.76,Low CLV,False,479,Standard
+C0204,Retail,Rental,Coimbatore,Tamil Nadu,South,2,33,34104450,2019-03-02,2024-12-08,2108,5.78,5905182.28,17715546.85,Low CLV,False,480,Standard
+C0091,Retail,Construction,Coimbatore,Tamil Nadu,South,2,32,33399030,2019-01-09,2024-09-07,2068,5.67,5894896.49,17684689.48,Low CLV,False,481,Standard
+C0034,Government,Construction,Pune,Maharashtra,West,5,33,33729240,2019-01-05,2024-10-06,2101,5.76,5859672.82,17579018.47,Low CLV,False,482,Standard
+C0028,Retail,Infrastructure,Bengaluru,Karnataka,South,3,34,33463430,2019-01-22,2024-11-13,2122,5.81,5755962.28,17267886.83,Low CLV,False,483,Standard
+C0322,Government,Construction,Ahmedabad,Gujarat,West,2,29,32591500,2019-04-10,2024-12-10,2071,5.67,5744035.49,17232106.47,Low CLV,False,484,Standard
+C0108,Corporate,Rental,Jaipur,Rajasthan,North,4,26,33566370,2019-01-03,2024-12-29,2187,5.99,5602069.07,16806207.2,Low CLV,False,485,Standard
+C0061,Dealer,Construction,Surat,Gujarat,West,4,32,31227160,2019-01-29,2024-09-08,2049,5.61,5562671.25,16688013.76,Low CLV,False,486,Standard
+C0479,Retail,Construction,Mumbai,Maharashtra,West,1,29,31298140,2019-02-22,2024-10-08,2055,5.63,5559037.03,16677111.09,Low CLV,False,487,Standard
+C0279,Dealer,Rental,Nagpur,Maharashtra,West,4,28,30576800,2019-05-12,2024-11-12,2011,5.51,5549742.42,16649227.25,Low CLV,False,488,Standard
+C0183,Government,Mining,Ahmedabad,Gujarat,West,4,32,32501510,2019-01-17,2024-12-05,2149,5.89,5520265.77,16560797.32,Low CLV,False,489,Standard
+C0238,Corporate,Construction,Chennai,Tamil Nadu,South,5,32,30976180,2019-01-22,2024-09-01,2049,5.61,5517962.76,16553888.29,Low CLV,False,490,Standard
+C0177,Dealer,Construction,Pune,Maharashtra,West,1,30,31520790,2019-04-01,2024-12-25,2095,5.74,5491688.95,16475066.85,Low CLV,False,491,Standard
+C0303,Corporate,Mining,Ahmedabad,Gujarat,West,3,31,30524560,2019-04-05,2024-12-01,2067,5.66,5390161.78,16170485.34,Low CLV,False,492,Standard
+C0292,Corporate,Rental,Indore,Madhya Pradesh,Central,2,31,30669960,2019-01-11,2024-09-19,2078,5.69,5387168.14,16161504.43,Low CLV,False,493,Standard
+C0309,Government,Manufacturing,Ahmedabad,Gujarat,West,4,32,30418360,2019-03-04,2024-12-17,2115,5.79,5249504.21,15748512.62,Low CLV,False,494,Standard
+C0145,Retail,Construction,Pune,Maharashtra,West,3,37,29769500,2019-04-01,2024-12-29,2099,5.75,5176687.71,15530063.13,Low CLV,False,495,Standard
+C0353,Dealer,Manufacturing,Delhi,Delhi,North,1,30,28192110,2019-01-16,2024-10-08,2092,5.73,4918795.48,14756386.45,Low CLV,False,496,Standard
+C0174,Government,Mining,Ahmedabad,Gujarat,West,2,34,29047310,2019-01-11,2024-12-21,2171,5.95,4883587.36,14650762.07,Low CLV,False,497,Standard
+C0456,Corporate,Mining,Delhi,Delhi,North,4,29,26909060,2019-02-23,2024-10-16,2062,5.65,4763242.92,14289728.76,Low CLV,False,498,Standard
+C0180,Fleet Owner,Logistics,Hyderabad,Telangana,South,3,31,26408930,2019-01-04,2024-12-10,2167,5.94,4448204.64,13344613.91,Low CLV,False,499,Standard
+C0347,Retail,Mining,Delhi,Delhi,North,4,27,22852400,2019-03-04,2024-12-03,2101,5.76,3970074.25,11910222.75,Low CLV,False,500,Standard

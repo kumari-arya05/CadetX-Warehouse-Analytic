@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_type,product_category,city,province,region,lead_time_days,reliability_score,total_orders,total_purchase_value,purchase_value_share,critical_supplier,criticality_reason,risk_level
+SUP0005,Tianjin OEM Supplies,OEM,Small Parts,Tianjin,Tianjin,North China,28,3,3044,44748497243.67,12.91,True,Low Reliability,Medium Risk
+SUP0001,Shenzhen OEM Supplies,OEM,Medium Parts,Shenzhen,Guangdong,South China,19,5,2944,43664270006.09,12.6,True,Low Reliability,Medium Risk
+SUP0003,Shanghai Distributor Supplies,Distributor,Large Parts,Shanghai,Shanghai,East China,16,4,3033,43657994600.35,12.6,True,Low Reliability,Medium Risk
+SUP0007,Suzhou Local Vendor Supplies,Local Vendor,Medium Parts,Suzhou,Jiangsu,East China,12,5,3028,43632412424.6,12.59,True,Low Reliability,Medium Risk
+SUP0008,Hangzhou OEM Supplies,OEM,Small Parts,Hangzhou,Zhejiang,East China,26,4,3010,43432705804.86,12.53,True,Low Reliability,Medium Risk
+SUP0006,Qingdao Distributor Supplies,Distributor,Large Parts,Qingdao,Shandong,East China,10,3,3038,43243725354.91,12.48,True,Low Reliability,Medium Risk
+SUP0004,Ningbo Distributor Supplies,Distributor,Large Parts,Ningbo,Zhejiang,East China,18,3,2966,42427550782.14,12.24,True,Low Reliability,Medium Risk
+SUP0002,Guangzhou Local Vendor Supplies,Local Vendor,Small Parts,Guangzhou,Guangdong,South China,10,5,2937,41814821322.52,12.06,True,Low Reliability,Medium Risk

@@ -1,0 +1,6 @@
+customer_segment,customers,average_recency,average_frequency,total_monetary,average_rfm_score
+At Risk,96,77.38,34.57,3941538200,4.66
+Champions,117,25.21,47.33,7344674130,10.83
+Lost Customers,28,138.86,31.57,1032325360,3.0
+Loyal Customers,135,46.04,41.84,7267898440,8.53
+Potential Loyalists,124,59.2,37.18,5860956430,6.48

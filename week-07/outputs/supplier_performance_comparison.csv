@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_type,product_category,city,province,region,lead_time_days,reliability_score,total_orders,on_time_orders,average_delivery_days,average_delay_days,total_purchase_cost,average_order_value,on_time_delivery_rate,performance_rating
+SUP0005,Tianjin OEM Supplies,OEM,Small Parts,Tianjin,Tianjin,North China,28,3,3044,2350,28.49,0.49,44748497243.67,14700557.57,77.2,Good
+SUP0006,Qingdao Distributor Supplies,Distributor,Large Parts,Qingdao,Shandong,East China,10,3,3038,2345,10.5,0.5,43243725354.91,14234274.31,77.19,Good
+SUP0001,Shenzhen OEM Supplies,OEM,Medium Parts,Shenzhen,Guangdong,South China,19,5,2944,2253,19.5,0.5,43664270006.09,14831613.45,76.53,Good
+SUP0003,Shanghai Distributor Supplies,Distributor,Large Parts,Shanghai,Shanghai,East China,16,4,3033,2315,16.53,0.53,43657994600.35,14394327.27,76.33,Good
+SUP0007,Suzhou Local Vendor Supplies,Local Vendor,Medium Parts,Suzhou,Jiangsu,East China,12,5,3028,2309,12.53,0.53,43632412424.6,14409647.43,76.25,Good
+SUP0002,Guangzhou Local Vendor Supplies,Local Vendor,Small Parts,Guangzhou,Guangdong,South China,10,5,2937,2239,10.52,0.52,41814821322.52,14237256.15,76.23,Good
+SUP0004,Ningbo Distributor Supplies,Distributor,Large Parts,Ningbo,Zhejiang,East China,18,3,2966,2260,18.5,0.5,42427550782.14,14304636.14,76.2,Good
+SUP0008,Hangzhou OEM Supplies,OEM,Small Parts,Hangzhou,Zhejiang,East China,26,4,3010,2292,26.55,0.55,43432705804.86,14429470.37,76.15,Good
