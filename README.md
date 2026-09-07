@@ -8,7 +8,7 @@ The project focuses on analysing Heavy Supplier, Inventory, Warehouse, Sales, Pu
 
 The project follows a structured analytics workflow:
 
-**Data Profiling → Data Cleaning → Data Standardization → Data Integration → Data Validation → Feature Engineering → KPI Development**
+**Data Profiling  Data Cleaning  Data Standardization  Data Integration  Data Validation  Feature Engineering  KPI Development**
 
 ---
 
@@ -33,30 +33,30 @@ The main objectives of this project are to:
 ```text
 CadetX-Warehouse-Analytic/
 
-├── .vscode/
-├── data/
-│   ├── cleaned/
-│   ├── integrated/
-│   ├── features/
-│   ├── kpis/
-│   └── validation/
-├── docs/
-├── notebooks/
-├── src/
-├── week-01/
-├── week-02/
-├── week-03/
-├── week-04/
-└── README.md
+ .vscode/
+ data/
+    cleaned/
+    integrated/
+    features/
+    kpis/
+    validation/
+ docs/
+ notebooks/
+ src/
+ week-01/
+ week-02/
+ week-03/
+ week-04/
+ README.md
 ```
 
 ---
 
 ## Weekly Progress
 
-### Week 01 — Data Foundation & Exploration
+### Week 01  Data Foundation & Exploration
 
-**Status: Completed ✅**
+**Status: Completed **
 
 Week 01 focused on establishing the data foundation for the project.
 
@@ -92,9 +92,9 @@ Detailed Week 01 documentation is available in:
 
 ---
 
-### Week 02 — Product & Inventory Analytics
+### Week 02  Product & Inventory Analytics
 
-**Status: Completed ✅**
+**Status: Completed **
 
 Week 02 focused on product, inventory, and sales analysis.
 
@@ -117,9 +117,9 @@ Week 02 focused on product, inventory, and sales analysis.
 
 ---
 
-### Week 03 — Data Analytics & KPI Foundation
+### Week 03  Data Analytics & KPI Foundation
 
-**Status: Completed ✅**
+**Status: Completed **
 
 Week 03 focused on transforming cleaned and integrated datasets into analytics-ready data and establishing the initial KPI foundation.
 
@@ -190,9 +190,9 @@ The Week 03 workflow generated:
 
 ---
 
-### Week 04 — Warehouse Operations & Efficiency Analytics
+### Week 04  Warehouse Operations & Efficiency Analytics
 
-**Status: Completed ✅**
+**Status: Completed **
 
 Week 04 focused on analysing warehouse capacity, utilisation, inventory movement, product distribution, warehouse performance, and operational bottlenecks.
 
@@ -201,7 +201,7 @@ Week 04 focused on analysing warehouse capacity, utilisation, inventory movement
 - Prepared and validated warehouse-related datasets.
 - Analysed warehouse space utilisation and capacity usage.
 - Measured warehouse throughput and inventory movement.
-- Analysed product–warehouse alignment.
+- Analysed productwarehouse alignment.
 - Developed warehouse performance scores.
 - Identified potential operational bottlenecks.
 - Benchmarked warehouse utilisation and performance.
@@ -213,7 +213,7 @@ Week 04 focused on analysing warehouse capacity, utilisation, inventory movement
 - Warehouse Space Utilisation
 - Warehouse Throughput Analysis
 - Warehouse Capacity Analysis
-- Product–Warehouse Alignment
+- ProductWarehouse Alignment
 - Warehouse Performance Scoring
 - Operational Bottleneck Detection
 - Warehouse Utilisation Benchmarking
@@ -226,7 +226,7 @@ Week 04 focused on analysing warehouse capacity, utilisation, inventory movement
 | `02_space_utilisation.py` | Warehouse space utilisation |
 | `03_warehouse_throughput.py` | Warehouse throughput analysis |
 | `04_warehouse_capacity.py` | Warehouse capacity analysis |
-| `05_product_warehouse_alignment.py` | Product–warehouse alignment |
+| `05_product_warehouse_alignment.py` | Productwarehouse alignment |
 | `06_warehouse_performance.py` | Warehouse performance scoring |
 | `07_bottleneck_detection.py` | Operational bottleneck detection |
 | `08_utilisation_benchmarking.py` | Warehouse utilisation benchmarking |
@@ -239,7 +239,7 @@ The Week 04 analysis generated structured CSV outputs covering:
 - Warehouse Space Utilisation
 - Warehouse Throughput
 - Warehouse Capacity
-- Product–Warehouse Alignment
+- ProductWarehouse Alignment
 - Warehouse Performance
 - Bottleneck Detection
 - Warehouse Utilisation Benchmarking
@@ -333,7 +333,7 @@ https://github.com/kumari-arya05/CadetX-Warehouse-Analytic
 
 **Project:** Warehouse & Supply Chain Analytics
 
-**Current Phase:** Week 04 — Warehouse Operations & Efficiency Analytics
+**Current Phase:** Week 04  Warehouse Operations & Efficiency Analytics
 
 ---
 
@@ -341,15 +341,15 @@ https://github.com/kumari-arya05/CadetX-Warehouse-Analytic
 
 | Phase | Status |
 |---|---|
-| Week 01 — Data Foundation & Exploration | ✅ Completed |
-| Week 02 — Product & Inventory Analytics | ✅ Completed |
-| Week 03 — Data Analytics & KPI Foundation | ✅ Completed |
-| Week 04 — Warehouse Operations & Efficiency Analytics | ✅ Completed |
+| Week 01  Data Foundation & Exploration |  Completed |
+| Week 02  Product & Inventory Analytics |  Completed |
+| Week 03  Data Analytics & KPI Foundation |  Completed |
+| Week 04  Warehouse Operations & Efficiency Analytics |  Completed |
 
-**Current Project Status:** Week 04 Completed — Ready for the next sprint 🚀
+**Current Project Status:** Week 04 Completed  Ready for the next sprint 
 ---
 
-### Week 05 � Sales & Purchase Analytics
+### Week 05  Sales & Purchase Analytics
 
 **Status: Completed ?**
 
@@ -372,7 +372,7 @@ week-05/README.md
 
 ---
 
-### Week 06 � Inventory & Warehouse Analytics
+### Week 06  Inventory & Warehouse Analytics
 
 **Status: Completed ?**
 
@@ -394,7 +394,7 @@ week-06/README.md
 
 ---
 
-### Week 07 � Supplier & Customer Analytics
+### Week 07  Supplier & Customer Analytics
 
 **Status: Completed ?**
 
