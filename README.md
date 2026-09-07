@@ -1,5 +1,10 @@
 # CadetX Warehouse Analytics
 
+├── week-05/
+├── week-06/
+├── week-07/
+# CadetX Warehouse Analytics
+
 ## Project Overview
 
 **CadetX Warehouse Analytics** is a data analytics project developed as part of the **CadetX Virtual Work Experience Program**.
@@ -432,11 +437,11 @@ week-07/README.md
 
 | Week | Status |
 |------|--------|
-| Week 01 | ? Completed |
-| Week 02 | ? Completed |
-| Week 03 | ? Completed |
-| Week 04 | ? Completed |
-| Week 05 | ? Completed |
-| Week 06 | ? Completed |
-| Week 07 | ? Completed |
+| Week 01 | Completed |
+| Week 02 | Completed |
+| Week 03 | Completed |
+| Week 04 | Completed |
+| Week 05 | Completed |
+| Week 06 | Completed |
+| Week 07 | Completed |
 
