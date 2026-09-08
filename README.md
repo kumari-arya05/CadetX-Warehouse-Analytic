@@ -1,19 +1,14 @@
 ﻿# CadetX Warehouse Analytics
 
-├── week-05/
-├── week-06/
-├── week-07/
-# CadetX Warehouse Analytics
-
 ## Project Overview
 
-**CadetX Warehouse Analytics** is a data analytics project developed as part of the **CadetX Virtual Work Experience Program**.
+CadetX Warehouse Analytics is a data analytics project developed as part of the CadetX Virtual Work Experience Program.
 
 The project focuses on analysing Heavy Supplier, Inventory, Warehouse, Sales, Purchase, and Customer datasets to establish a reliable data foundation and generate meaningful business insights.
 
 The project follows a structured analytics workflow:
 
-**Data Profiling  Data Cleaning  Data Standardization  Data Integration  Data Validation  Feature Engineering  KPI Development**
+Data Profiling → Data Cleaning → Data Standardization → Data Integration → Data Validation → Feature Engineering → KPI Development → Predictive Analytics
 
 ---
 
@@ -30,83 +25,55 @@ The main objectives of this project are to:
 - Engineer analytical features.
 - Develop business-focused KPIs and analytical insights.
 - Analyse sales, purchasing, inventory, supplier, and customer performance.
+- Develop predictive analytics for demand and inventory planning.
 
 ---
 
-## Project Structure
+# Weekly Progress
 
-```text
-CadetX-Warehouse-Analytic/
+## Week 01 – Data Foundation & Exploration
 
- .vscode/
- data/
-    cleaned/
-    integrated/
-    features/
-    kpis/
-    validation/
- docs/
- notebooks/
- src/
- week-01/
- week-02/
- week-03/
- week-04/
-    week-05/
-    week-06/
-    week-07/
- README.md
-```
-
----
-
-## Weekly Progress
-
-### Week 01  Data Foundation & Exploration
-
-**Status: Completed **
+Status: Completed
 
 Week 01 focused on establishing the data foundation for the project.
 
-#### Work Completed
+### Work Completed
 
-- Explored and profiled all **12 CSV datasets**.
+- Explored and profiled all 12 CSV datasets.
 - Reviewed dataset rows, columns, and data types.
 - Checked missing values across datasets.
 - Checked duplicate records.
 - Performed data cleaning using Python and Pandas.
 - Standardized date-related fields.
 - Performed data-quality validation.
-- Analysed missing values in `purchase_orders_header.csv`.
-- Created cleaned datasets in the `data/cleaned/` directory.
+- Analysed missing values in purchase_orders_header.csv.
+- Created cleaned datasets in the data/cleaned/ directory.
 - Documented data-quality findings and preparation activities.
 - Published the completed work to GitHub.
 
-#### Key Finding
+### Key Finding
 
-`purchase_orders_header.csv` contains:
+purchase_orders_header.csv contains:
 
-- **24,000 total rows**
-- **2,370 missing `received_date` values**
-- **0 duplicate rows**
+- 24,000 total rows
+- 2,370 missing received_date values
+- 0 duplicate rows
 
-The missing `received_date` values were retained as blank because they may represent purchase orders that have not yet been received. Artificial dates were not introduced to avoid changing the meaning of the source data.
+The missing received_date values were retained as blank because they may represent purchase orders that have not yet been received. Artificial dates were not introduced to avoid changing the meaning of the source data.
 
-#### Week 01 Documentation
+### Documentation
 
-Detailed Week 01 documentation is available in:
-
-`week-01/README.md`
+week-01/README.md
 
 ---
 
-### Week 02  Product & Inventory Analytics
+## Week 02 – Product & Inventory Analytics
 
-**Status: Completed **
+Status: Completed
 
 Week 02 focused on product, inventory, and sales analysis.
 
-#### Work Completed
+### Work Completed
 
 - Analysed product performance and inventory data.
 - Examined inventory health and stock movement.
@@ -114,7 +81,7 @@ Week 02 focused on product, inventory, and sales analysis.
 - Developed analytical outputs for product and inventory insights.
 - Prepared structured analytical results for further business analysis.
 
-#### Key Analytical Areas
+### Key Analytical Areas
 
 - Product performance
 - Inventory health
@@ -123,15 +90,19 @@ Week 02 focused on product, inventory, and sales analysis.
 - Product-level sales analysis
 - Inventory planning
 
+### Documentation
+
+week-02/README.md
+
 ---
 
-### Week 03  Data Analytics & KPI Foundation
+## Week 03 – Data Analytics & KPI Foundation
 
-**Status: Completed **
+Status: Completed
 
 Week 03 focused on transforming cleaned and integrated datasets into analytics-ready data and establishing the initial KPI foundation.
 
-#### Work Completed
+### Work Completed
 
 - Cleaned and prepared analytical datasets.
 - Integrated product, inventory, and sales data.
@@ -141,20 +112,21 @@ Week 03 focused on transforming cleaned and integrated datasets into analytics-r
 - Generated initial KPI outputs.
 - Analysed demand patterns and product-level performance.
 
-#### Week 03 Deliverables
+### Deliverables
 
-| File | Purpose |
-|---|---|
-| `01_data_cleaning.py` | Data cleaning and preparation |
-| `02_integration.py` | Product, inventory and sales data integration |
-| `03_feature_engineering.py` | Analytical feature creation |
-| `04_data_validation.py` | Data quality and consistency validation |
-| `05_data_dictionary.md` | Dataset, field and relationship documentation |
-| `06_first_kpis.py` | Initial KPI analysis |
+01_data_cleaning.py – Data cleaning and preparation
 
-#### Week 03 Outputs
+02_integration.py – Product, inventory and sales data integration
 
-The Week 03 workflow generated:
+03_feature_engineering.py – Analytical feature creation
+
+04_data_validation.py – Data quality and consistency validation
+
+05_data_dictionary.md – Dataset, field and relationship documentation
+
+06_first_kpis.py – Initial KPI analysis
+
+### Outputs
 
 - Cleaned datasets
 - Integrated datasets
@@ -165,30 +137,26 @@ The Week 03 workflow generated:
 - Top-demand product analysis
 - Demand distribution analysis
 
-#### Week 03 Analytical Focus
+### Analytical Focus
 
-**Product Analytics**
-
+Product Analytics:
 - Product-level performance
 - Demand movement
 - Product KPI foundation
 
-**Inventory Analytics**
-
+Inventory Analytics:
 - Current stock position
 - Reorder-risk identification
 - Overstock identification
 - Inventory value analysis
 
-**Sales Analytics**
-
+Sales Analytics:
 - Quantity sold
 - Sales value
 - Average selling price
 - Demand-level analysis
 
-**Data Quality**
-
+Data Quality:
 - Duplicate checks
 - Missing-value checks
 - Referential integrity
@@ -196,95 +164,251 @@ The Week 03 workflow generated:
 - Date validation
 - Business-rule consistency
 
+### Documentation
+
+week-03/README.md
+
 ---
 
-### Week 04  Warehouse Operations & Efficiency Analytics
+## Week 04 – Warehouse Operations & Efficiency Analytics
 
-**Status: Completed **
+Status: Completed
 
 Week 04 focused on analysing warehouse capacity, utilisation, inventory movement, product distribution, warehouse performance, and operational bottlenecks.
 
-#### Work Completed
+### Work Completed
 
 - Prepared and validated warehouse-related datasets.
 - Analysed warehouse space utilisation and capacity usage.
 - Measured warehouse throughput and inventory movement.
-- Analysed productwarehouse alignment.
+- Analysed product-warehouse alignment.
 - Developed warehouse performance scores.
 - Identified potential operational bottlenecks.
 - Benchmarked warehouse utilisation and performance.
 - Generated structured CSV outputs for further business analysis.
 
-#### Key Analytical Areas
+### Key Analytical Areas
 
 - Warehouse Data Preparation
 - Warehouse Space Utilisation
 - Warehouse Throughput Analysis
 - Warehouse Capacity Analysis
-- ProductWarehouse Alignment
+- Product-Warehouse Alignment
 - Warehouse Performance Scoring
 - Operational Bottleneck Detection
 - Warehouse Utilisation Benchmarking
 
-#### Week 04 Scripts
+### Scripts
 
-| Script | Analysis |
-|---|---|
-| `01_warehouse_data_preparation.py` | Warehouse data preparation and validation |
-| `02_space_utilisation.py` | Warehouse space utilisation |
-| `03_warehouse_throughput.py` | Warehouse throughput analysis |
-| `04_warehouse_capacity.py` | Warehouse capacity analysis |
-| `05_product_warehouse_alignment.py` | Productwarehouse alignment |
-| `06_warehouse_performance.py` | Warehouse performance scoring |
-| `07_bottleneck_detection.py` | Operational bottleneck detection |
-| `08_utilisation_benchmarking.py` | Warehouse utilisation benchmarking |
+01_warehouse_data_preparation.py – Warehouse data preparation and validation
 
-#### Week 04 Outputs
+02_space_utilisation.py – Warehouse space utilisation
 
-The Week 04 analysis generated structured CSV outputs covering:
+03_warehouse_throughput.py – Warehouse throughput analysis
+
+04_warehouse_capacity.py – Warehouse capacity analysis
+
+05_product_warehouse_alignment.py – Product-warehouse alignment
+
+06_warehouse_performance.py – Warehouse performance scoring
+
+07_bottleneck_detection.py – Operational bottleneck detection
+
+08_utilisation_benchmarking.py – Warehouse utilisation benchmarking
+
+### Outputs
 
 - Warehouse Inventory Preparation
 - Warehouse Space Utilisation
 - Warehouse Throughput
 - Warehouse Capacity
-- ProductWarehouse Alignment
+- Product-Warehouse Alignment
 - Warehouse Performance
 - Bottleneck Detection
 - Warehouse Utilisation Benchmarking
 
-The generated analytical outputs are stored in:
+Generated analytical outputs are stored in:
 
-```text
 data/features/
-```
 
-#### Week 04 Documentation
+### Documentation
 
-Detailed Week 04 documentation is available in:
-
-`week-04/README.md`
+week-04/README.md
 
 ---
 
-## Tools & Technologies
+## Week 05 – Sales & Purchase Analytics
 
-### Programming & Data Analysis
+Status: Completed
+
+Week 05 focused on sales, purchase, and business performance analytics.
+
+### Work Completed
+
+- Analysed sales order performance.
+- Analysed purchase order performance.
+- Developed sales and purchase KPIs.
+- Analysed revenue and order trends.
+- Analysed supplier and procurement performance.
+- Generated structured analytical outputs.
+
+### Documentation
+
+week-05/README.md
+
+---
+
+## Week 06 – Inventory & Warehouse Analytics
+
+Status: Completed
+
+Week 06 focused on inventory and warehouse analytics.
+
+### Work Completed
+
+- Analysed inventory levels and stock movement.
+- Analysed warehouse operations and efficiency.
+- Developed inventory-related analytical features.
+- Identified inventory risks and operational patterns.
+- Generated structured analytical outputs.
+
+### Documentation
+
+week-06/README.md
+
+---
+
+## Week 07 – Supplier & Customer Analytics
+
+Status: Completed
+
+Week 07 focused on supplier performance, supplier risk, customer behaviour, and customer analytics.
+
+### Supplier Analytics
+
+- Supplier Reliability Analysis
+- Supplier Performance Comparison
+- Supplier Dependency Risk Analysis
+- Critical Supplier Identification
+
+### Customer Analytics
+
+- Customer Purchase Behaviour Analysis
+- RFM Analysis
+- Customer Segmentation
+- Customer Lifetime Value Analysis
+- Customer Retention Analysis
+- Customer Churn Analysis
+- Customer Cohort Analysis
+- High-Value Customer Identification
+- At-Risk Customer Identification
+- Customer Analytics Summary
+
+### Documentation
+
+week-07/README.md
+
+---
+
+## Week 08 – Predictive Analytics
+
+Status: Completed
+
+Week 08 focused on predictive analytics for demand forecasting, inventory planning, stockout risk prediction, reorder point optimisation, safety stock calculation, and scenario-based inventory forecasting.
+
+### Work Completed
+
+- Developed product demand forecasting.
+- Developed inventory level forecasting.
+- Implemented stockout risk prediction.
+- Optimised reorder points using demand and lead-time information.
+- Calculated recommended safety stock using demand variability and product criticality.
+- Developed scenario-based inventory forecasting.
+- Generated predictive analytics summary metrics.
+- Validated Week 08 analytical outputs.
+
+### Predictive Analytics Areas
+
+- Product Demand Forecasting
+- Inventory Level Forecasting
+- Stockout Risk Prediction
+- Reorder Point Optimisation
+- Safety Stock Calculation
+- Scenario-Based Inventory Forecasting
+
+### Scripts
+
+1_product_demand_forecasting.py – Product demand forecasting
+
+2_inventory_level_forecasting.py – Inventory level forecasting
+
+3_stockout_risk_prediction.py – Stockout risk prediction
+
+4_reorder_point_optimization.py – Reorder point optimisation
+
+5_safety_stock_calculation.py – Safety stock calculation
+
+6_scenario_inventory_forecasting.py – Scenario-based inventory forecasting
+
+7_week08_summary.py – Week 08 predictive analytics summary
+
+### Outputs
+
+- product_demand_forecasting.csv
+- inventory_level_forecasting.csv
+- stockout_risk_prediction.csv
+- reorder_point_optimization.csv
+- safety_stock_calculation.csv
+- scenario_inventory_forecasting.csv
+- week08_predictive_analytics_summary.csv
+
+### Documentation
+
+week-08/README.md
+
+---
+
+# Project Status
+
+Week 01 – Completed
+
+Week 02 – Completed
+
+Week 03 – Completed
+
+Week 04 – Completed
+
+Week 05 – Completed
+
+Week 06 – Completed
+
+Week 07 – Completed
+
+Week 08 – Completed
+
+Current Project Status: Week 08 Completed – Ready for the next sprint
+
+---
+
+# Tools & Technologies
+
+## Programming & Data Analysis
 
 - Python
 - Pandas
 
-### Development
+## Development
 
 - Visual Studio Code
 
-### Version Control
+## Version Control
 
 - Git
 - GitHub
 
 ---
 
-## Core Skills Demonstrated
+# Core Skills Demonstrated
 
 - Data Profiling
 - Data Cleaning
@@ -304,192 +428,34 @@ Detailed Week 04 documentation is available in:
 - Bottleneck Detection
 - Benchmarking
 - Dataset Relationship Analysis
+- Supplier Analytics
+- Customer Analytics
+- Predictive Analytics
+- Demand Forecasting
+- Inventory Forecasting
+- Stockout Risk Prediction
+- Reorder Point Optimisation
+- Safety Stock Calculation
 - Business Analytics
 - Documentation
 - Version Control
 
 ---
 
-## Project Roadmap
+# Repository
 
-Future phases of the project will focus on:
-
-- Developing advanced business KPIs.
-- Analysing sales and purchase performance.
-- Analysing inventory and stock levels.
-- Evaluating supplier performance.
-- Analysing customer purchasing behaviour.
-- Creating analytical summaries and visualizations.
-- Generating actionable business insights.
-- Developing advanced analytical and predictive models.
-
----
-
-## Repository
-
-**GitHub Repository:**
+GitHub Repository:
 
 https://github.com/kumari-arya05/CadetX-Warehouse-Analytic
 
 ---
 
-## Author
+# Author
 
-**Kumari Arya**
+Kumari Arya
 
-**Program:** CadetX Virtual Work Experience Program
+Program: CadetX Virtual Work Experience Program
 
-**Project:** Warehouse & Supply Chain Analytics
+Project: Warehouse & Supply Chain Analytics
 
-**Current Phase:** Week 04  Warehouse Operations & Efficiency Analytics
-
----
-
-## Project Status
-
-| Phase | Status |
-|---|---|
-| Week 01  Data Foundation & Exploration |  Completed |
-| Week 02  Product & Inventory Analytics |  Completed |
-| Week 03  Data Analytics & KPI Foundation |  Completed |
-| Week 04  Warehouse Operations & Efficiency Analytics |  Completed |
-
-**Current Project Status:** Week 04 Completed  Ready for the next sprint 
----
-
-### Week 05  Sales & Purchase Analytics
-
-**Status: Completed ?**
-
-Week 05 focused on sales, purchase, and business performance analytics.
-
-#### Work Completed
-
-- Analysed sales order performance.
-- Analysed purchase order performance.
-- Developed sales and purchase KPIs.
-- Analysed revenue and order trends.
-- Analysed supplier and procurement performance.
-- Generated structured analytical outputs.
-
-#### Week 05 Documentation
-
-Detailed Week 05 documentation is available in:
-
-week-05/README.md
-
----
-
-### Week 06  Inventory & Warehouse Analytics
-
-**Status: Completed ?**
-
-Week 06 focused on inventory and warehouse analytics.
-
-#### Work Completed
-
-- Analysed inventory levels and stock movement.
-- Analysed warehouse operations and efficiency.
-- Developed inventory-related analytical features.
-- Identified inventory risks and operational patterns.
-- Generated structured analytical outputs.
-
-#### Week 06 Documentation
-
-Detailed Week 06 documentation is available in:
-
-week-06/README.md
-
----
-
-### Week 07  Supplier & Customer Analytics
-
-**Status: Completed ?**
-
-Week 07 focused on supplier performance, supplier risk, customer behaviour, and customer analytics.
-
-#### Supplier Analytics
-
-- Supplier Reliability Analysis
-- Supplier Performance Comparison
-- Supplier Dependency Risk Analysis
-- Critical Supplier Identification
-
-#### Customer Analytics
-
-- Customer Purchase Behaviour Analysis
-- RFM Analysis
-- Customer Segmentation
-- Customer Lifetime Value Analysis
-- Customer Retention Analysis
-- Customer Churn Analysis
-- Customer Cohort Analysis
-- High-Value Customer Identification
-- At-Risk Customer Identification
-- Customer Analytics Summary
-
-#### Week 07 Documentation
-
-Detailed Week 07 documentation is available in:
-
-week-07/README.md
-
----
-
-### Project Status
-
-| Week | Status |
-|------|--------|
-| Week 01 | Completed |
-| Week 02 | Completed |
-| Week 03 | Completed |
-| Week 04 | Completed |
-| Week 05 | Completed |
-| Week 06 | Completed |
-| Week 07 | Completed |
-
-
-### Week 08 Predictive Analytics
-
-**Status: Completed**
-
-Week 08 focused on predictive analytics for demand forecasting, inventory planning, stockout risk prediction, reorder point optimisation, safety stock calculation, and scenario-based inventory forecasting.
-
-#### Work Completed
-
-- Developed product demand forecasting.
-- Developed inventory level forecasting.
-- Implemented stockout risk prediction.
-- Optimised reorder points using demand and lead-time information.
-- Calculated recommended safety stock using demand variability and product criticality.
-- Developed scenario-based inventory forecasting.
-- Generated predictive analytics summary metrics.
-- Validated Week 08 analytical outputs.
-
-#### Week 08 Scripts
-
--  1_product_demand_forecasting.py - Product demand forecasting
--  2_inventory_level_forecasting.py - Inventory level forecasting
--  3_stockout_risk_prediction.py - Stockout risk prediction
--  4_reorder_point_optimization.py - Reorder point optimisation
--  5_safety_stock_calculation.py - Safety stock calculation
--  6_scenario_inventory_forecasting.py - Scenario-based inventory forecasting
--  7_week08_summary.py - Week 08 predictive analytics summary
-
-#### Week 08 Outputs
-
-- product_demand_forecasting.csv`n- inventory_level_forecasting.csv`n- stockout_risk_prediction.csv`n- eorder_point_optimization.csv`n- safety_stock_calculation.csv`n- scenario_inventory_forecasting.csv`n- week08_predictive_analytics_summary.csv`n
-### Project Status
-
-| Week | Status |
-|---|---|
-| Week 01 | Completed |
-| Week 02 | Completed |
-| Week 03 | Completed |
-| Week 04 | Completed |
-| Week 05 | Completed |
-| Week 06 | Completed |
-| Week 07 | Completed |
-| Week 08 | Completed |
-
-## Current Project Status: Week 08 Completed - Ready for the next sprint
+Current Phase: Week 08 – Predictive Analytics
