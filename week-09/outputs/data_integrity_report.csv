@@ -1,0 +1,10 @@
+column_name,data_type,total_records,missing_count,missing_percentage,empty_string_count,negative_value_count,unique_values,data_quality_status
+movement_id,str,237230,0,0.0,0,0,237230,OK
+product_id,str,237230,0,0.0,0,0,30,OK
+branch_id,str,237230,0,0.0,0,0,6,OK
+movement_type,str,237230,0,0.0,0,0,3,OK
+movement_date,str,237230,0,0.0,0,0,2218,OK
+quantity,int64,237230,0,0.0,0,0,300,OK
+reference_type,str,237230,0,0.0,0,0,3,OK
+reference_id,str,237230,0,0.0,0,0,43709,OK
+running_balance,int64,237230,0,0.0,0,0,98171,OK
