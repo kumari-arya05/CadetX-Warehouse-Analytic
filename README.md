@@ -459,3 +459,64 @@ Program: CadetX Virtual Work Experience Program
 Project: Warehouse & Supply Chain Analytics
 
 Current Phase: Week 08 – Predictive Analytics
+---
+
+# Week 09 – Risk, Anomaly & Control Analytics
+
+## Status: Completed
+
+### Week 09 Objectives
+- Inventory Movement Anomaly Detection
+- Stock Shrinkage Detection
+- Operational Risk Monitoring
+- Data Integrity & Error Detection
+
+### Analyses Completed
+
+#### 1. Inventory Movement Anomaly Detection
+- Detected unusual inventory movements using statistical thresholds.
+- Calculated anomaly scores.
+- Classified inventory records as Normal or Anomaly.
+
+**Output:** `week-09/outputs/inventory_movement_anomalies.csv`
+
+#### 2. Stock Shrinkage Detection
+- Identified negative stock balances.
+- Detected potential low-stock/shrinkage indicators.
+- Calculated shrinkage risk scores.
+- Classified potential shrinkage into Low, Medium and High risk.
+
+**Output:** `week-09/outputs/stock_shrinkage_analysis.csv`
+
+#### 3. Operational Risk Monitoring
+- Monitored negative stock conditions.
+- Identified unusual inventory movements.
+- Detected low/zero stock conditions.
+- Generated operational risk classifications and risk reasons.
+
+**Output:** `week-09/outputs/operational_risk_monitoring.csv`
+
+#### 4. Data Integrity & Error Detection
+- Checked missing values.
+- Checked duplicate records.
+- Checked empty string values.
+- Checked negative numeric values.
+- Generated data quality and integrity reports.
+
+**Outputs:**
+- `week-09/outputs/data_integrity_report.csv`
+- `week-09/outputs/data_integrity_summary.csv`
+
+### Week 09 Tools
+- Python
+- Pandas
+- NumPy
+- Statistical Analysis
+- Anomaly Detection
+- Risk Analysis
+- Data Quality Analysis
+
+### Week 09 Conclusion
+
+Week 09 extends the warehouse analytics project into risk, anomaly and control analytics. The completed analyses help identify unusual inventory movements, potential stock shrinkage, operational risks and data integrity issues.
+
