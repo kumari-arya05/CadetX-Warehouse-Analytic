@@ -520,3 +520,32 @@ Current Phase: Week 08 – Predictive Analytics
 
 Week 09 extends the warehouse analytics project into risk, anomaly and control analytics. The completed analyses help identify unusual inventory movements, potential stock shrinkage, operational risks and data integrity issues.
 
+
+## Week 10 – Inventory Analytics Dashboard
+
+### Objective
+Develop an interactive Streamlit dashboard for warehouse inventory analytics.
+
+### Work Completed
+- Created Week-10 dashboard structure.
+- Integrated Week-09 analytical CSV outputs.
+- Added inventory analytics dashboard using Python, Pandas and Streamlit.
+- Added dataset selection and data preview.
+- Added row count, column count and missing value metrics.
+- Added column summary for selected datasets.
+- Added dashboard screenshot.
+
+### Tools Used
+- Python
+- Pandas
+- Streamlit
+- CSV
+- Git and GitHub
+
+### Run Dashboard
+
+python -m streamlit run week-10/dashboard/inventory_dashboard.py
+
+### Status
+Week-10 Inventory Analytics Dashboard completed successfully.
+
