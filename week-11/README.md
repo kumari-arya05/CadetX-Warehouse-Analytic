@@ -15,4 +15,4 @@
 - Git and GitHub
 
 ## Status
-In Progress
+Completed
