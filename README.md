@@ -549,3 +549,36 @@ python -m streamlit run week-10/dashboard/inventory_dashboard.py
 ### Status
 Week-10 Inventory Analytics Dashboard completed successfully.
 
+
+---
+
+## Week 11: Business Intelligence & KPI Dashboard
+
+### Objectives
+- Created business intelligence dashboards
+- Defined important warehouse KPIs
+- Analyzed inventory, supplier, sales, and warehouse performance
+- Prepared data for dashboard visualization
+
+### Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Git and GitHub
+
+### Dashboards Created
+- Executive KPI Dashboard
+- Inventory Health Dashboard
+- Product Performance Dashboard
+- Supplier Performance Dashboard
+- Branch Inventory Dashboard
+
+### Project Files
+- [Week 11 Dashboard Files](./week-11/dashboards)
+- [Week 11 Output Files](./week-11/outputs)
+- [Week 11 Python Scripts](./week-11/scripts)
+- [Week 11 README](./week-11/README.md)
+
+### Status
+Completed
