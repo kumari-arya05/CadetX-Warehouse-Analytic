@@ -1,9 +1,10 @@
-KPI,Value
-Products,30
-Inventory Records,180
-Sales Order Lines,130402
-Suppliers,8
-Branches,6
-Customers,500
-Total Units Sold,1368534
-Total Sales Value,25447392560
+KPI,Value,Unit
+Total Products,30,Count
+Total Inventory Records,180,Count
+Total Sales Order Lines,130402,Count
+Total Suppliers,8,Count
+Total Branches,6,Count
+Total Customers,500,Count
+Total Units Sold,1368534,Units
+Total Sales Value,25447392560,Currency
+Total Current Stock,19303266,Units

@@ -1,6 +1,6 @@
 Dashboard,Source File,Recommended Visual
 Executive KPI Dashboard,week11_kpi_summary.csv,KPI Cards
-Product Performance,product_performance_dashboard.csv,Bar Chart
-Inventory Health,inventory_status_summary.csv,Donut Chart / Bar Chart
-Supplier Performance,supplier_performance_dashboard.csv,Supplier Ranking
-Branch Inventory,branch_inventory_dashboard.csv,Branch Comparison
+Product Performance,product_performance_dashboard.csv,Top 10 Products Bar Chart
+Inventory Health,inventory_status_summary.csv,Stock Status Bar Chart
+Supplier Performance,supplier_performance_dashboard.csv,Supplier Ranking Chart
+Branch Inventory,branch_inventory_dashboard.csv,Branch Inventory Chart
