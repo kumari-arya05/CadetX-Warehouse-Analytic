@@ -1,0 +1,10 @@
+KPI,Value,Unit,Recommendation
+Total Products,30,Count,Maintain a structured product master and regularly review product-level performance.
+Total Inventory Records,180,Count,Monitor inventory records regularly to maintain accurate stock visibility and data quality.
+Total Sales Order Lines,130402,Count,Use sales order trends to identify high-demand products and support inventory planning.
+Total Suppliers,8,Count,Monitor supplier performance and dependency to improve procurement reliability.
+Total Branches,6,Count,Compare branch-level performance to identify operational differences and improvement opportunities.
+Total Customers,500,Count,Use customer-level sales patterns to support segmentation and targeted business decisions.
+Total Units Sold,1368534,Units,Track unit sales trends to identify demand patterns and improve replenishment planning.
+Total Sales Value,25447392560,Currency,"Monitor sales value regularly and connect revenue trends with product, customer, and branch performance."
+Total Current Stock,19303266,Units,Monitor current inventory against demand to reduce excess stock and potential stockout risk.

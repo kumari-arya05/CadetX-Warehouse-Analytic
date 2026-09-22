@@ -1,0 +1,10 @@
+KPI,Value,Unit,Insight
+Total Products,30,Count,Total Products: 30 Count
+Total Inventory Records,180,Count,Total Inventory Records: 180 Count
+Total Sales Order Lines,130402,Count,Total Sales Order Lines: 130402 Count
+Total Suppliers,8,Count,"The business works with 8 suppliers, supporting procurement and supply operations."
+Total Branches,6,Count,"The analysis covers 6 branches, providing a multi-branch operational view."
+Total Customers,500,Count,"The dataset contains 500 customers, representing the customer base included in the analysis."
+Total Units Sold,1368534,Units,"Total units sold are 1368534 Units, representing overall sales volume."
+Total Sales Value,25447392560,Currency,"Total sales value recorded is 25447392560 Currency, providing an overall view of business sales performance."
+Total Current Stock,19303266,Units,"Current inventory stands at 19303266 Units, indicating the total stock available across the warehouse network."
